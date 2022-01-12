@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Jan 2022 21:10:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 131.log : KT 망 장애 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/96</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/96</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211210_247/1639131090019ot8Mk_JPEG/44bits-131-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 130.log : 제주도 원격 오피스, 42seoul 행사 참석 후기 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/95</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/95</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211121_264/1637505441880sKOei_JPEG/44bits-130-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 129.log : 특집 도커 데스크탑 유료화 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/94</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/94</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211121_25/16375050964439n19O_JPEG/44bits-129-log-sq.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 128.log : Docker Desktop 유료화 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/93</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/93</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211121_219/1637504881160hupp7_JPEG/44bits-128-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 127.log : GeekNews Show, 당근 SRE Meetup, Amazon Memory (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/92</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/92</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 126.log : 도커 서울 밋업 종료, 파이어폭스 사용자 감소, 스택오버플로 2021 설문조사 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/91</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/91</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 125.log : 쿠버네티스 책 신간, 젯브레인 Projector 출시, 윈도우 365 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/90</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/90</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 124.log : Microsoft Edge, 윈도우 11 발표 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/89</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/89</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 123.log : tailscale VPN, 판교 부동산 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/88</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/88</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 122.log : AWS GameDay 후기 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/87</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/87</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 키워드 - 뉴스 톱 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1697</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1697</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210924_195/1632464163686yERkT_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 디지털 성범죄 피해를 막는 빅데이터 기술 ! (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1696</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1696</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210923_147/1632379493492ioKts_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(3) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1694</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1694</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210922_57/1632282295382Ipdzj_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(2) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1695</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210922_170/1632282295682Sk7zA_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1693</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1693</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 키워드 - 뉴스 톱 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1692</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1692</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 카카오, 택시 유료호출 폐지 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1691</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1691</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 탑골 예능 ! (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1690</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1690</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 코로나 시대의 ‘집콕 추석’ (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1689</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1689</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 트렌드란 무엇인가? (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1688</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1688</guid>
+            <pubDate>Wed, 12 Jan 2022 21:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임 공약으로 '2030' 잡아라…기업 CEO 리스크 대비해야 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/597</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/597</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220112_222/1641973506676UEed3_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 대출 숨통 트이나…연말정산 네이버·카카오 인증서로 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/596</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/596</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220111_254/1641886583534LFCuN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[경제 유튜버 전성시대…아이팟 셔플 인기 역주행 왜? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/594</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/594</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_173/16418014267318LSfF_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[몸집 불린 SK, ICT에 승부수…카멜레온 전기차 나왔다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/593</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/593</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_280/1641740800923ybCmH_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스는 이 영상 하나면 정리됩니다 [Metaverse 101] (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/592</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/592</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타 독자 VR 운영체제 개발 중단… 소니도 전기차를? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/591</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/591</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대차·삼성 CES 2022 총출동…가상자산 과세 헛점 투성이 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/590</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/590</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG, CES 어떤 제품 선보이나…애플 3조달러 기업 등극 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/589</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/589</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새해에도 애플·테슬라 쌍끌이 전망… 설 기차표 예매일 떴다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/588</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/588</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5G 가입자 2000만명 돌파…3일부터 방역패스 적용 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/587</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/587</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/49</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/49</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20180222_261/1519281851999wdtpe_PNG/thegear_01.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쫄지마 IT - 스페이스 X (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/48</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/48</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20180207_265/1517994791795lpTK6_PNG/thegear_01.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 애플이 잃게 될 가장 큰 자산은? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/47</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/47</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20180104_80/1515051252173CHLB8_PNG/thegear_01.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 IT 이슈 베스트 10 (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/46</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/46</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20171221_159/1513819036193VnS9W_PNG/thegear_01.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 비트코인 광풍, 어디까지인가? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/45</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/45</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 샤오미, 세계 최대 규모의 상장 성공할까? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/44</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/44</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 애플에 대한 언론의 융단폭격, 정당한가? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/42</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/42</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 망중립성 논란, 속 시원히 풀어드립니다. (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/41</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/41</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 네이버와 구글 대표끼리의 디스전. 응원합니다 (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/40</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/40</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금주의 IT - 인류 역사상 가장 비싼 인수합병, 성사될까? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
+            <link>https://audioclip.naver.com/channels/102/clips/39</link>
+            <guid>https://audioclip.naver.com/channels/102/clips/39</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[113회. 게임업계의 NFT 사업진출_2부_NFT의 게임적용 사례, 위메이드 미르4 사례 분석. (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/124</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/124</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220109_164/1641706790084B89nE_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[112회. 게임업계의 NFT 사업진출_1부_NFT의 정의, 장단점, 시장규모 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/123</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/123</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220109_108/1641706611254GRTyH_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[111회. 모바일미래보고서2022_CBDC와 디지털금융_2부-CBDC 도입의 영향,CBDC와 블록체인,기타 법적쟁점 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/120</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/120</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211225_114/1640427497137ox0Fs_PNG/CBDC.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[110회. 모바일미래보고서2022_CBDC와 디지털금융_1부-CBDC의 정의,도입배경,중국의 CBDC,한국 추진현황 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/119</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/119</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211225_185/1640427313056DSb4J_PNG/CBDC.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[109회. 모바일미래보고서2022_AI_2부-데이터레이크,데이터라벨링,초거대AI,GPT-3 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/118</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/118</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[108회. 모바일미래보고서2022_AI_1부-AICC,공연,팻테크 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/117</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/117</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[107회. 모바일미래보고서2022_스트리밍_3부-새로운 형태의 스트리밍(원격의료,게임스트리밍,업스트리밍) (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/116</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/116</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[106회. 모바일미래보고서2022_스트리밍_2부-양방향 스트리밍(줌,클럽하우스,라이브커머스,온라인콘서트 등) (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/115</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/115</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[105회. 모바일미래보고서2022_스트리밍_1부-단방향 스트리밍(넷플릭스, 디플, 스포티파이 등) (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/114</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/114</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[104회. 모바일미래보고서2022_메타버스 2부-XR, 사전시각화, 디지털의상, 게더타운 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/113</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/113</guid>
+            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
