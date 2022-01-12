@@ -1,0 +1,49 @@
+[44bits]
+title = "오디오클립 ─ 44bits 팟캐스트"
+url = "https://audioclip.naver.com/channels/1807"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[kbs_bigdata]
+title = "오디오클립 ─ KBS 빅데이터로 보는 세상"
+url = "https://audioclip.naver.com/channels/1168"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[digitaltoday_ittoday]
+title = "오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽"
+url = "https://audioclip.naver.com/channels/3508"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[thegear]
+title = "오디오클립 ─ 더기어의 쫄지마 IT"
+url = "https://audioclip.naver.com/channels/102"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[cnlab]
+title = "오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​"
+url = "https://audioclip.naver.com/channels/2394"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
