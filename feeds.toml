@@ -57,3 +57,13 @@ linkSelector = "a.end_player_title"
 contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
+
+[startupall]
+title = "오디오클립 ─ 스타트업얼라이언스"
+url = "https://audioclip.naver.com/channels/1729"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
