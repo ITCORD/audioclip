@@ -8,6 +8,16 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
+[data-intelligence]
+title = "오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기"
+url = "https://audioclip.naver.com/channels/471"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
 [kbs_bigdata]
 title = "오디오클립 ─ KBS 빅데이터로 보는 세상"
 url = "https://audioclip.naver.com/channels/1168"
