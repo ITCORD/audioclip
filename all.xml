@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 20:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 21:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플 AR 헤드셋 올해 나올까? 17일부터 사적모임 6명 가능 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/599</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/599</guid>
+            <pubDate>Sun, 16 Jan 2022 21:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220116_150/1642337658659GuUDV_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[전기차 배터리 교체 방식은 성공할 수 있을까? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/598</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/598</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/596</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220111_254/1641886583534LFCuN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경제 유튜버 전성시대…아이팟 셔플 인기 역주행 왜? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -367,13 +374,6 @@
             <title><![CDATA[현대차·삼성 CES 2022 총출동…가상자산 과세 헛점 투성이 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/590</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/590</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성·LG, CES 어떤 제품 선보이나…애플 3조달러 기업 등극 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/589</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/589</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
