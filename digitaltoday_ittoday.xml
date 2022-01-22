@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 23:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 00:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디지털피디아] 피지털! 디지털? 피지컬?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/604</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/604</guid>
+            <pubDate>Sat, 22 Jan 2022 00:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220120_286/1642665692251RSAeN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오 돌파구는 메타버스? 코로나19 재택근무 생산성 오히려↑]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/603</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/600</guid>
             <pubDate>Mon, 17 Jan 2022 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220117_236/1642405548805dBYKT_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플 AR 헤드셋 올해 나올까? 17일부터 사적모임 6명 가능]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/596</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경제 유튜버 전성시대…아이팟 셔플 인기 역주행 왜?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/594</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/594</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
