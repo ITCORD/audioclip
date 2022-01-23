@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 06:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -452,6 +452,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[115회. NFT의 현재와 사업적 평가_2부_NFT적용목적,사업적 평가,시사점 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/126</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/126</guid>
+            <pubDate>Sun, 23 Jan 2022 06:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220123_186/1642915072762qeKpM_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[114회. NFT의 현재와 사업적 평가_1부_NFT현황,국내외 반응,규제당국 반응 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/125</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/125</guid>
+            <pubDate>Sun, 23 Jan 2022 06:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220123_61/1642914905231CPF96_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[113회. 게임업계의 NFT 사업진출_2부_NFT의 게임적용 사례, 위메이드 미르4 사례 분석. (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
             <link>https://audioclip.naver.com/channels/2394/clips/124</link>
             <guid>https://audioclip.naver.com/channels/2394/clips/124</guid>
@@ -473,7 +489,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/120</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211225_114/1640427497137ox0Fs_PNG/CBDC.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[110회. 모바일미래보고서2022_CBDC와 디지털금융_1부-CBDC의 정의,도입배경,중국의 CBDC,한국 추진현황 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
@@ -481,7 +496,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/119</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211225_185/1640427313056DSb4J_PNG/CBDC.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[109회. 모바일미래보고서2022_AI_2부-데이터레이크,데이터라벨링,초거대AI,GPT-3 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
@@ -510,20 +524,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/115</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[105회. 모바일미래보고서2022_스트리밍_1부-단방향 스트리밍(넷플릭스, 디플, 스포티파이 등) (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/114</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/114</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[104회. 모바일미래보고서2022_메타버스 2부-XR, 사전시각화, 디지털의상, 게더타운 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/113</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/113</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[오스페이스] 12화 - 온라인 재부캠 비하인드 스토리 (오디오클립 ─ 스타트업얼라이언스)]]></title>
