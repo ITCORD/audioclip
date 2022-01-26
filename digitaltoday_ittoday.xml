@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 20:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 21:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시 S22 다음달 10일 공개…GM 전기차 올-인]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/608</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/608</guid>
+            <pubDate>Wed, 26 Jan 2022 21:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220126_59/1643183142367yflEj_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[암호화폐 시장 '와르르' 불구 NFT는 '훨훨']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/607</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/604</guid>
             <pubDate>Sat, 22 Jan 2022 00:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220120_286/1642665692251RSAeN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오 돌파구는 메타버스? 코로나19 재택근무 생산성 오히려↑]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/599</guid>
             <pubDate>Sun, 16 Jan 2022 21:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전기차 배터리 교체 방식은 성공할 수 있을까?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/598</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/598</guid>
-            <pubDate>Sat, 15 Jan 2022 00:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
 </rss>
