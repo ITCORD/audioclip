@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 20:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 21:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·LG 실적 '훨훨'…단군이래 최대어라던 LG엔솔, 초라한 성적표]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/609</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/609</guid>
+            <pubDate>Thu, 27 Jan 2022 21:06:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220127_133/1643269760713hyk9o_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시 S22 다음달 10일 공개…GM 전기차 올-인]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/608</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/605</guid>
             <pubDate>Sun, 23 Jan 2022 21:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220123_112/1642943569208BflB6_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 피지털! 디지털? 피지컬?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/600</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/600</guid>
             <pubDate>Mon, 17 Jan 2022 21:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플 AR 헤드셋 올해 나올까? 17일부터 사적모임 6명 가능]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/599</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/599</guid>
-            <pubDate>Sun, 16 Jan 2022 21:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
