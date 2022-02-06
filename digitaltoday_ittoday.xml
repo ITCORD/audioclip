@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 20:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 21:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시 S22 출고가 얼마? 신규확진 4만명 근접]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/614</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/614</guid>
+            <pubDate>Sun, 06 Feb 2022 21:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220206_186/1644152465132azWzP_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[PBV 목적기반차량, 새로운 모빌리티의 솔루션일까?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/613</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/610</guid>
             <pubDate>Sat, 29 Jan 2022 00:24:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220127_204/1643269933402OuVAn_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG 실적 '훨훨'…단군이래 최대어라던 LG엔솔, 초라한 성적표]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/605</guid>
             <pubDate>Sun, 23 Jan 2022 21:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디지털피디아] 피지털! 디지털? 피지컬?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/604</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/604</guid>
-            <pubDate>Sat, 22 Jan 2022 00:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
