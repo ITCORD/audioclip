@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 20:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 21:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연초부터 불안한 세계 경제…연 9% 금리 청년희망적금 출시]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/615</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/615</guid>
+            <pubDate>Mon, 07 Feb 2022 21:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220207_289/1644221452272TA6Ws_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시 S22 출고가 얼마? 신규확진 4만명 근접]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/614</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/611</guid>
             <pubDate>Wed, 02 Feb 2022 21:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220202_32/1643804513333mAuV1_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 치킨파이트! 벼랑 끝 전술?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/606</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/606</guid>
             <pubDate>Mon, 24 Jan 2022 21:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[美 긴축 정책에 글로벌 증시 '휘청'…LG엔솔 따상 가나]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/605</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/605</guid>
-            <pubDate>Sun, 23 Jan 2022 21:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
