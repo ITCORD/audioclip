@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 21:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[상상초월 기념화폐 세계…애플 '탭 투 페이' 선봬 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/617</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/617</guid>
+            <pubDate>Wed, 09 Feb 2022 21:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220209_127/1644384294237t9js4_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[대출 사업 늘리는 인터넷 은행…현대차 日시장 재진출 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/616</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/616</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/613</guid>
             <pubDate>Sat, 05 Feb 2022 00:23:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220204_242/1643958751607rDUl6_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%C2%F7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타·구글 핵심 사업 '휘청'…코란도 전기차 나왔다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/608</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/608</guid>
             <pubDate>Wed, 26 Jan 2022 22:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암호화폐 시장 '와르르' 불구 NFT는 '훨훨' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/607</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/607</guid>
-            <pubDate>Tue, 25 Jan 2022 21:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
