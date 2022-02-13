@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 08:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 09:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[117회. 커넥팅랩 관점으로 보는 CES2022_2부_주요키워드 4가지(Space,ESG,Safety), 향후전망]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/128</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/128</guid>
+            <pubDate>Sun, 13 Feb 2022 09:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220213_255/16447420356883k5Hx_PNG/CES2022.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[116회. 커넥팅랩 관점으로 보는 CES2022_1부_CES의 의의, 주요키워드 4가지(Connectivity)]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/127</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/127</guid>
+            <pubDate>Sun, 13 Feb 2022 09:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220213_239/16447418461929g6Xp_PNG/CES2022.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[115회. NFT의 현재와 사업적 평가_2부_NFT적용목적,사업적 평가,시사점]]></title>
             <link>https://audioclip.naver.com/channels/2394/clips/126</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/124</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220109_164/1641706790084B89nE_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[112회. 게임업계의 NFT 사업진출_1부_NFT의 정의, 장단점, 시장규모]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/123</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220109_108/1641706611254GRTyH_PNG/NFT.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[111회. 모바일미래보고서2022_CBDC와 디지털금융_2부-CBDC 도입의 영향,CBDC와 블록체인,기타 법적쟁점]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/117</guid>
             <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[107회. 모바일미래보고서2022_스트리밍_3부-새로운 형태의 스트리밍(원격의료,게임스트리밍,업스트리밍)]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/116</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/116</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[106회. 모바일미래보고서2022_스트리밍_2부-양방향 스트리밍(줌,클럽하우스,라이브커머스,온라인콘서트 등)]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/115</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/115</guid>
-            <pubDate>Wed, 12 Jan 2022 21:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
