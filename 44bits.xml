@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 11:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 12:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 135.log : AWS re:Invent 참가 후기, HashiCorp 상장]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/101</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/101</guid>
+            <pubDate>Tue, 15 Feb 2022 12:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220215_173/1644924461183BwwFT_JPEG/44bits-135-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 134.log : AWS re:Invent 2021, 마켓컬리 프리 IPO]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/100</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/96</guid>
             <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211210_247/1639131090019ot8Mk_JPEG/44bits-131-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 130.log : 제주도 원격 오피스, 42seoul 행사 참석 후기]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/91</guid>
             <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 125.log : 쿠버네티스 책 신간, 젯브레인 Projector 출시, 윈도우 365]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/90</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/90</guid>
-            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
     </channel>
 </rss>
