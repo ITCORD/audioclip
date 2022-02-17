@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 20:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 뜨는 NFT 마케팅 확산…금융부터 통신·식품업계까지]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/624</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/624</guid>
+            <pubDate>Thu, 17 Feb 2022 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220217_178/1645081832805nTpNH_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자율주행 성패 열쇠는 데이터…코로나 확진자 10만명 근접]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/623</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/620</guid>
             <pubDate>Sun, 13 Feb 2022 21:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220213_160/1644758657654Tyv7I_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 그린워싱, 겉으로만 친환경은 아닌지 꼭 보자!]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/615</guid>
             <pubDate>Mon, 07 Feb 2022 21:07:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 S22 출고가 얼마? 신규확진 4만명 근접]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/614</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/614</guid>
-            <pubDate>Sun, 06 Feb 2022 21:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
