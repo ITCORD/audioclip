@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 20:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 21:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플 올해 신제품 봇물…NFT는 가상자산인가? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/627</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/627</guid>
+            <pubDate>Mon, 21 Feb 2022 21:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220221_176/16454284991983vIBQ_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[웹툰 영화·드라마화 활발…지자체 전기차 보조금 나왔다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/626</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/626</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/623</guid>
             <pubDate>Wed, 16 Feb 2022 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220216_277/16449952532333x4Bt_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[불붙은 인뱅 vs 시중은행 대출戰, 갤럭시S22 울트라 인기 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/618</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/618</guid>
             <pubDate>Thu, 10 Feb 2022 21:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상상초월 기념화폐 세계…애플 '탭 투 페이' 선봬 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/617</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/617</guid>
-            <pubDate>Wed, 09 Feb 2022 21:07:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
