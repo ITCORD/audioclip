@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 20:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 21:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라 사태發 사이버戰 '후끈'…국내 가상자산 규모 55조원]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/633</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/633</guid>
+            <pubDate>Tue, 01 Mar 2022 21:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220301_71/1646138591684F9YR4_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뜨거운 감자 '메타버스'…우크라이나戰 유가 들썩]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/632</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/629</guid>
             <pubDate>Wed, 23 Feb 2022 21:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220223_229/1645603095218g4CDm_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트럼프 SNS 나왔다…한국 근로자가 가장 선호하는 근무제는?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/624</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/624</guid>
             <pubDate>Thu, 17 Feb 2022 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자율주행 성패 열쇠는 데이터…코로나 확진자 10만명 근접]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/623</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/623</guid>
-            <pubDate>Wed, 16 Feb 2022 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>

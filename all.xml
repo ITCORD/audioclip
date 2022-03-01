@@ -4,83 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 20:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 21:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[23회] 인텔의 현재 문제점과 전망, Elastic과 AWS의 대립 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/24</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/24</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210128_26/16118306752726WNq3_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[22회] 회의도, 데드라인도, 풀타임 직원도 없는 회사 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/23</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/23</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210121_228/16112352800662EF3l_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[21회] 내가 소프트웨어 업계에서 45년간 배운 것, 돈내고 써도 만족스러운 SaaS들 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/21</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/21</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210115_226/1610706226484IsQN3_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[20회] M1은 RISC-V의 상승을 예고, .ORG를 구한 방법, Hotwire (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/20</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/20</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201231_258/1609340712034121bD_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[19회] FT의 데이터플랫폼 구축기, 슬랙의 Vitess 도입기,2021년 기술업계 예상 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/19</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/19</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[18회] 내가 2020년에 배운 52가지, 프론트엔드 체크리스트, Typesense (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/18</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/18</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[17회] M1칩이 빠른이유, Times 선정 최고의 발명품, Stripe Treasury (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/17</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/17</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[16회] Data Discovery Platform의 모든것, Reddit 활용하기 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/16</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/16</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[15회] DMCA와 GitHub의 Youtube-dl복원, 앱스토어 수수료 15% 인하 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/15</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/15</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[14회] 실패하지 않는 뉴욕타임스, 애플M1칩과 차세대 Mac (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
-            <link>https://audioclip.naver.com/channels/5505/clips/14</link>
-            <guid>https://audioclip.naver.com/channels/5505/clips/14</guid>
-            <pubDate>Sat, 12 Feb 2022 19:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 137.log : Full Cycle Developers at Netflix (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/103</link>
@@ -304,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라 사태發 사이버戰 '후끈'…국내 가상자산 규모 55조원 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/633</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/633</guid>
+            <pubDate>Tue, 01 Mar 2022 21:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220301_71/1646138591684F9YR4_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뜨거운 감자 '메타버스'…우크라이나戰 유가 들썩 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/632</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/632</guid>
@@ -333,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/629</guid>
             <pubDate>Wed, 23 Feb 2022 21:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220223_229/1645603095218g4CDm_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트럼프 SNS 나왔다…한국 근로자가 가장 선호하는 근무제는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +301,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/624</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/624</guid>
             <pubDate>Thu, 17 Feb 2022 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자율주행 성패 열쇠는 데이터…코로나 확진자 10만명 근접 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/623</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/623</guid>
-            <pubDate>Wed, 16 Feb 2022 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
