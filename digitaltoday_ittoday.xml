@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 20:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 21:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창업자 떠난 넥슨 어디로? 빅테크, 대러시아 제재 동참]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/634</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/634</guid>
+            <pubDate>Wed, 02 Mar 2022 21:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220302_72/16462073238128JhuP_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우크라 사태發 사이버戰 '후끈'…국내 가상자산 규모 55조원]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/633</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/630</guid>
             <pubDate>Thu, 24 Feb 2022 21:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_286/1645688083171gV0Vh_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔터 업계 부는 NFT 바람…택시 합승 '글쎄']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/625</guid>
             <pubDate>Sat, 19 Feb 2022 00:33:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 NFT 마케팅 확산…금융부터 통신·식품업계까지]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/624</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/624</guid>
-            <pubDate>Thu, 17 Feb 2022 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
