@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 00:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디지털피디아] 게임하면서 돈을 벌자! P2E 게임이란?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/636</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/636</guid>
+            <pubDate>Sat, 05 Mar 2022 00:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220304_236/1646378606162ECWNV_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 3월 8일 신제품 발표…코인 착오송금 대처 어떻게?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/635</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/632</guid>
             <pubDate>Sun, 27 Feb 2022 21:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220227_259/1645964365609WOvok_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 잎한장에 백만원? 식물로 재테크 가능?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/627</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/627</guid>
             <pubDate>Mon, 21 Feb 2022 21:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웹툰 영화·드라마화 활발…지자체 전기차 보조금 나왔다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/626</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/626</guid>
-            <pubDate>Sun, 20 Feb 2022 21:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
