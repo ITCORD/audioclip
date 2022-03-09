@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 20:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 21:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 신제품 어떤 것들이 나왔나? 대선 이후 금융위기 우려]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/639</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/639</guid>
+            <pubDate>Wed, 09 Mar 2022 21:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220309_172/1646825790390pmixi_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[암호화폐 거래소 트래블룰이 뭐야? 애플 신제품 어떤게 나오나]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/638</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/635</guid>
             <pubDate>Thu, 03 Mar 2022 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220303_38/1646294257341uNESe_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[창업자 떠난 넥슨 어디로? 빅테크, 대러시아 제재 동참]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/630</guid>
             <pubDate>Thu, 24 Feb 2022 21:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔터 업계 부는 NFT 바람…택시 합승 '글쎄']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/629</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/629</guid>
-            <pubDate>Wed, 23 Feb 2022 21:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
