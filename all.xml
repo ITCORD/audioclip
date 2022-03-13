@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 02:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 02:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[44bits 팟캐스트 139.log : 44bits 운영, faker-js 이슈, AngularJS 지원 종료 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/105</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/105</guid>
+            <pubDate>Sun, 13 Mar 2022 02:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220313_18/1647138281595qzHep_JPEG/44bits-139-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[44bits 팟캐스트 138.log : "내 트리를 꾸며줘" 개발 이야기 - 산타파이브 팀 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/104</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/104</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/101</guid>
             <pubDate>Tue, 15 Feb 2022 12:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220215_173/1644924461183BwwFT_JPEG/44bits-135-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 134.log : AWS re:Invent 2021, 마켓컬리 프리 IPO (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/95</guid>
             <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 129.log : 특집 도커 데스크탑 유료화 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/94</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/94</guid>
-            <pubDate>Wed, 12 Jan 2022 21:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
