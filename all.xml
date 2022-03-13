@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 20:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 21:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[삼성, 갤럭시A 언팩 연다…아이폰SE와 맞대결 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/642</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/642</guid>
+            <pubDate>Sun, 13 Mar 2022 21:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220313_20/1647174105248lqXqK_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[디지털피디아] 아무것도 안했는데 해킹이 된다고? 제로클릭해킹 등장?? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/641</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/641</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/638</guid>
             <pubDate>Mon, 07 Mar 2022 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220307_196/16466389978796zcx2_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전기차 소니·혼다 뭉쳤다…물적분할 주주보호정책 밝혀야 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/633</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/633</guid>
             <pubDate>Tue, 01 Mar 2022 21:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 감자 '메타버스'…우크라이나戰 유가 들썩 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/632</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/632</guid>
-            <pubDate>Sun, 27 Feb 2022 21:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
