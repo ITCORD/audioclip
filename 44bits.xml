@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 142.log : 애플 신제품 이벤트 - M1 Ultra, 맥 스튜디오]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/108</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/108</guid>
+            <pubDate>Sun, 13 Mar 2022 06:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220313_33/16471510793735uGfF_JPEG/44bits-142-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 141.log : State of JavaScript 설문, 구글 맵 타임라인]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/107</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/107</guid>
+            <pubDate>Sun, 13 Mar 2022 06:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220313_46/1647148916026XwDVX_JPEG/44bits-141-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 140.log : 대선후보 홈페이지, AWS와 ElasticSearch 합의]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/106</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/104</guid>
             <pubDate>Sat, 12 Mar 2022 18:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_277/16471058604184HnQX_JPEG/44bits-138-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 137.log : Full Cycle Developers at Netflix]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/103</guid>
             <pubDate>Fri, 25 Feb 2022 14:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_79/1645795341037PsmQH_JPEG/44bits-136-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 136.log : Log4j 취약점, Slack & AWS 장애]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/99</guid>
             <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 132.log : KT 망 장애 보고서, 집에 UPS 운영 경험]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/97</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/97</guid>
-            <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 131.log : KT 망 장애]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/96</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/96</guid>
-            <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
     </channel>
 </rss>
