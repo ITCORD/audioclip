@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 21:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플카 2025년에는 나올까? 테슬라, 슬금슬금 가격 인상]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/645</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/645</guid>
+            <pubDate>Wed, 16 Mar 2022 21:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220316_45/1647416008463Apb1B_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마스크 쓰고도 아이폰 잠금해제, 음악CD 판매량 늘었다]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/644</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/641</guid>
             <pubDate>Sat, 12 Mar 2022 00:32:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220311_252/1646985497127yOL32_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[막 오른 윤석열 정부, ICT·가상자산 정책 향방은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/636</guid>
             <pubDate>Sat, 05 Mar 2022 00:35:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플, 3월 8일 신제품 발표…코인 착오송금 대처 어떻게?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/635</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/635</guid>
-            <pubDate>Thu, 03 Mar 2022 21:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
