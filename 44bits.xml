@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 13:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 14:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 143.log : DevOps 안내서, subicura 님의 미국 체류기]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/109</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/109</guid>
+            <pubDate>Sun, 20 Mar 2022 14:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220320_255/1647784560860hdIdC_JPEG/44bits-143-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 142.log : 애플 신제품 이벤트 - M1 Ultra, 맥 스튜디오]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/108</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/105</guid>
             <pubDate>Sun, 13 Mar 2022 02:31:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_18/1647138281595qzHep_JPEG/44bits-139-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 138.log : "내 트리를 꾸며줘" 개발 이야기 - 산타파이브 팀]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/100</guid>
             <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 133.log : KT 구로 영등포 광케이블 절단, GitHub 키 알고리즘 업데이트]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/99</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/99</guid>
-            <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
         </item>
     </channel>
 </rss>
