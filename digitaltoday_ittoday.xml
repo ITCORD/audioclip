@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 20:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스·카카오뱅크·케이뱅크가 벌이는 인터넷은행 삼국지]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/649</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/649</guid>
+            <pubDate>Mon, 21 Mar 2022 21:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220321_243/164784875531255TSk_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성능이냐 카메라냐? 아이폰SE vs 갤럭시A53]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/648</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/645</guid>
             <pubDate>Wed, 16 Mar 2022 21:10:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220316_45/1647416008463Apb1B_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마스크 쓰고도 아이폰 잠금해제, 음악CD 판매량 늘었다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/640</guid>
             <pubDate>Thu, 10 Mar 2022 21:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플 신제품 어떤 것들이 나왔나? 대선 이후 금융위기 우려]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/639</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/639</guid>
-            <pubDate>Wed, 09 Mar 2022 21:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
