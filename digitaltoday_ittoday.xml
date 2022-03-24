@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 20:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 21:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 트래블룰 무엇? 제네시스, 아이폰으로 문 연다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/652</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/652</guid>
+            <pubDate>Thu, 24 Mar 2022 21:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220324_270/1648107442821f9Vps_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[투자 시장 봄날 오나…코로나19 확진자 1000만명 시대]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/651</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/648</guid>
             <pubDate>Sun, 20 Mar 2022 21:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220320_112/16477874236090XMBb_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 삼성 GOS논란! 대체 뭐길래!??]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/643</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/643</guid>
             <pubDate>Mon, 14 Mar 2022 21:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 갤럭시A 언팩 연다…아이폰SE와 맞대결]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/642</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/642</guid>
-            <pubDate>Sun, 13 Mar 2022 21:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
