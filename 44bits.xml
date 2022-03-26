@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 15:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 16:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 144.log : 팟캐스트 운영, 3D 프린터]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/110</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/110</guid>
+            <pubDate>Sat, 26 Mar 2022 16:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220327_175/1648308563592fDqwS_JPEG/44bits-144-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 143.log : DevOps 안내서, subicura 님의 미국 체류기]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/109</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/106</guid>
             <pubDate>Sun, 13 Mar 2022 05:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_203/16471475660102z1et_JPEG/44bits-140-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 139.log : 44bits 운영, faker-js 이슈, AngularJS 지원 종료]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/101</guid>
             <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 134.log : AWS re:Invent 2021, 마켓컬리 프리 IPO]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/100</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/100</guid>
-            <pubDate>Wed, 16 Feb 2022 17:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
     </channel>
 </rss>
