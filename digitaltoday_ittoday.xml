@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 20:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 21:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠 늘린 애플TV플러스... 가스요금도 인상?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/658</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/658</guid>
+            <pubDate>Thu, 31 Mar 2022 21:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220331_149/16487125850656Rczl_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI방역로봇 등장...애플, 시총 3조 복귀 앞뒀다]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/657</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/654</guid>
             <pubDate>Sun, 27 Mar 2022 21:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220327_70/1648388863096enzld_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022년 자율주행 자동차, 어디까지 왔나?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/649</guid>
             <pubDate>Mon, 21 Mar 2022 21:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성능이냐 카메라냐? 아이폰SE vs 갤럭시A53]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/648</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/648</guid>
-            <pubDate>Sun, 20 Mar 2022 21:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
