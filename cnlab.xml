@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[121회. 지역화폐는 제 3의 결제수단이 될 수 있을까?_2부]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/132</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/132</guid>
+            <pubDate>Sun, 03 Apr 2022 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_11/1648965960740cD22P_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[120회. 지역화폐는 제 3의 결제수단이 될 수 있을까?_1부]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/131</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/131</guid>
+            <pubDate>Sun, 03 Apr 2022 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_186/164896592801199li3_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[119회. 글로벌 OTT 시장의 최근 동향_2부_국내동향,넷플릭스의 전략 변화,향후전망(게임,자동차)]]></title>
             <link>https://audioclip.naver.com/channels/2394/clips/130</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/128</guid>
             <pubDate>Fri, 25 Feb 2022 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220213_255/16447420356883k5Hx_PNG/CES2022.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[116회. 커넥팅랩 관점으로 보는 CES2022_1부_CES의 의의, 주요키워드 4가지(Connectivity)]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/127</guid>
             <pubDate>Fri, 25 Feb 2022 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220213_239/16447418461929g6Xp_PNG/CES2022.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[115회. NFT의 현재와 사업적 평가_2부_NFT적용목적,사업적 평가,시사점]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/123</guid>
             <pubDate>Fri, 25 Feb 2022 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[111회. 모바일미래보고서2022_CBDC와 디지털금융_2부-CBDC 도입의 영향,CBDC와 블록체인,기타 법적쟁점]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/120</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/120</guid>
-            <pubDate>Fri, 25 Feb 2022 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[110회. 모바일미래보고서2022_CBDC와 디지털금융_1부-CBDC의 정의,도입배경,중국의 CBDC,한국 추진현황]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/119</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/119</guid>
-            <pubDate>Fri, 25 Feb 2022 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
