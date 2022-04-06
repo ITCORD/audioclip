@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 20:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 21:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 글로벌 공략 '올인'...우크라發 금융사기 주의보]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/663</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/663</guid>
+            <pubDate>Wed, 06 Apr 2022 21:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220406_19/1649231446582AX31z_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오페이증권, 연내 주식 선물·카톡 거래 출시]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/662</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/659</guid>
             <pubDate>Sat, 02 Apr 2022 00:35:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220401_282/1648795839430WCype_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[콘텐츠 늘린 애플TV플러스... 가스요금도 인상?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/654</guid>
             <pubDate>Sun, 27 Mar 2022 21:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 자율주행 자동차, 어디까지 왔나?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/653</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/653</guid>
-            <pubDate>Sat, 26 Mar 2022 00:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
     </channel>
 </rss>
