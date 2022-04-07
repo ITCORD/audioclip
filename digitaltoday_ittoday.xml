@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 20:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법인 가상자산 거래 숨통 틔나...삼성·LG 1분기 최대 실적]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/664</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/664</guid>
+            <pubDate>Thu, 07 Apr 2022 21:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220407_145/16493179712415v1Xn_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오 글로벌 공략 '올인'...우크라發 금융사기 주의보]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/663</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/660</guid>
             <pubDate>Sun, 03 Apr 2022 21:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220403_63/1648990357756PMq7O_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아]  러시아 디폴트?? 모라토리엄이란??]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/655</guid>
             <pubDate>Mon, 28 Mar 2022 21:10:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이폰도 매월 구독? 슬금슬금 오르는 비트코인]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/654</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/654</guid>
-            <pubDate>Sun, 27 Mar 2022 21:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
