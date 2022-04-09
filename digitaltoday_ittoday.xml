@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 23:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 00:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디지털피디아] 오픈소스 소프트웨어, 알고 계시나요?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/665</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/665</guid>
+            <pubDate>Sat, 09 Apr 2022 00:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220408_41/1649404972965fNpnN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[법인 가상자산 거래 숨통 틔나...삼성·LG 1분기 최대 실적]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/664</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/661</guid>
             <pubDate>Mon, 04 Apr 2022 21:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_86/1649057129712PcOTW_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은행 넘보는 업비트·빗썸 실적…5G 품질평가 발표 연 1회로]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/656</guid>
             <pubDate>Tue, 29 Mar 2022 21:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SK판 암호화폐 등장...남궁훈號 카카오 29일 출항]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/655</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/655</guid>
-            <pubDate>Mon, 28 Mar 2022 21:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
