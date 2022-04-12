@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 20:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 21:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 노사 임단협 타결...유니콘 창업가 캄란 엘라히안 내한]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/668</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/668</guid>
+            <pubDate>Tue, 12 Apr 2022 21:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220412_283/16497495303046I00g_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머스크, 트위터 이사회 참여 안 해...美 암호화폐 규제 강화]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/667</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/664</guid>
             <pubDate>Thu, 07 Apr 2022 21:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220407_145/16493179712415v1Xn_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오 글로벌 공략 '올인'...우크라發 금융사기 주의보]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/659</guid>
             <pubDate>Sat, 02 Apr 2022 00:35:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 늘린 애플TV플러스... 가스요금도 인상?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/658</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/658</guid>
-            <pubDate>Thu, 31 Mar 2022 21:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
