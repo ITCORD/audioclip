@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 "5년 내 글로벌 이용자 10억 확보·매출 15조 돌파"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/669</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/669</guid>
+            <pubDate>Wed, 13 Apr 2022 21:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220413_250/1649836037879ta0Vu_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 노사 임단협 타결...유니콘 창업가 캄란 엘라히안 내한]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/668</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/665</guid>
             <pubDate>Sat, 09 Apr 2022 00:36:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220408_41/1649404972965fNpnN_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법인 가상자산 거래 숨통 틔나...삼성·LG 1분기 최대 실적]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/660</guid>
             <pubDate>Sun, 03 Apr 2022 21:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디지털피디아]  러시아 디폴트?? 모라토리엄이란??]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/659</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/659</guid>
-            <pubDate>Sat, 02 Apr 2022 00:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
