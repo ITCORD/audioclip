@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 23:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 00:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[디지털피디아] 셀피노믹스, 나도 혼자 돈을 벌어볼까? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/671</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/671</guid>
+            <pubDate>Sat, 16 Apr 2022 00:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220415_127/1650006758159LYAIk_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 vs 카카오 메타버스 차별화 키워드는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/670</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/670</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/667</guid>
             <pubDate>Mon, 11 Apr 2022 21:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220411_88/1649664739527E7tKH_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경제부총리 추경호, 과기정통부 장관 후보자 이종호...사이버 범죄 통로 전락 VPN (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/662</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/662</guid>
             <pubDate>Tue, 05 Apr 2022 15:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[尹정부 경제·금융팀 '올드보이' 귀환...카카오, 콘텐츠에 블록체인 더하기? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/661</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/661</guid>
-            <pubDate>Mon, 04 Apr 2022 21:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
