@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[44bits 팟캐스트 145.log : React 18.0, Dagger.io, Grafana Mimir (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/111</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/111</guid>
+            <pubDate>Mon, 18 Apr 2022 08:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220418_236/1650263160157fpUWi_JPEG/44bits-145-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[44bits 팟캐스트 144.log : 팟캐스트 운영, 3D 프린터 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/110</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/110</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/107</guid>
             <pubDate>Sun, 13 Mar 2022 06:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_46/1647148916026XwDVX_JPEG/44bits-141-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 140.log : 대선후보 홈페이지, AWS와 ElasticSearch 합의 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/102</guid>
             <pubDate>Thu, 24 Feb 2022 19:07:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 135.log : AWS re:Invent 참가 후기, HashiCorp 상장 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/101</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/101</guid>
-            <pubDate>Tue, 15 Feb 2022 12:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
