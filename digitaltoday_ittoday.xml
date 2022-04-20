@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 20:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 21:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 성장 '주춤'...가입자 첫 감소]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/675</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/675</guid>
+            <pubDate>Wed, 20 Apr 2022 21:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220420_106/1650439967935mACGI_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[은행 예금금리 줄인상...새벽배송 시장 개편]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/674</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/671</guid>
             <pubDate>Sat, 16 Apr 2022 00:37:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220415_127/1650006758159LYAIk_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버 vs 카카오 메타버스 차별화 키워드는?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/666</guid>
             <pubDate>Sun, 10 Apr 2022 21:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디지털피디아] 오픈소스 소프트웨어, 알고 계시나요?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/665</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/665</guid>
-            <pubDate>Sat, 09 Apr 2022 00:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
