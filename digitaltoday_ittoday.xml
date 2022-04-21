@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 글로벌 정조준…매출 비중 2배 늘린다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/676</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/676</guid>
+            <pubDate>Thu, 21 Apr 2022 21:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220421_177/1650524595681Sdu6F_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 성장 '주춤'...가입자 첫 감소]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/675</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/672</guid>
             <pubDate>Sun, 17 Apr 2022 21:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220417_181/1650199041997BWj9P_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디지털피디아] 셀피노믹스, 나도 혼자 돈을 벌어볼까?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/667</guid>
             <pubDate>Mon, 11 Apr 2022 21:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경제부총리 추경호, 과기정통부 장관 후보자 이종호...사이버 범죄 통로 전락 VPN]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/666</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/666</guid>
-            <pubDate>Sun, 10 Apr 2022 21:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
