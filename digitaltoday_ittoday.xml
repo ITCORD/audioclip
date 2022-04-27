@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 20:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 21:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융 AI 신뢰도 높인다...넥슨 새총수로 유정현 감사 지정]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/681</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/681</guid>
+            <pubDate>Wed, 27 Apr 2022 21:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220427_121/1651046510045DYXUI_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 결국 일론 머스크 품으로…웹소설 IP 확보 전쟁]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/680</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/677</guid>
             <pubDate>Sat, 23 Apr 2022 00:38:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220421_10/165052993170727JGS_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%B5%F0%C7%C7.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버, 글로벌 정조준…매출 비중 2배 늘린다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/672</guid>
             <pubDate>Sun, 17 Apr 2022 21:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디지털피디아] 셀피노믹스, 나도 혼자 돈을 벌어볼까?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/671</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/671</guid>
-            <pubDate>Sat, 16 Apr 2022 00:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
