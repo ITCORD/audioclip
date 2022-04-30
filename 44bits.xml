@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 00:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 02:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44bits 팟캐스트 146.log : RosettaStone - 하스스톤 시뮬레이터 /w 강화학습]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/112</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/112</guid>
+            <pubDate>Sat, 30 Apr 2022 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220430_188/16512864034054MKCa_JPEG/44bits-146-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 145.log : React 18.0, Dagger.io, Grafana Mimir]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/111</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/108</guid>
             <pubDate>Sun, 13 Mar 2022 06:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220313_33/16471510793735uGfF_JPEG/44bits-142-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 141.log : State of JavaScript 설문, 구글 맵 타임라인]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/103</guid>
             <pubDate>Fri, 25 Feb 2022 14:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 136.log : Log4j 취약점, Slack & AWS 장애]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/102</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/102</guid>
-            <pubDate>Thu, 24 Feb 2022 19:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
     </channel>
 </rss>
