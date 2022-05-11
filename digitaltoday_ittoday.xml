@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 20:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 21:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이팟 21년만 역사 속으로…K-UAM 동맹 출범]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/691</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/691</guid>
+            <pubDate>Wed, 11 May 2022 21:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220511_218/1652255633396TJet3_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령 취임...한덕수 임명동의안 1호 결재]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/690</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/687</guid>
             <pubDate>Thu, 05 May 2022 21:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220505_35/1651737901904t1Y7a_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[尹정부 110대 국정과제 발표...디지털플랫폼정부 본격화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/683</guid>
             <pubDate>Thu, 28 Apr 2022 21:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[금융 AI 신뢰도 높인다...넥슨 새총수로 유정현 감사 지정]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/681</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/681</guid>
-            <pubDate>Wed, 27 Apr 2022 21:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
