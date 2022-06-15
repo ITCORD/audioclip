@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 20:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 21:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암호화폐 기업 몸집 줄이기...애플, 비밀번호 없앨 패스키 공개]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/714</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/714</guid>
+            <pubDate>Wed, 15 Jun 2022 21:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220615_23/1655277918867Wq4Dw_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올 여름 게임 대작 격돌...누리호 2차 발사 16일로]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/713</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/710</guid>
             <pubDate>Thu, 09 Jun 2022 21:07:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220609_94/1654761183651CC0Az_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버, 2023년 아크·5G 특화망 상용화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/705</guid>
             <pubDate>Wed, 01 Jun 2022 21:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[尹정부 사이버안보 정책은?...K배터리 미국행 '러시']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/704</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/704</guid>
-            <pubDate>Mon, 30 May 2022 21:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
