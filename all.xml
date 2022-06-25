@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 00:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,30 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1 Password 8, 인프콘, 만화로 보는 넷스케이프 창업 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/115</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/115</guid>
+            <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220625_63/1656115657090Cgcrx_JPEG/44bits-149-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Git.io deprecation, Scaling containers on AWS (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/114</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/114</guid>
+            <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220625_136/1656115431724qtb03_JPEG/44bits-148-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신한카드 도용 사고 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/113</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/113</guid>
+            <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220625_181/1656112607361qhgMP_JPEG/44bits-147-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[44bits 팟캐스트 146.log : RosettaStone - 하스스톤 시뮬레이터 /w 강화학습 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/112</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/112</guid>
@@ -95,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/111</guid>
             <pubDate>Mon, 18 Apr 2022 08:11:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220418_236/1650263160157fpUWi_JPEG/44bits-145-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 144.log : 팟캐스트 운영, 3D 프린터 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -103,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/110</guid>
             <pubDate>Sat, 26 Mar 2022 16:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220327_175/1648308563592fDqwS_JPEG/44bits-144-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 143.log : DevOps 안내서, subicura 님의 미국 체류기 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -111,7 +133,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/109</guid>
             <pubDate>Sun, 20 Mar 2022 14:13:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220320_255/1647784560860hdIdC_JPEG/44bits-143-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[44bits 팟캐스트 142.log : 애플 신제품 이벤트 - M1 Ultra, 맥 스튜디오 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -133,27 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/106</guid>
             <pubDate>Sun, 13 Mar 2022 05:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 139.log : 44bits 운영, faker-js 이슈, AngularJS 지원 종료 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/105</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/105</guid>
-            <pubDate>Sun, 13 Mar 2022 02:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 138.log : "내 트리를 꾸며줘" 개발 이야기 - 산타파이브 팀 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/104</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/104</guid>
-            <pubDate>Sat, 12 Mar 2022 18:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 137.log : Full Cycle Developers at Netflix (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/103</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/103</guid>
-            <pubDate>Fri, 25 Feb 2022 14:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
