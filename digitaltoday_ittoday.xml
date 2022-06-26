@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 20:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 21:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 갑질 방지법 실효성 ‘도마 위’]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/721</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/721</guid>
+            <pubDate>Sun, 26 Jun 2022 21:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220626_157/1656233575213CjWPR_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금융감독당국 가상자산 규제 카드 '만지작']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/720</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/717</guid>
             <pubDate>Mon, 20 Jun 2022 21:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220620_92/1655711763748nRmvo_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오, 격주 4일 근무제 도입...비트코인 1만8000 달러 붕괴]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/712</guid>
             <pubDate>Mon, 13 Jun 2022 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계관 확장 나선 게임업계... 내년 '빨간날' 며칠?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/711</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/711</guid>
-            <pubDate>Sun, 12 Jun 2022 21:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
