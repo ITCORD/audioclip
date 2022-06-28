@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디지털플랫폼정부위원회' 7월 1일 출범...카카오 노사 회동]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/723</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/723</guid>
+            <pubDate>Tue, 28 Jun 2022 21:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220628_156/1656402118294tvEPC_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보험사 핀테크 시장 진출 청신호…이달 내 SK바사 코로나19 백신 최종 허가]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/722</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/719</guid>
             <pubDate>Wed, 22 Jun 2022 21:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220622_281/16558849350060ajx7_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글 인앱 vs 웹 결제 가격 다른 까닭...보안업계 M&A 확산 예고]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/714</guid>
             <pubDate>Wed, 15 Jun 2022 21:08:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올 여름 게임 대작 격돌...누리호 2차 발사 16일로]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/713</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/713</guid>
-            <pubDate>Tue, 14 Jun 2022 21:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
