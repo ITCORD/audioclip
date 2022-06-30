@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 20:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 21:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 람다가 쏘아올린 ‘지각있는 AI’ 논쟁]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/725</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/725</guid>
+            <pubDate>Thu, 30 Jun 2022 21:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220630_102/16565739491526qPpg_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털플랫폼정부 주도권 누가?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/724</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/721</guid>
             <pubDate>Sun, 26 Jun 2022 21:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220626_157/1656233575213CjWPR_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금융감독당국 가상자산 규제 카드 '만지작']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/716</guid>
             <pubDate>Sun, 19 Jun 2022 21:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 '빙하기' 오나…누리호 발사 언제쯤?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/715</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/715</guid>
-            <pubDate>Thu, 16 Jun 2022 21:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
