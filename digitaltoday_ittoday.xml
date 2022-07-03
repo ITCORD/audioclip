@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 20:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 21:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오, 새 근무제 스타트...비트코인 채굴 '뚝']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/726</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/726</guid>
+            <pubDate>Sun, 03 Jul 2022 21:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220703_263/1656860120389QVYI9_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 람다가 쏘아올린 ‘지각있는 AI’ 논쟁]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/725</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/722</guid>
             <pubDate>Mon, 27 Jun 2022 21:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220627_5/1656315540628eE96D_PNG/1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글 갑질 방지법 실효성 ‘도마 위’]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/717</guid>
             <pubDate>Mon, 20 Jun 2022 21:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 격주 4일 근무제 도입...비트코인 1만8000 달러 붕괴]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/716</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/716</guid>
-            <pubDate>Sun, 19 Jun 2022 21:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
