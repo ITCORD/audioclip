@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 20:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 21:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[현대차, 29년만 국내 공장 짓는다…5G 중간요금제 8월 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/733</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/733</guid>
+            <pubDate>Tue, 12 Jul 2022 21:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220712_52/16576130115063yxQo_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[충청권 지방은행 나오나?...카카오모빌리티 매각 노사 갈등↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/732</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/732</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/729</guid>
             <pubDate>Wed, 06 Jul 2022 21:08:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220706_77/16570977053472qwtL_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중소 게임업계 위기감 고조... 소비자물가 약 24년 만에 최고 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/724</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/724</guid>
             <pubDate>Wed, 29 Jun 2022 21:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['디지털플랫폼정부위원회' 7월 1일 출범...카카오 노사 회동 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/723</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/723</guid>
-            <pubDate>Tue, 28 Jun 2022 21:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
