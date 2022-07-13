@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 12:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 13:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코드앤버터, 구글 맵 타임라인, 하시코프 사용자 모임 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/118</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/118</guid>
+            <pubDate>Wed, 13 Jul 2022 13:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220713_123/1657716298852Jmp18_JPEG/44bits-152-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[INFCON 인프콘 특집 @ 인프런 사무실 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/117</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/117</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/114</guid>
             <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220625_136/1656115431724qtb03_JPEG/44bits-148-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신한카드 도용 사고 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/109</guid>
             <pubDate>Sun, 20 Mar 2022 14:13:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 142.log : 애플 신제품 이벤트 - M1 Ultra, 맥 스튜디오 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/108</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/108</guid>
-            <pubDate>Sun, 13 Mar 2022 06:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
