@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 21:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[LGU+도 '구독' 레이스 본격 가세...카카오 다시 투톱 체제로 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/735</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/735</guid>
+            <pubDate>Thu, 14 Jul 2022 21:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220714_129/1657786353853EekEP_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[카톡 결국 아웃링크 삭제...한은 사상 첫 '빅스텝' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/734</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/734</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/731</guid>
             <pubDate>Sun, 10 Jul 2022 21:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220710_112/16574424897555PPCi_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은행 DID 기반 전자지갑 임박...삼성·LG전자, 글로벌 악재 대비 선방 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/726</guid>
             <pubDate>Sun, 03 Jul 2022 21:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 람다가 쏘아올린 ‘지각있는 AI’ 논쟁 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/725</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/725</guid>
-            <pubDate>Thu, 30 Jun 2022 21:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
