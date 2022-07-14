@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 15:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 16:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GitHub Copilot, Bun, 로보락 S7 MaxV Ultra, 미국 방문 이야기]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/119</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/119</guid>
+            <pubDate>Thu, 14 Jul 2022 16:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220715_94/1657814138057oI4EH_JPEG/44bits-153-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드앤버터, 구글 맵 타임라인, 하시코프 사용자 모임]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/118</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/115</guid>
             <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220625_63/1656115657090Cgcrx_JPEG/44bits-149-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Git.io deprecation, Scaling containers on AWS]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/110</guid>
             <pubDate>Sat, 26 Mar 2022 16:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 143.log : DevOps 안내서, subicura 님의 미국 체류기]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/109</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/109</guid>
-            <pubDate>Sun, 20 Mar 2022 14:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
     </channel>
 </rss>
