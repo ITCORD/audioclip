@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 20:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 21:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임업계 MMORPG 격돌...5G 중간요금제 실효성 논란]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/738</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/738</guid>
+            <pubDate>Tue, 19 Jul 2022 21:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220719_120/1658216231943SUAKa_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[폴더블, 노트북서도 통할까?...네이버·카카오 2분기 주춤]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/737</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/734</guid>
             <pubDate>Wed, 13 Jul 2022 22:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220713_66/1657699292217jiU7a_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[현대차, 29년만 국내 공장 짓는다…5G 중간요금제 8월 출시]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/729</guid>
             <pubDate>Wed, 06 Jul 2022 21:08:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중소 게임업계 위기감 고조... 소비자물가 약 24년 만에 최고]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/728</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/728</guid>
-            <pubDate>Tue, 05 Jul 2022 21:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
