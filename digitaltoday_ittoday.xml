@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 20:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 21:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타다 베이직 부활할까?...토스, 알뜰폰 사업까지]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/740</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/740</guid>
+            <pubDate>Thu, 21 Jul 2022 21:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_16/1658418505772KpRna_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 2분기 연속 가입자 감소…삼성, 8월10일 갤럭시Z폴드4·플립4 공개]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/739</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/736</guid>
             <pubDate>Sun, 17 Jul 2022 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220717_172/16580495782848jqJl_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LGU+도 '구독' 레이스 본격 가세...카카오 다시 투톱 체제로]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/731</guid>
             <pubDate>Sun, 10 Jul 2022 21:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행 DID 기반 전자지갑 임박...삼성·LG전자, 글로벌 악재 대비 선방]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/730</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/730</guid>
-            <pubDate>Thu, 07 Jul 2022 21:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
