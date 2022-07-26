@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 20:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 21:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[비덴트 "FTX와 빗썸 매각 협의 사실"...네이버 5개 계열사 쟁위 행위 돌입 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/743</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/743</guid>
+            <pubDate>Tue, 26 Jul 2022 21:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220726_92/1658824578277jo3OT_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[카카오모빌리티 매각 논의 새국면...페북 개인정보수집 논란 지속 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/742</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/742</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/739</guid>
             <pubDate>Wed, 20 Jul 2022 21:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220720_283/1658302156846PCUSe_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[게임업계 MMORPG 격돌...5G 중간요금제 실효성 논란 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/734</guid>
             <pubDate>Wed, 13 Jul 2022 22:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대차, 29년만 국내 공장 짓는다…5G 중간요금제 8월 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/733</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/733</guid>
-            <pubDate>Tue, 12 Jul 2022 21:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
