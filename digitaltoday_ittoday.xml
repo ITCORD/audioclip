@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 20:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 21:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융권, 클라우드 도입 조심 또 조심]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/744</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/744</guid>
+            <pubDate>Wed, 27 Jul 2022 21:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220727_181/1658908310836aNXhe_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비덴트 "FTX와 빗썸 매각 협의 사실"...네이버 5개 계열사 쟁위 행위 돌입]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/743</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/740</guid>
             <pubDate>Thu, 21 Jul 2022 21:11:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220722_16/1658418505772KpRna_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 2분기 연속 가입자 감소…삼성, 8월10일 갤럭시Z폴드4·플립4 공개]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/735</guid>
             <pubDate>Thu, 14 Jul 2022 21:11:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카톡 결국 아웃링크 삭제...한은 사상 첫 '빅스텝']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/734</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/734</guid>
-            <pubDate>Wed, 13 Jul 2022 22:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
