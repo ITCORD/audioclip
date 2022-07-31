@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 20:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 21:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[통신요금 유보신고제 실효성 도마위...배그 모바일 인도 퇴출 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/746</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/746</guid>
+            <pubDate>Sun, 31 Jul 2022 21:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220801_84/1659292577482ThyS8_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 2분기 악재 속 반도체 빛났다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/745</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/745</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/742</guid>
             <pubDate>Mon, 25 Jul 2022 21:08:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220725_75/1658737727860eMo05_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하나금융·SKT 동맹 선언.. FTX, 빗썸까지 인수? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/737</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/737</guid>
             <pubDate>Mon, 18 Jul 2022 21:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디도스 공격 여전...사이버대피소 누적 이용 7271건 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/736</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/736</guid>
-            <pubDate>Sun, 17 Jul 2022 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
