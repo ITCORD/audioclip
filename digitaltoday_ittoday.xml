@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 20:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 21:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 카셰어링도 시동...K배터리 점유율 '뚝']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/748</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/748</guid>
+            <pubDate>Tue, 02 Aug 2022 21:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220803_116/1659462316025O1CVO_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI가 쓴 시집 나온다...휴대용 선풍기 전자파 안전?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/747</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/744</guid>
             <pubDate>Wed, 27 Jul 2022 21:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220727_181/1658908310836aNXhe_PNG/%B1%D7%B8%B22.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비덴트 "FTX와 빗썸 매각 협의 사실"...네이버 5개 계열사 쟁위 행위 돌입]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/739</guid>
             <pubDate>Wed, 20 Jul 2022 21:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임업계 MMORPG 격돌...5G 중간요금제 실효성 논란]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/738</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/738</guid>
-            <pubDate>Tue, 19 Jul 2022 21:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
