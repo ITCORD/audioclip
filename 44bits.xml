@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 12:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 13:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CLOVA FaceSign, Stacked Changes 코드 리뷰 방법 w/ 치즈님]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/122</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/122</guid>
+            <pubDate>Sat, 06 Aug 2022 13:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>71분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220806_256/1659789124786zdDni_JPEG/44bits-156-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[cron 캘린더 앱, 스택오버플로우 모노리스 시스템, 왓차 온보딩 프로세스]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/121</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/118</guid>
             <pubDate>Wed, 13 Jul 2022 13:34:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220713_123/1657716298852Jmp18_JPEG/44bits-152-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[INFCON 인프콘 특집 @ 인프런 사무실]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/113</guid>
             <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[44bits 팟캐스트 146.log : RosettaStone - 하스스톤 시뮬레이터 /w 강화학습]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/112</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/112</guid>
-            <pubDate>Sat, 30 Apr 2022 02:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
         </item>
     </channel>
 </rss>
