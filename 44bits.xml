@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커뮤니티 비밀번호 리셋 이슈, 뉴스레터, 사우디 미래 도시]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/123</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/123</guid>
+            <pubDate>Mon, 08 Aug 2022 07:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220808_110/1659939492041Fq9I3_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CLOVA FaceSign, Stacked Changes 코드 리뷰 방법 w/ 치즈님]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/122</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/119</guid>
             <pubDate>Thu, 14 Jul 2022 16:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_94/1657814138057oI4EH_JPEG/44bits-153-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드앤버터, 구글 맵 타임라인, 하시코프 사용자 모임]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/114</guid>
             <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신한카드 도용 사고]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/113</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/113</guid>
-            <pubDate>Sat, 25 Jun 2022 00:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
     </channel>
 </rss>
