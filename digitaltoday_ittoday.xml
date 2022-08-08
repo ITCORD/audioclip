@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아 니로 EV, 스웨덴 점령…시험대 오른 네이버-카카오]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/751</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/751</guid>
+            <pubDate>Mon, 08 Aug 2022 03:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220808_245/1659926513472V0p5v_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오톡 대규모 업글 예고...국내 첫 달 탐사선 5일 발사]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/750</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/747</guid>
             <pubDate>Mon, 01 Aug 2022 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220802_32/1659369765457GeRCP_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[통신요금 유보신고제 실효성 도마위...배그 모바일 인도 퇴출]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/742</guid>
             <pubDate>Mon, 25 Jul 2022 21:08:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하나금융·SKT 동맹 선언.. FTX, 빗썸까지 인수?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/741</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/741</guid>
-            <pubDate>Sun, 24 Jul 2022 21:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
