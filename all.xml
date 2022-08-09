@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 20:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 21:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[D2C 확산 속 공급망 테크 기업 급성장 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/753</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/753</guid>
+            <pubDate>Tue, 09 Aug 2022 21:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220810_88/1660071743942s2vbx_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[인스타그램 NFT 글로벌 확대 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/752</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/752</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/749</guid>
             <pubDate>Wed, 03 Aug 2022 21:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220804_49/1659544757156agU1F_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티, 카셰어링도 시동...K배터리 점유율 '뚝' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/744</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/744</guid>
             <pubDate>Wed, 27 Jul 2022 21:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비덴트 "FTX와 빗썸 매각 협의 사실"...네이버 5개 계열사 쟁위 행위 돌입 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/743</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/743</guid>
-            <pubDate>Tue, 26 Jul 2022 21:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
