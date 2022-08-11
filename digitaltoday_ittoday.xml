@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 21:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT도 5G '중간요금제' 출시...택시 탄력요금제 '갑론을박’]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/755</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/755</guid>
+            <pubDate>Thu, 11 Aug 2022 21:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_104/1660230614066aUwEa_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경찰청, 교통과태료 고액 체납자 가상자산 압류 추진]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/754</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/751</guid>
             <pubDate>Mon, 08 Aug 2022 03:04:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220808_245/1659926513472V0p5v_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오톡 대규모 업글 예고...국내 첫 달 탐사선 5일 발사]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/746</guid>
             <pubDate>Sun, 31 Jul 2022 21:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 2분기 악재 속 반도체 빛났다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/745</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/745</guid>
-            <pubDate>Thu, 28 Jul 2022 21:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
