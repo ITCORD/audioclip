@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 20:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가상자산 시장 찬바람…카카오, 모빌리티 매각 철회 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/759</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/759</guid>
+            <pubDate>Thu, 18 Aug 2022 21:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220819_197/1660843284439gPFfI_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[바이든 인플레 감축 법안 서명에 韓 전기차 비상 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/758</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/758</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/755</guid>
             <pubDate>Thu, 11 Aug 2022 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220812_104/1660230614066aUwEa_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경찰청, 교통과태료 고액 체납자 가상자산 압류 추진 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/750</guid>
             <pubDate>Thu, 04 Aug 2022 21:10:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 'ISMS 인증' 바뀌나...KT, 30GB 5G 요금제 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/749</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/749</guid>
-            <pubDate>Wed, 03 Aug 2022 21:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
