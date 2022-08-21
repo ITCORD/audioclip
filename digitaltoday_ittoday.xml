@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 20:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 21:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산 블록체인 특구 어디로 가나]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/760</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/760</guid>
+            <pubDate>Sun, 21 Aug 2022 21:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220822_239/1661096505220w1QOJ_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 시장 찬바람…카카오, 모빌리티 매각 철회]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/759</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/756</guid>
             <pubDate>Mon, 15 Aug 2022 21:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220815_171/16605672289182sjYP_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KT도 5G '중간요금제' 출시...택시 탄력요금제 '갑론을박’]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/751</guid>
             <pubDate>Mon, 08 Aug 2022 03:04:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡 대규모 업글 예고...국내 첫 달 탐사선 5일 발사]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/750</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/750</guid>
-            <pubDate>Thu, 04 Aug 2022 21:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
