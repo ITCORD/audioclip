@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 20:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 21:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환율 '폭주'...13년4개월 만에 1340원 돌파]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/761</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/761</guid>
+            <pubDate>Mon, 22 Aug 2022 21:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220822_72/1661178074858XjcCg_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부산 블록체인 특구 어디로 가나]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/760</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/757</guid>
             <pubDate>Tue, 16 Aug 2022 21:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220817_56/1660663110354HVLcm_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 Z 폴드4 사전 예약 시작]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/752</guid>
             <pubDate>Mon, 08 Aug 2022 21:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기아 니로 EV, 스웨덴 점령…시험대 오른 네이버-카카오]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/751</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/751</guid>
-            <pubDate>Mon, 08 Aug 2022 03:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
