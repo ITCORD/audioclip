@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 20:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 21:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모바일 운전면허증 확산...새출발기금 10월 접수 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/764</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/764</guid>
+            <pubDate>Sun, 28 Aug 2022 21:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220829_107/1661708821985uoEFm_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[다음 달 7일 '아이폰14' 시리즈 공개된다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/763</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/763</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/760</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220822_239/1661096505220w1QOJ_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가상자산 시장 찬바람…카카오, 모빌리티 매각 철회 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/755</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경찰청, 교통과태료 고액 체납자 가상자산 압류 추진 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/754</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/754</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
