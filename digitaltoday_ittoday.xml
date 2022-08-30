@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 20:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 21:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뿔난 게임 이용자 마차 시위까지...내년 예산 639조]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/766</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/766</guid>
+            <pubDate>Tue, 30 Aug 2022 21:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220831_300/1661885708501ckbpe_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[환율 13년 만에 1350원... 美 IRA 대응 비상]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/765</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/762</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220824_205/1661343606000yAMFL_PNG/%B1%D7%B8%B21.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[환율 '폭주'...13년4개월 만에 1340원 돌파]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/757</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 Z 폴드4 사전 예약 시작]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/756</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/756</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
