@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 23:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 00:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[팟캐스트 오류에 관하여 feat. 이진우의 손에 잡히는 경제 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/124</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/124</guid>
+            <pubDate>Sat, 03 Sep 2022 00:45:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220903_157/1662162253895Ab55y_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[커뮤니티 비밀번호 리셋 이슈, 뉴스레터, 사우디 미래 도시 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/123</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/123</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/120</guid>
             <pubDate>Thu, 25 Aug 2022 12:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220728_14/1659009979722e29lP_JPEG/44bits-154-log_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GitHub Copilot, Bun, 로보락 S7 MaxV Ultra, 미국 방문 이야기 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/115</guid>
             <pubDate>Thu, 25 Aug 2022 12:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Git.io deprecation, Scaling containers on AWS (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/114</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/114</guid>
-            <pubDate>Thu, 25 Aug 2022 12:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
