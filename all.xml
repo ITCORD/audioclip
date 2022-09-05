@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 20:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 21:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[원/달러 환율 13년5개월 만에 1370원 돌파 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/770</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/770</guid>
+            <pubDate>Mon, 05 Sep 2022 21:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220906_290/166239341385959wbW_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[디지털플랫폼정부 마스터플랜 나온다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/769</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/769</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/766</guid>
             <pubDate>Tue, 30 Aug 2022 21:10:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220831_300/1661885708501ckbpe_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[환율 13년 만에 1350원... 美 IRA 대응 비상 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/761</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산 블록체인 특구 어디로 가나 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/760</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/760</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
