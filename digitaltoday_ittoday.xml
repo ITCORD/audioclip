@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 20:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 21:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 기업들도 B2B 메타버스 시장 공략 ‘시동’]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/772</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/772</guid>
+            <pubDate>Wed, 07 Sep 2022 21:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220908_242/1662580607121hIx77_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트TV 무한 확장...우마무스메 논란 새국면]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/771</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/768</guid>
             <pubDate>Thu, 01 Sep 2022 21:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220902_257/16620557091264W3vV_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경찰, 가상자산 수사 가속...9월부터 e심 서비스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/763</guid>
             <pubDate>Thu, 25 Aug 2022 21:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불법 유통 K-콘텐츠...네이버·카카오 칼 빼들었다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/762</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/762</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
