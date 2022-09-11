@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,7 +259,6 @@
             <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210922_170/1632282295682Sk7zA_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
@@ -333,7 +332,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/769</guid>
             <pubDate>Sun, 04 Sep 2022 21:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220905_262/1662307565074YnvdL_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[K-게임 콘솔로 확장...8월 무역적자 눈덩이 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -481,7 +479,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/131</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220403_186/164896592801199li3_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[119회. 글로벌 OTT 시장의 최근 동향_2부_국내동향,넷플릭스의 전략 변화,향후전망(게임,자동차) (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>
