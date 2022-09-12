@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 20:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 21:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트폰·위성 연결 격전지 부상...LA '오징어 게임의 날' 제정]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/773</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/773</guid>
+            <pubDate>Mon, 12 Sep 2022 21:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220912_41/1662992928585x2vqg_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 기업들도 B2B 메타버스 시장 공략 ‘시동’]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/772</link>
@@ -29,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/770</guid>
             <pubDate>Mon, 05 Sep 2022 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220906_290/166239341385959wbW_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털플랫폼정부 마스터플랜 나온다]]></title>
@@ -71,13 +78,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/764</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/764</guid>
             <pubDate>Sun, 28 Aug 2022 21:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다음 달 7일 '아이폰14' 시리즈 공개된다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/763</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/763</guid>
-            <pubDate>Thu, 25 Aug 2022 21:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
