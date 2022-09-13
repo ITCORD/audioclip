@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 20:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 21:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 요주 업체 수시 검사...베일 벗는 스타벅스 웹3.0 전략]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/774</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/774</guid>
+            <pubDate>Tue, 13 Sep 2022 21:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220914_205/16630852533057SEeD_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰·위성 연결 격전지 부상...LA '오징어 게임의 날' 제정]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/773</link>
@@ -29,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/771</guid>
             <pubDate>Tue, 06 Sep 2022 21:09:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220907_1/1662484724263x2Vrn_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원/달러 환율 13년5개월 만에 1370원 돌파]]></title>
@@ -72,13 +79,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/765</guid>
             <pubDate>Mon, 29 Aug 2022 21:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모바일 운전면허증 확산...새출발기금 10월 접수]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/764</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/764</guid>
-            <pubDate>Sun, 28 Aug 2022 21:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
