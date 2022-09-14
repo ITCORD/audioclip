@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/131</guid>
             <pubDate>Thu, 25 Aug 2022 12:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_186/164896592801199li3_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[119회. 글로벌 OTT 시장의 최근 동향_2부_국내동향,넷플릭스의 전략 변화,향후전망(게임,자동차)]]></title>
