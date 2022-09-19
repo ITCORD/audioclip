@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 20:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 21:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 고개 숙인 카카오게임즈...네이버, 학생용 멤버십 선봬]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/778</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/778</guid>
+            <pubDate>Mon, 19 Sep 2022 21:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220920_271/1663604266024vi8jc_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우마무스메 갈등 어디로...간담회 접점 못 찾아]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/777</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/774</guid>
             <pubDate>Wed, 14 Sep 2022 22:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220914_205/16630852533057SEeD_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스마트폰·위성 연결 격전지 부상...LA '오징어 게임의 날' 제정]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/769</guid>
             <pubDate>Wed, 14 Sep 2022 22:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K-게임 콘솔로 확장...8월 무역적자 눈덩이]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/768</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/768</guid>
-            <pubDate>Wed, 14 Sep 2022 22:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
