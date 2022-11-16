@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/3508</id>
-    <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
-    <updated>2022-11-16T16:20:28.819Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:18:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3분기 이커머스 성적표, 겨울철 전기차 관리는 어떻게?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/818</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/818</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221115_132/1668501000024lwkUT_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 야심작 AR 헤드셋 개발 임박! FTX 사태 국내는 안전한가?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/817</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/817</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221114_82/1668418962830dnIBI_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 결국 파산 보호 신청… 트위터 미래는 인터넷 은행]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/816</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/816</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221113_287/1668341637366vy4Gr_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 사태에 추풍낙엽… 크립토 시장 이대로 괜찮을까?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/815</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/815</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221110_75/1668074677346rw2mn_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 파산설에 모래성 암호화폐 시장 '와르르']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/814</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/814</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웨어러블 혁명! 늘리고 접는 LG 스트레처블 디스플레이]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/813</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/813</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실리콘밸리에 부는 감원 바람…中 코로나19에 아이폰 '휘청']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/812</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/812</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UN, 일론 머스크에 경고, 왜? …네이버 뒤흔든 롤드컵 위력]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/811</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/811</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 웹3 확산 계기될까? 가상자산 신뢰회복 급선무]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/810</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/810</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털자산법 발의… 美 "암호화폐는 금융의 미래"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/809</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/809</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

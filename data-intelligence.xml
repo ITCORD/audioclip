@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/471</id>
-    <title>오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 &amp; 인공지능 이야기</title>
-    <updated>2022-11-16T16:20:28.824Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 &amp; 인공지능 이야기</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:18:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가?]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/33</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/33</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210120_268/1611125431001dsV7u_JPEG/%B5%A5%C1%F6%C6%CC_1280.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 지능 S2E6: 의료 인공지능 & 디지털 헬스편 (한기용님 / 김병학님)]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/32</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/32</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>106분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20201225_175/1608867932071a9yQH_JPEG/dip_1280.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 S2E5: 추천시스템편 (네이버 최재호님)]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/31</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/31</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20201223_79/1608652327976bINzX_JPEG/dip_1280.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 S2E4: 데이터 저널리즘편 (SBS '마부작침' 팀)]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/30</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/30</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20201223_20/16086521953226Bemf_JPEG/dip_1280.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 S2E3: 테리와 진영의 수다]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/29</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/29</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 팟캐스트 S2E2: 실험실 밖으로 나온 인공지능 (김은영님 / 김병학님)]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/28</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/28</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 팟캐스트 S2E1b : 데이터과학자의 학습법 (김은영님 / 김병학님]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/21</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/21</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 팟캐스트 S2E1a : 데이터과학자의 학습법 (구글 김은영님 / Udacity 김병학님)]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/20</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/20</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터지능 팟캐스트 E12 : 데이터과학과 통계편 – 권재명님]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/22</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/22</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[E11 데이터 엔지니어링편 – 넷플릭스 배재현님, 쿠팡 글로벌 최현식님]]></title>
+            <link>https://audioclip.naver.com/channels/471/clips/27</link>
+            <guid>https://audioclip.naver.com/channels/471/clips/27</guid>
+            <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>112분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
