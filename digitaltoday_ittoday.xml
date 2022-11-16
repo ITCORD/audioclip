@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 20:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 21:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플도 '메이드 인 USA'… 내 코인 지키는 '콜드월렛']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/819</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/819</guid>
+            <pubDate>Wed, 16 Nov 2022 21:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_202/1668594124811xtsSy_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3분기 이커머스 성적표, 겨울철 전기차 관리는 어떻게?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/818</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/815</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221110_75/1668074677346rw2mn_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[FTX 파산설에 모래성 암호화폐 시장 '와르르']]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[트위터, 웹3 확산 계기될까? 가상자산 신뢰회복 급선무]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/810</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/810</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털자산법 발의… 美 "암호화폐는 금융의 미래"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/809</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/809</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
