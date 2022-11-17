@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 20:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 21:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버안보 컨트롤타워 국정원으로?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/820</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/820</guid>
+            <pubDate>Thu, 17 Nov 2022 21:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221117_232/1668688417584M18q3_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플도 '메이드 인 USA'… 내 코인 지키는 '콜드월렛']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/819</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/816</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221113_287/1668341637366vy4Gr_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[FTX 사태에 추풍낙엽… 크립토 시장 이대로 괜찮을까?]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[UN, 일론 머스크에 경고, 왜? …네이버 뒤흔든 롤드컵 위력]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/811</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/811</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 웹3 확산 계기될까? 가상자산 신뢰회복 급선무]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/810</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/810</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
