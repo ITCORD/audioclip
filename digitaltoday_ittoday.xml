@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 20:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 반도체 공급망 회오리… 국내 친환경차 150만대]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/821</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/821</guid>
+            <pubDate>Sun, 20 Nov 2022 21:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221120_179/1668943066552I3bya_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사이버안보 컨트롤타워 국정원으로?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/820</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/817</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221114_82/1668418962830dnIBI_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[FTX 결국 파산 보호 신청… 트위터 미래는 인터넷 은행]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/812</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[UN, 일론 머스크에 경고, 왜? …네이버 뒤흔든 롤드컵 위력]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/811</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/811</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
