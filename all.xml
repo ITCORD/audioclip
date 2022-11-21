@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 15:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 16:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GitHub Universe 2022 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/133</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/133</guid>
+            <pubDate>Mon, 21 Nov 2022 16:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221122_158/1669042987008ltDXl_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Datadog 컨퍼런스 Dash 2022 참가 이야기 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/132</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/132</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/129</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221022_87/1666365680025jvP15_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 플레어 신규 서비스 발표 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/124</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[커뮤니티 비밀번호 리셋 이슈, 뉴스레터, 사우디 미래 도시 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/123</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/123</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
