@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 20:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 21:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[은행 예·적금 이자 4% 껑충… 월드컵 공인구의 비밀 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/824</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/824</guid>
+            <pubDate>Wed, 23 Nov 2022 21:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221123_177/1669190775727Uierc_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[아이폰15는 티타늄 바디? 하이브, BTS 의존도 낮춰라 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/823</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/823</guid>
@@ -331,7 +339,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/820</guid>
             <pubDate>Thu, 17 Nov 2022 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221117_232/1668688417584M18q3_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플도 '메이드 인 USA'… 내 코인 지키는 '콜드월렛' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -365,13 +372,6 @@
             <title><![CDATA[FTX 사태에 추풍낙엽… 크립토 시장 이대로 괜찮을까? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/815</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/815</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[FTX 파산설에 모래성 암호화폐 시장 '와르르' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/814</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/814</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
