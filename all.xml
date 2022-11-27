@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 10:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 11:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[구글 엔지니어 Daniel Lee님 특집 (오디오클립 ─ 44bits 팟캐스트)]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/135</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/135</guid>
+            <pubDate>Sun, 27 Nov 2022 11:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221127_178/1669541111744RK2OF_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행사 발표 후기(MS Ignite, 구름 Commit) (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/134</link>
             <guid>https://audioclip.naver.com/channels/1807/clips/134</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/131</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221022_161/1666367063700vSy1J_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GitHub 9월 장애 리포트, Hacktoberfest 2022, 넷플릭스 광고 요금제 (오디오클립 ─ 44bits 팟캐스트)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/126</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국투자증권 본사 침수 및 데이터센터 등급 (오디오클립 ─ 44bits 팟캐스트)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/125</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E7: 애플과 나이키는 어떻게 인공지능으로 미래를 만들어가는가? (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
