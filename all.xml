@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 20:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 21:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[암호화폐 과세 2년 늦춰야… 국산 전기차 10만시대 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/829</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/829</guid>
+            <pubDate>Wed, 30 Nov 2022 21:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221130_235/1669800094263n4d2e_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[일론 머스크, 애플에 선전포고? …'중국 리스크' 현실화 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/828</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/828</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/825</guid>
             <pubDate>Thu, 24 Nov 2022 21:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221124_156/1669277930837WhmF9_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은행 예·적금 이자 4% 껑충… 월드컵 공인구의 비밀 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/820</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/820</guid>
             <pubDate>Thu, 17 Nov 2022 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플도 '메이드 인 USA'… 내 코인 지키는 '콜드월렛' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/819</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/819</guid>
-            <pubDate>Wed, 16 Nov 2022 21:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
