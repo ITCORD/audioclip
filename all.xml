@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 20:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 21:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[무너지는 암호화폐 생태계… 비트코인 살아남을까? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/831</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/831</guid>
+            <pubDate>Sun, 04 Dec 2022 21:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221204_285/1670149380863vmcSU_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[위스키와 NFT의 만남? 5년 뒤 전기차 점유율 90% (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/830</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/830</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/827</guid>
             <pubDate>Mon, 28 Nov 2022 21:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221128_279/1669623409878BOAJY_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위믹스 상장 폐지 어떻게 볼것인가? "자정노력 vs 갑질횡포" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/822</guid>
             <pubDate>Mon, 21 Nov 2022 21:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 반도체 공급망 회오리… 국내 친환경차 150만대 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/821</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/821</guid>
-            <pubDate>Sun, 20 Nov 2022 21:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
