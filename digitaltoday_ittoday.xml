@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 20:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 21:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 총성 없는 전쟁…애플페이 내년초 출시 가닥]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/833</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/833</guid>
+            <pubDate>Tue, 06 Dec 2022 21:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221206_196/1670320216308LI7eE_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스타트업 "성장보다 수익"… 애플 AR 헤드셋 내년 나온다]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/832</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/829</guid>
             <pubDate>Wed, 30 Nov 2022 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221130_235/1669800094263n4d2e_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크, 애플에 선전포고? …'중국 리스크' 현실화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/824</guid>
             <pubDate>Wed, 23 Nov 2022 21:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이폰15는 티타늄 바디? 하이브, BTS 의존도 낮춰라]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/823</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/823</guid>
-            <pubDate>Tue, 22 Nov 2022 21:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
