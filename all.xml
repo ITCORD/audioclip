@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 20:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 21:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위믹스 상폐, 출금은 어떻게? LG 전자 마스크 국내 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/835</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/835</guid>
+            <pubDate>Thu, 08 Dec 2022 21:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_122/1670489611814YCdSs_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[애플도 "메이드 인 USA" …먹통 원인 밝힌 카카오 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/834</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/834</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/831</guid>
             <pubDate>Sun, 04 Dec 2022 21:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221204_285/1670149380863vmcSU_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위스키와 NFT의 만남? 5년 뒤 전기차 점유율 90% (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/826</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/826</guid>
             <pubDate>Sun, 27 Nov 2022 21:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[월드컵 흐름 타는 네이버·카카오… 저커버그 CEO 사임설 '사실무근' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/825</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/825</guid>
-            <pubDate>Thu, 24 Nov 2022 21:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
