@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 20:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 21:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 앱스토어 개방하나? 중국, 내년 성장률 5%↑]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/839</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/839</guid>
+            <pubDate>Wed, 14 Dec 2022 21:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221214_241/1671005882283NlaUW_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포브스 선정 2022년 세계 최고 부자는 누구?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/838</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/835</guid>
             <pubDate>Thu, 08 Dec 2022 21:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_122/1670489611814YCdSs_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플도 "메이드 인 USA" …먹통 원인 밝힌 카카오]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/830</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/830</guid>
             <pubDate>Thu, 01 Dec 2022 21:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암호화폐 과세 2년 늦춰야… 국산 전기차 10만시대]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/829</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/829</guid>
-            <pubDate>Wed, 30 Nov 2022 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
