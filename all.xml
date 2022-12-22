@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 20:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 21:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마이크론 실적↓ 반도체 시장 먹구름… 알뜰폰 이용자 만족도↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/845</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/845</guid>
+            <pubDate>Thu, 22 Dec 2022 21:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221222_149/1671704992493SR9G3_PNG/43230EFC-0B1A-43B1-821E-0C5D97BD08B3.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[은행점포 줄고 무인 ATM 는다… 데이트도 메타버스로? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/844</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/844</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/841</guid>
             <pubDate>Sun, 18 Dec 2022 21:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221218_91/16713602360530nJRH_JPEG/photo_2022-09-30_10-29-28.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OTT 광고 요금제 '만지작'… 내년 투자 키워드 "AI" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/836</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/836</guid>
             <pubDate>Sun, 11 Dec 2022 21:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 상폐, 출금은 어떻게? LG 전자 마스크 국내 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/835</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/835</guid>
-            <pubDate>Thu, 08 Dec 2022 21:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
