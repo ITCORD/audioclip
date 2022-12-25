@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 20:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 21:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 수입차 300만시대… 대형마트 규제 완화?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/846</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/846</guid>
+            <pubDate>Sun, 25 Dec 2022 21:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221225_98/1671962546929MkfdW_PNG/ADA34DBE-14C8-4B97-B47B-2E7445CEA820.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크론 실적↓ 반도체 시장 먹구름… 알뜰폰 이용자 만족도↑]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/845</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/842</guid>
             <pubDate>Mon, 19 Dec 2022 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221219_217/1671447805894tofjX_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["타도 구글지도" 리눅스 진영 뭉쳤다… 판도라TV 역사 속으로]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/837</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/837</guid>
             <pubDate>Mon, 12 Dec 2022 21:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수퍼앱 무엇? …상장 실패한 유니콘 주가 '휘청']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/836</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/836</guid>
-            <pubDate>Sun, 11 Dec 2022 21:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
