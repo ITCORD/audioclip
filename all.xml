@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 20:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 21:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새해 가상자산 규제 고삐…다누리, 달 궤도 진입 성공 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/849</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/849</guid>
+            <pubDate>Wed, 28 Dec 2022 21:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221228_91/1672233595774HXQlU_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 팔릴까? 미리 보는 갤럭시 S23 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/848</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/848</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/845</guid>
             <pubDate>Thu, 22 Dec 2022 21:07:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221222_149/1671704992493SR9G3_PNG/43230EFC-0B1A-43B1-821E-0C5D97BD08B3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[은행점포 줄고 무인 ATM 는다… 데이트도 메타버스로? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/840</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/840</guid>
             <pubDate>Thu, 15 Dec 2022 21:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플 앱스토어 개방하나? 중국, 내년 성장률 5%↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/839</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/839</guid>
-            <pubDate>Wed, 14 Dec 2022 21:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
