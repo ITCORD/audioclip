@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 20:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 21:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임 한한령 풀릴까… 근본주라던 테슬라 주가 '폭삭']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/850</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/850</guid>
+            <pubDate>Thu, 29 Dec 2022 21:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221229_124/1672309086277CtBvJ_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새해 가상자산 규제 고삐…다누리, 달 궤도 진입 성공]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/849</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/846</guid>
             <pubDate>Sun, 25 Dec 2022 21:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221225_98/1671962546929MkfdW_PNG/ADA34DBE-14C8-4B97-B47B-2E7445CEA820.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크론 실적↓ 반도체 시장 먹구름… 알뜰폰 이용자 만족도↑]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/841</guid>
             <pubDate>Sun, 18 Dec 2022 21:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OTT 광고 요금제 '만지작'… 내년 투자 키워드 "AI"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/840</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/840</guid>
-            <pubDate>Thu, 15 Dec 2022 21:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
