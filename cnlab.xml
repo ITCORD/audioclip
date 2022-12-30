@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 04:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[저자토크] 끌리는 유튜브 성공법칙_선우의성 작가]]></title>
+            <link>https://audioclip.naver.com/channels/2394/clips/135</link>
+            <guid>https://audioclip.naver.com/channels/2394/clips/135</guid>
+            <pubDate>Fri, 30 Dec 2022 05:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_186/16723749474155GfyF_PNG/%B2%F8%B8%AE%B4%C2_%C0%AF%C6%A9%BA%EA_%BC%BA%B0%F8%B9%FD%C4%A2.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[123회. 유튜브 트렌드_2부_2022년 예측]]></title>
             <link>https://audioclip.naver.com/channels/2394/clips/134</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/131</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220403_186/164896592801199li3_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[119회. 글로벌 OTT 시장의 최근 동향_2부_국내동향,넷플릭스의 전략 변화,향후전망(게임,자동차)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/126</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[114회. NFT의 현재와 사업적 평가_1부_NFT현황,국내외 반응,규제당국 반응]]></title>
-            <link>https://audioclip.naver.com/channels/2394/clips/125</link>
-            <guid>https://audioclip.naver.com/channels/2394/clips/125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
