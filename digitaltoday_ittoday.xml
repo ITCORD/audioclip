@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 20:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 21:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰14+가 안 팔리는 이유? …CES 2023 개막]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/855</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/855</guid>
+            <pubDate>Thu, 05 Jan 2023 21:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_53/16729124133967q0pE_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비트코인 14주년… AI가 검색을 대신할 수 있을까?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/854</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/851</guid>
             <pubDate>Sun, 01 Jan 2023 21:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230101_55/1672564077600hSKd3_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[게임 한한령 풀릴까… 근본주라던 테슬라 주가 '폭삭']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/846</guid>
             <pubDate>Sun, 25 Dec 2022 21:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이크론 실적↓ 반도체 시장 먹구름… 알뜰폰 이용자 만족도↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/845</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/845</guid>
-            <pubDate>Thu, 22 Dec 2022 21:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
