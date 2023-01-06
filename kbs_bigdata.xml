@@ -4,7 +4,7 @@
         <title>오디오클립 ─ KBS 빅데이터로 보는 세상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 07:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210922_170/1632282295682Sk7zA_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1)]]></title>
