@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 20:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 21:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넥슨은 왜 카트라이더를 종료하나? 中스마트폰 시장↓ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/857</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/857</guid>
+            <pubDate>Mon, 09 Jan 2023 21:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230109_79/1673253691543MOpJ2_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[애플 AR 글래스는 언제… 엘살바도르 비트코인 전략 성공?실패? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/856</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/856</guid>
@@ -331,7 +339,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/853</guid>
             <pubDate>Tue, 03 Jan 2023 21:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230103_267/1672740836051c8UBn_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[올해 AI 열풍 어디까지? 3세대 애플 펜슬 특허 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -366,13 +373,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/848</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/848</guid>
             <pubDate>Tue, 27 Dec 2022 21:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반도체 산업 육성책 '흔들'… 내년 쉬는 날은 언제? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/847</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/847</guid>
-            <pubDate>Mon, 26 Dec 2022 21:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
