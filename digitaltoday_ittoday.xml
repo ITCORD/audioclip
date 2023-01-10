@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 21:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재택 근무 시대의 종말… 애플 아이폰15 초기 생산中]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/858</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/858</guid>
+            <pubDate>Tue, 10 Jan 2023 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230110_49/1673334781756YshO5_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넥슨은 왜 카트라이더를 종료하나? 中스마트폰 시장↓]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/857</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/854</guid>
             <pubDate>Wed, 04 Jan 2023 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_115/167282903796399Q2g_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[챗GPT가 뭐길래… 2022년 성적표 받아든 테슬라]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/849</guid>
             <pubDate>Wed, 28 Dec 2022 21:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 팔릴까? 미리 보는 갤럭시 S23]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/848</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/848</guid>
-            <pubDate>Tue, 27 Dec 2022 21:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
