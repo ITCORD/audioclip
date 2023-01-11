@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 20:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 21:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국내 클라우드 업계 술렁…'갤럭시S23' 2월 1일 공개 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/859</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/859</guid>
+            <pubDate>Wed, 11 Jan 2023 21:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230111_214/1673433024496U6zgC_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[재택 근무 시대의 종말… 애플 아이폰15 초기 생산中 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/858</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/858</guid>
@@ -331,7 +339,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/855</guid>
             <pubDate>Thu, 05 Jan 2023 21:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230105_53/16729124133967q0pE_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비트코인 14주년… AI가 검색을 대신할 수 있을까? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -367,13 +374,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/850</guid>
             <pubDate>Thu, 29 Dec 2022 21:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새해 가상자산 규제 고삐…다누리, 달 궤도 진입 성공 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/849</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/849</guid>
-            <pubDate>Wed, 28 Dec 2022 21:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
