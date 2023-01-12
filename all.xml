@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 20:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 22:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[테크판 감원 한파...카카오엔터, 1조2000억 글로벌 투자 유치 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/860</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/860</guid>
+            <pubDate>Thu, 12 Jan 2023 22:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230112_77/1673515417046pvl9g_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국내 클라우드 업계 술렁…'갤럭시S23' 2월 1일 공개 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/859</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/859</guid>
@@ -331,7 +339,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/856</guid>
             <pubDate>Sun, 08 Jan 2023 21:07:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230108_99/1673175824470yleTV_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아이폰14+가 안 팔리는 이유? …CES 2023 개막 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -366,13 +373,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/851</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/851</guid>
             <pubDate>Sun, 01 Jan 2023 21:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임 한한령 풀릴까… 근본주라던 테슬라 주가 '폭삭' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/850</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/850</guid>
-            <pubDate>Thu, 29 Dec 2022 21:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
