@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 20:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 21:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시S23 119만9000원 유력...보급형 에어팟 나오나]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/861</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/861</guid>
+            <pubDate>Sun, 15 Jan 2023 21:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230115_188/1673775999608iJ1TT_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테크판 감원 한파...카카오엔터, 1조2000억 글로벌 투자 유치]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/860</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/857</guid>
             <pubDate>Mon, 09 Jan 2023 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230109_79/1673253691543MOpJ2_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플 AR 글래스는 언제… 엘살바도르 비트코인 전략 성공?실패?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/852</guid>
             <pubDate>Mon, 02 Jan 2023 21:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새해 반도체·게임 지고… 방산, 철강 등 전통산업 유망]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/851</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/851</guid>
-            <pubDate>Sun, 01 Jan 2023 21:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
