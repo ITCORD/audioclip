@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 20:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 21:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙박 대신 이제 여행 떠나요… 하이망간 배터리 주목]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/862</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/862</guid>
+            <pubDate>Mon, 16 Jan 2023 21:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230116_230/1673859530297bnHnK_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시S23 119만9000원 유력...보급형 에어팟 나오나]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/861</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/858</guid>
             <pubDate>Tue, 10 Jan 2023 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230110_49/1673334781756YshO5_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨은 왜 카트라이더를 종료하나? 中스마트폰 시장↓]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/853</guid>
             <pubDate>Tue, 03 Jan 2023 21:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올해 AI 열풍 어디까지? 3세대 애플 펜슬 특허]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/852</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/852</guid>
-            <pubDate>Mon, 02 Jan 2023 21:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
