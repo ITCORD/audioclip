@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 22:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 23:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[中해커 농락당한 韓보안 …챗GPT가 월 42달러? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/868</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/868</guid>
+            <pubDate>Thu, 26 Jan 2023 23:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230126_151/1674723671728x7P7L_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[은행권 메타버스 돌파구… 한파에 부담 커지는 난방비 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/867</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/867</guid>
@@ -323,7 +331,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/865</guid>
             <pubDate>Thu, 19 Jan 2023 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230119_99/1674119590212Xaldg_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오직 성능만을! 애플 M2 맥북프로 드디어 나왔다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -366,13 +373,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/859</guid>
             <pubDate>Wed, 11 Jan 2023 21:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재택 근무 시대의 종말… 애플 아이폰15 초기 생산中 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/858</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/858</guid>
-            <pubDate>Tue, 10 Jan 2023 21:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
