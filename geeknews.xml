@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 긱뉴스 GeekNews</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 10:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 11:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/5505/clips/20</guid>
             <pubDate>Mon, 23 Jan 2023 12:14:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201231_258/1609340712034121bD_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[19회] FT의 데이터플랫폼 구축기, 슬랙의 Vitess 도입기,2021년 기술업계 예상]]></title>
