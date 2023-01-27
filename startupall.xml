@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 스타트업얼라이언스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 09:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 10:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/1729/clips/155</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201023_89/1603429405781VuQjU_JPEG/9.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오스페이스] 8화 - 9월 스타트업 투자동향]]></title>
