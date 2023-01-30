@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,6 +185,7 @@
             <guid>https://audioclip.naver.com/channels/471/clips/30</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20201223_20/16086521953226Bemf_JPEG/dip_1280.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터지능 S2E3: 테리와 진영의 수다 (오디오클립 ─ 데이터 지능 전문가들이 들려주는 데이터 & 인공지능 이야기)]]></title>
@@ -258,6 +259,7 @@
             <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210922_170/1632282295682Sk7zA_JPEG/741ac451236af2c4e347a867af2dbeaf7c55f5023d1b60fb7266e8e0521755e86dd160cc6a316b96.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
@@ -331,6 +333,7 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/866</guid>
             <pubDate>Tue, 24 Jan 2023 21:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230124_155/16745544336965prcQ_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블, 메타버스 걸그룹 데뷔… Z세대 취업 기준 '원격근무' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -478,6 +481,7 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/132</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_11/1648965960740cD22P_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[120회. 지역화폐는 제 3의 결제수단이 될 수 있을까?_1부 (오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​)]]></title>

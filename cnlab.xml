@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 커넥팅랩 IT 트렌드를 말하다. 커넥팅톡​​</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/132</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220403_11/1648965960740cD22P_PNG/%C1%F6%BF%AA%C8%AD%C6%F3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[120회. 지역화폐는 제 3의 결제수단이 될 수 있을까?_1부]]></title>

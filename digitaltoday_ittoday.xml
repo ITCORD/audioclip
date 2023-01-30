@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/866</guid>
             <pubDate>Tue, 24 Jan 2023 21:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230124_155/16745544336965prcQ_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블, 메타버스 걸그룹 데뷔… Z세대 취업 기준 '원격근무']]></title>
