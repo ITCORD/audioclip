@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 20:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 21:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 韓·日 화해 무드? 테슬라 '투자자의 날' 엇갈린 평가]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/894</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/894</guid>
+            <pubDate>Sun, 05 Mar 2023 21:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230305_21/1678009648004jr0LD_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 '투자자의 날'에서 밝힌 마스터 플랜3는?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/893</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/890</guid>
             <pubDate>Sun, 26 Feb 2023 21:08:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230227_191/1677426164969iNtfA_PNG/%BC%D2%BD%BA1_%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 HOT한 AI 스타트업 어디? 벤츠, 차량용 OS 만든다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/885</guid>
             <pubDate>Sun, 19 Feb 2023 21:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플 AR 헤드셋 6월 공개… AI는 인류의 적인가?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/884</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/884</guid>
-            <pubDate>Thu, 16 Feb 2023 21:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
