@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 20:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 21:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI휴먼] 실리콘밸리뱅크 파산 충격! 카카오-하이브, SM 인수전 종결]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/899</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/899</guid>
+            <pubDate>Sun, 12 Mar 2023 21:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230312_249/1678628254564l6pBC_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF3.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI휴먼] 6G 상용화 시기는 언제일까? 스타필드 9월 6일 출시]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/898</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/895</guid>
             <pubDate>Mon, 06 Mar 2023 21:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230306_223/16780933468189tl6y_PNG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[반도체 韓·日 화해 무드? 테슬라 '투자자의 날' 엇갈린 평가]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/890</guid>
             <pubDate>Sun, 26 Feb 2023 21:08:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요즘 HOT한 AI 스타트업 어디? 벤츠, 차량용 OS 만든다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/889</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/889</guid>
-            <pubDate>Thu, 23 Feb 2023 21:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
