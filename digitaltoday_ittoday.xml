@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 20:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 21:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 네이버가 찜한 3D 스타트업은? 주 4일제 미리 해보니]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/903</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/903</guid>
+            <pubDate>Thu, 16 Mar 2023 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230316_120/1678952399366xrQTe_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] GPT-4 뭐가 달라졌나? 네이버·카카오 구조조정 칼바람]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/902</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/899</guid>
             <pubDate>Sun, 12 Mar 2023 21:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230316_28/1678930756925uLq3s_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 6G 상용화 시기는 언제일까? 스타필드 9월 6일 출시]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/894</guid>
             <pubDate>Sun, 05 Mar 2023 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 '투자자의 날'에서 밝힌 마스터 플랜3는?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/893</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/893</guid>
-            <pubDate>Thu, 02 Mar 2023 21:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
