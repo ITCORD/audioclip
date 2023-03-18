@@ -4,9 +4,83 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 13:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 14:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[23회] 인텔의 현재 문제점과 전망, Elastic과 AWS의 대립 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/24</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/24</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210128_26/16118306752726WNq3_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[22회] 회의도, 데드라인도, 풀타임 직원도 없는 회사 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/23</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/23</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210121_228/16112352800662EF3l_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[21회] 내가 소프트웨어 업계에서 45년간 배운 것, 돈내고 써도 만족스러운 SaaS들 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/21</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/21</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20210115_226/1610706226484IsQN3_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[20회] M1은 RISC-V의 상승을 예고, .ORG를 구한 방법, Hotwire (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/20</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/20</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20201231_258/1609340712034121bD_PNG/GeekNews-AudioClip-Logo-1_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[19회] FT의 데이터플랫폼 구축기, 슬랙의 Vitess 도입기,2021년 기술업계 예상 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/19</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/19</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[18회] 내가 2020년에 배운 52가지, 프론트엔드 체크리스트, Typesense (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/18</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/18</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[17회] M1칩이 빠른이유, Times 선정 최고의 발명품, Stripe Treasury (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/17</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/17</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[16회] Data Discovery Platform의 모든것, Reddit 활용하기 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/16</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/16</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[15회] DMCA와 GitHub의 Youtube-dl복원, 앱스토어 수수료 15% 인하 (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/15</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/15</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[14회] 실패하지 않는 뉴욕타임스, 애플M1칩과 차세대 Mac (오디오클립 ─ 긱뉴스 GeekNews)]]></title>
+            <link>https://audioclip.naver.com/channels/5505/clips/14</link>
+            <guid>https://audioclip.naver.com/channels/5505/clips/14</guid>
+            <pubDate>Sat, 18 Mar 2023 14:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LA 마리나 델 레이 (오디오클립 ─ 44bits 팟캐스트)]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/136</link>
