@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 20:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 21:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플페이 반나절만에 17만명 등록… 로봇이 전기차 충전?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/906</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/906</guid>
+            <pubDate>Tue, 21 Mar 2023 21:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230321_139/1679388438508CCkkX_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 음성 비서는 왜 챗GPT에 밀렸나? 편의점에서 전기차 충전]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/905</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/902</guid>
             <pubDate>Wed, 15 Mar 2023 21:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230316_271/1678930903808wymGW_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 챗GPT 품은 로봇·자동차… 애플 강남점 31일 오픈]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/897</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/897</guid>
             <pubDate>Wed, 08 Mar 2023 21:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오 vs 하이브… SM엔터 인수 놓고 '쩐의전쟁']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/896</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/896</guid>
-            <pubDate>Tue, 07 Mar 2023 21:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
