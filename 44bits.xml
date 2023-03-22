@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국에도 IT 겨울은 오는가]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/143</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/143</guid>
+            <pubDate>Wed, 22 Mar 2023 06:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230322_157/16794626751749vOFw_JPEG/thumbnail_square.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS re:Invent 2022 현장]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/142</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/142</guid>
+            <pubDate>Wed, 22 Mar 2023 06:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230314_73/1678794897650N9CYH_JPEG/thumbnail_square.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LA 마리나 델 레이]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/136</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/134</guid>
             <pubDate>Sun, 27 Nov 2022 09:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221122_57/1669045448556tWKN5_JPEG/thumbnail.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GitHub Universe 2022]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/133</guid>
             <pubDate>Mon, 21 Nov 2022 16:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221122_158/1669042987008ltDXl_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Datadog 컨퍼런스 Dash 2022 참가 이야기]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/129</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 플레어 신규 서비스 발표]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/128</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/128</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 장애, 애플 신제품 발표(아이폰 14, 애플워치 울트라)]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/127</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/127</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>71분]]></content:encoded>
         </item>
     </channel>
 </rss>
