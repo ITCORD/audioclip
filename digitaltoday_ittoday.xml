@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 20:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 21:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플페이 찻잔 속 태풍? 되려 찻잔이 깨질 정도!]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/907</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/907</guid>
+            <pubDate>Wed, 22 Mar 2023 21:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230322_154/1679475559858oy5w6_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플페이 반나절만에 17만명 등록… 로봇이 전기차 충전?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/906</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/903</guid>
             <pubDate>Thu, 16 Mar 2023 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230316_120/1678952399366xrQTe_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] GPT-4 뭐가 달라졌나? 네이버·카카오 구조조정 칼바람]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/898</guid>
             <pubDate>Thu, 09 Mar 2023 21:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 한국산 배터리 패싱? 국민소득 4만달러 시대 오나]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/897</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/897</guid>
-            <pubDate>Wed, 08 Mar 2023 21:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
