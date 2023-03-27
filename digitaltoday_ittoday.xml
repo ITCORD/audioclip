@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 20:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 21:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플 MR 헤드셋 잘 나올까? 전기차 시장 눈 뜬 아프리카]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/910</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/910</guid>
+            <pubDate>Mon, 27 Mar 2023 21:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230327_247/1679902411975xpPY7_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서]'빙' 검색 판도 바꿀까… 대기업 평균 연봉 1억 시대]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/909</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/906</guid>
             <pubDate>Tue, 21 Mar 2023 21:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230321_139/1679388438508CCkkX_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 음성 비서는 왜 챗GPT에 밀렸나? 편의점에서 전기차 충전]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/901</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/901</guid>
             <pubDate>Tue, 14 Mar 2023 21:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 잇따른 美은행 파산…왜? K배터리, LFP 역주행]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/900</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/900</guid>
-            <pubDate>Mon, 13 Mar 2023 21:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
