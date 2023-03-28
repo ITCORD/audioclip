@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 20:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 21:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나서운] 카카오3법 이달 나온다… 어른들의 장난감 '레고 디펜더' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/911</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/911</guid>
+            <pubDate>Tue, 28 Mar 2023 21:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230328_204/1680000222965fb1nv_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 애플 MR 헤드셋 잘 나올까? 전기차 시장 눈 뜬 아프리카 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/910</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/910</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/907</guid>
             <pubDate>Wed, 22 Mar 2023 21:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230322_154/1679475559858oy5w6_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플페이 반나절만에 17만명 등록… 로봇이 전기차 충전? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/902</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/902</guid>
             <pubDate>Wed, 15 Mar 2023 21:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 챗GPT 품은 로봇·자동차… 애플 강남점 31일 오픈 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/901</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/901</guid>
-            <pubDate>Tue, 14 Mar 2023 21:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
