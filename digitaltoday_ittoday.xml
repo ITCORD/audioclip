@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 20:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 21:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] "AI 개발 중단하라" 한 목소리… 갤럭시 A34 5G 출시]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/913</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/913</guid>
+            <pubDate>Thu, 30 Mar 2023 21:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230330_282/1680160688549Gg2QJ_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플스토어 강남, 31일 오픈… 비즈니스 현장에 스며든 AI]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/912</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/909</guid>
             <pubDate>Sun, 26 Mar 2023 21:07:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230326_264/1679831000994T8FPU_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서]애플, 자율주행 포기 없다… AI 시대, 내 직업은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/904</guid>
             <pubDate>Sun, 19 Mar 2023 21:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 네이버가 찜한 3D 스타트업은? 주 4일제 미리 해보니]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/903</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/903</guid>
-            <pubDate>Thu, 16 Mar 2023 21:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
