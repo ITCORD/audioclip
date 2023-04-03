@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 20:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 21:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 빌 게이츠 "자율주행차 혁명적"…가성비 무장 갤럭시A34]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/915</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/915</guid>
+            <pubDate>Mon, 03 Apr 2023 21:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230403_194/1680507504877HLMDS_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 빌 게이츠 "자율주행차 혁명적"…가성비 무장 갤럭시A34]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/914</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/911</guid>
             <pubDate>Tue, 28 Mar 2023 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230328_204/1680000222965fb1nv_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 MR 헤드셋 잘 나올까? 전기차 시장 눈 뜬 아프리카]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/906</guid>
             <pubDate>Tue, 21 Mar 2023 21:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 음성 비서는 왜 챗GPT에 밀렸나? 편의점에서 전기차 충전]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/905</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/905</guid>
-            <pubDate>Mon, 20 Mar 2023 21:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
