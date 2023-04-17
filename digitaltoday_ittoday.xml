@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 20:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 21:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 애플의 혼합현실과 SW 생태계…틱톡 금지 국가는?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/925</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/925</guid>
+            <pubDate>Mon, 17 Apr 2023 21:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230417_93/1681714910316PeePB_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 아이폰 쓰는 사람들이 계속 늘어나는 이유는?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/924</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/921</guid>
             <pubDate>Tue, 11 Apr 2023 21:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230411_99/16811963662557RHD1_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아니운서] 자산 토큰화는 금융의 미래? 테슬라, 상하이에 배터리 공장]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/916</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/916</guid>
             <pubDate>Tue, 04 Apr 2023 21:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] AI 덕에 인류 노동 해방… 폭스바겐 골프 단종]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/915</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/915</guid>
-            <pubDate>Mon, 03 Apr 2023 21:07:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
