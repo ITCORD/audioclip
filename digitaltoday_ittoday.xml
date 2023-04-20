@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 20:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 21:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 中·日 AI 경쟁 점화…테슬라 1분기 실적 '흔들']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/928</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/928</guid>
+            <pubDate>Thu, 20 Apr 2023 21:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230420_243/1681972036940XpJ3R_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 빅테크 최대 화두는 'AI 반도체'…넷플릭스 계정 공유 유료화]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/927</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/924</guid>
             <pubDate>Sun, 16 Apr 2023 21:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230416_114/1681642748955Cfd3D_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 현대차-LG엔솔-SK온 삼각동맹…버핏 "애플 주식 안팔아"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/919</guid>
             <pubDate>Sun, 09 Apr 2023 21:07:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 다음 타깃은 비디오 AI? …이더리움 투자주의보]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/918</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/918</guid>
-            <pubDate>Thu, 06 Apr 2023 21:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
