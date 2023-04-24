@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 20:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 21:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 윤곽 드러나는 애플 헤드셋, 알파고 만든 딥마인드 나섰다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/930</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/930</guid>
+            <pubDate>Mon, 24 Apr 2023 21:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_187/1682319716748HsURP_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 확장현실? 혼합현실? 문제는 디스플레이야!]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/929</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/926</guid>
             <pubDate>Tue, 18 Apr 2023 21:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230418_192/1681795599617x93bR_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 애플의 혼합현실과 SW 생태계…틱톡 금지 국가는?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/921</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/921</guid>
             <pubDate>Tue, 11 Apr 2023 21:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아니운서] 자산 토큰화는 금융의 미래? 테슬라, 상하이에 배터리 공장]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/920</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/920</guid>
-            <pubDate>Mon, 10 Apr 2023 21:07:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
