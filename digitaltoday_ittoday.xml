@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 20:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 21:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 美 빅테크 Q1실적 포인트는? ...한반도 사이버보안 위협 급증]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/932</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/932</guid>
+            <pubDate>Wed, 26 Apr 2023 21:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230426_234/1682492726135I6h7C_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 24년까지 10만달러 간다? 존폐 기로 비대면 진료]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/931</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/928</guid>
             <pubDate>Thu, 20 Apr 2023 21:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230420_243/1681972036940XpJ3R_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 빅테크 최대 화두는 'AI 반도체'…넷플릭스 계정 공유 유료화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/923</guid>
             <pubDate>Thu, 13 Apr 2023 21:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트코인 3만달러 돌파…中 알리바바 챗GPT 대항마 선봬]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/922</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/922</guid>
-            <pubDate>Wed, 12 Apr 2023 21:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
