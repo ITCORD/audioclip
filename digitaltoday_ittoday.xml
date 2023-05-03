@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 20:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 21:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 폴더블폰 시장 경쟁 고조...실제 의사보다 나은 'AI 의사'?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/936</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/936</guid>
+            <pubDate>Wed, 03 May 2023 21:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230503_293/1683100097211uCax9_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 구글 퇴사 AI 대부 "AI 위험성 경고"...덜 소셜해지는 빅 SNS]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/935</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/932</guid>
             <pubDate>Wed, 26 Apr 2023 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230426_234/1682492726135I6h7C_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 24년까지 10만달러 간다? 존폐 기로 비대면 진료]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/927</guid>
             <pubDate>Wed, 19 Apr 2023 21:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 美 전기차 보조금 한·일·유럽 '찬밥'…일론 머스크도 AI?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/926</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/926</guid>
-            <pubDate>Tue, 18 Apr 2023 21:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
