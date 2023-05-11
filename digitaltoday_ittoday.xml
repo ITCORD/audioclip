@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 20:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 21:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] '구글의 도발' 바드·픽셀 폴드 전면 공개, 애플 아이메시지는 비판?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/941</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/941</guid>
+            <pubDate>Thu, 11 May 2023 21:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230511_113/1683811319965szA05_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 창업자 "AI 규제 타깃은 기업"...카카오톡 '조용히 나가기']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/940</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/937</guid>
             <pubDate>Sun, 07 May 2023 21:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230507_184/1683453794222BTuW5_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 폴더블폰 시장 경쟁 고조...실제 의사보다 나은 'AI 의사'?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/932</guid>
             <pubDate>Wed, 26 Apr 2023 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트코인 24년까지 10만달러 간다? 존폐 기로 비대면 진료]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/931</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/931</guid>
-            <pubDate>Tue, 25 Apr 2023 21:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
