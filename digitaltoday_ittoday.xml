@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 20:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 21:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 韓, 美국채 보유 세계 18위…기준금리 동결 '유력']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/947</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/947</guid>
+            <pubDate>Sun, 21 May 2023 21:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230521_150/1684663187880Vxanc_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 챗GPT 악용 '피싱' 주의보...NFT도 개구리가 '대세']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/946</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/943</guid>
             <pubDate>Mon, 15 May 2023 21:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230515_293/1684133124218ypv0X_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 배터리 업계 리튬 공급 '골몰'…AI 목소리 저작권은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/938</guid>
             <pubDate>Mon, 08 May 2023 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AI·틱톡 시대 구글 검색의 진화…버핏 "AI, 인간 못이겨"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/937</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/937</guid>
-            <pubDate>Sun, 07 May 2023 21:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
