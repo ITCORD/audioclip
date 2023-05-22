@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 20:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 21:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] LLM 접근 방식 무엇이 옳나?...민간우주비행 'Ax-2' 성공]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/948</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/948</guid>
+            <pubDate>Mon, 22 May 2023 21:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230522_80/1684739937132zH0YG_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 韓, 美국채 보유 세계 18위…기준금리 동결 '유력']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/947</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/944</guid>
             <pubDate>Tue, 16 May 2023 22:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230516_60/1684215206763jekRc_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 M3 칩셋 연말 출시?...흔들리는 P2E 생태계]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/939</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/939</guid>
             <pubDate>Tue, 09 May 2023 21:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 코딩 몰라도 앱 개발...워렌 버핏의 경고 "AI는 핵폭탄"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/938</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/938</guid>
-            <pubDate>Mon, 08 May 2023 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
