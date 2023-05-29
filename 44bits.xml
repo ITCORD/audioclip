@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 44bits 팟캐스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 04:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터 장애, ChatGPT등 AI]]></title>
+            <link>https://audioclip.naver.com/channels/1807/clips/144</link>
+            <guid>https://audioclip.naver.com/channels/1807/clips/144</guid>
+            <pubDate>Mon, 29 May 2023 05:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230529_32/1685332604825wmSE6_JPEG/thumbnail_square.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국에도 IT 겨울은 오는가]]></title>
             <link>https://audioclip.naver.com/channels/1807/clips/143</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/135</guid>
             <pubDate>Sun, 27 Nov 2022 11:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221127_178/1669541111744RK2OF_JPEG/thumbnail_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행사 발표 후기(MS Ignite, 구름 Commit)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1807/clips/130</guid>
             <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡 메시지 송수신 장애, AWS re:invent 2022]]></title>
-            <link>https://audioclip.naver.com/channels/1807/clips/129</link>
-            <guid>https://audioclip.naver.com/channels/1807/clips/129</guid>
-            <pubDate>Wed, 16 Nov 2022 17:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
     </channel>
 </rss>
