@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 20:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 21:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 삼성 '자가수리' 가능...NVDA "AI로 누구나 프로그래머"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/953</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/953</guid>
+            <pubDate>Tue, 30 May 2023 21:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230530_292/1685431265311waOl8_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] CFD 규제 대폭 손질...美 부채한도 협상 타결에 코인장 ↑]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/952</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/949</guid>
             <pubDate>Tue, 23 May 2023 21:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230523_250/1684843337319QWVjJ_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] LLM 접근 방식 무엇이 옳나?...민간우주비행 'Ax-2' 성공]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/944</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/944</guid>
             <pubDate>Tue, 16 May 2023 22:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 애플 M3 칩셋 연말 출시?...흔들리는 P2E 생태계]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/943</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/943</guid>
-            <pubDate>Mon, 15 May 2023 21:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
