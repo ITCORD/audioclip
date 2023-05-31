@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 20:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 21:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 北발사 경보 네이버에 '불똥'...아이폰16 '역대급 크기']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/954</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/954</guid>
+            <pubDate>Wed, 31 May 2023 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230531_98/1685516631438Klit3_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성 '자가수리' 가능...NVDA "AI로 누구나 프로그래머"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/953</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/950</guid>
             <pubDate>Wed, 24 May 2023 21:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230524_12/1684914198122sz2ac_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] '실검 부활' 뭇매에 주춤한 네카오...美 펜타곤 폭발?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/945</guid>
             <pubDate>Wed, 17 May 2023 21:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 워렌 버핏 TSMC 손 뗀다...애플 앱스토어 '먹통']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/944</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/944</guid>
-            <pubDate>Tue, 16 May 2023 22:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
