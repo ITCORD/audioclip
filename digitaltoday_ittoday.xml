@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 21:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] SEC "디지털 화폐 불필요"...혼합보다 '현실'에 집중한 애플]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/958</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/958</guid>
+            <pubDate>Wed, 07 Jun 2023 21:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230607_269/1686125185681ceeuW_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 애플이 WWDC 2023에서 선보인 것들]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/957</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/954</guid>
             <pubDate>Wed, 31 May 2023 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230531_98/1685516631438Klit3_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성 '자가수리' 가능...NVDA "AI로 누구나 프로그래머"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/949</guid>
             <pubDate>Tue, 23 May 2023 21:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] LLM 접근 방식 무엇이 옳나?...민간우주비행 'Ax-2' 성공]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/948</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/948</guid>
-            <pubDate>Mon, 22 May 2023 21:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
     </channel>
 </rss>
