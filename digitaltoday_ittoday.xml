@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 20:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 21:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 'AI로 불량 판단' 3D CT, 원통형 배터리에도 활용?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/965</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/965</guid>
+            <pubDate>Sun, 18 Jun 2023 21:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230618_278/1687075772973lPi1Q_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 코인베이스 "DEX 규제 불가능"...AI가 유독 '손' 못 그리는 이유]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/964</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/961</guid>
             <pubDate>Mon, 12 Jun 2023 21:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230612_268/1686552587399O3Juu_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 5G 성장 이끄는 알뜰폰...韓 유럽 기후기금 58억 출연]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/956</guid>
             <pubDate>Sun, 04 Jun 2023 21:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 귀하신 몸 'GPU' 모시기...아이폰 환승 역대 최다]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/955</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/955</guid>
-            <pubDate>Thu, 01 Jun 2023 21:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
