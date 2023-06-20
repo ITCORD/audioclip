@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 20:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 21:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] '점입가경' 쿠팡-CJ 갈등…테라 권도형 징역 4개월]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/967</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/967</guid>
+            <pubDate>Tue, 20 Jun 2023 21:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230620_52/168724251072550E5D_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 통신3사 2Q 영업익 1조?...메타 '퀘스트' 연령제한 10세로]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/966</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/963</guid>
             <pubDate>Wed, 14 Jun 2023 21:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230614_256/1686725143432iGMae_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 쫓는 구글, 긴장한 네카오...수낵 총리 "영국 AI 기술 규제 중심"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/958</guid>
             <pubDate>Wed, 07 Jun 2023 21:07:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 애플이 WWDC 2023에서 선보인 것들]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/957</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/957</guid>
-            <pubDate>Tue, 06 Jun 2023 21:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
