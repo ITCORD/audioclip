@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 20:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 21:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 'AI 맞춤' 데이터 관리 전략...'만 나이' 통일에 이것 주의 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/970</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/970</guid>
+            <pubDate>Sun, 25 Jun 2023 21:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230625_81/16876833247811J2Go_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI 아나운서] 가상자산 민사법 반영될까?...파월 "스테이블코인은 화폐" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/969</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/969</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/966</guid>
             <pubDate>Mon, 19 Jun 2023 21:08:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230619_163/16871846929669z5Fz_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 'AI로 불량 판단' 3D CT, 원통형 배터리에도 활용? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/961</guid>
             <pubDate>Mon, 12 Jun 2023 21:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 5G 성장 이끄는 알뜰폰...韓 유럽 기후기금 58억 출연 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/960</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/960</guid>
-            <pubDate>Sun, 11 Jun 2023 21:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
