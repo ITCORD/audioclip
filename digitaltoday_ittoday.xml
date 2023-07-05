@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 20:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 21:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 사이버안보 관제탑은?...애플워치 mLED 탑재 또 연기]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/978</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/978</guid>
+            <pubDate>Wed, 05 Jul 2023 21:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230705_173/1688540992922Pbput_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] EV 배터리는 구독, 애플은 배달…'또' 트위터 대항마?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/977</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/974</guid>
             <pubDate>Thu, 29 Jun 2023 21:08:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230629_141/1688024288323ox7MP_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 배달앱 '치킨게임' 돌입...구글, 챗GPT 능가 '제미니' 선뵌다]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/969</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/969</guid>
             <pubDate>Thu, 22 Jun 2023 21:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] '은행 GPT' 경쟁 점화...테쓸라, 中 생산 확대 어려워]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/968</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/968</guid>
-            <pubDate>Wed, 21 Jun 2023 21:08:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
