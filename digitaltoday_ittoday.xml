@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 20:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 21:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 국산 블록체인 레이어2 통할까?...스페이스X 허가 취소 위기]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/981</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/981</guid>
+            <pubDate>Mon, 10 Jul 2023 21:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230710_92/1688974485125LDUpn_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 구글, 의료용 LLM '메드-팜2'...KDI "경기 저점 지나"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/980</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/977</guid>
             <pubDate>Tue, 04 Jul 2023 21:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230704_194/1688457038507w4KtL_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 가상자산법 내년 6월 시행…금으로 만든 애플 비전 프로]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/972</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/972</guid>
             <pubDate>Tue, 27 Jun 2023 21:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트코인 현물 ETF 파장은?...스페이스X 기업가치 197조원?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/971</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/971</guid>
-            <pubDate>Mon, 26 Jun 2023 21:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
