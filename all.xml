@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 20:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 21:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 韓 분리막 EU·북미 1위 전망...테슬라 '옵티머스' 출시는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/986</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/986</guid>
+            <pubDate>Mon, 17 Jul 2023 21:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230717_49/1689575002195wD4K0_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI 아나운서] 스레드 돌풍 언제까지?…새마을금고 사태에도 2금융 수신 2.5조↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/985</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/985</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/982</guid>
             <pubDate>Tue, 11 Jul 2023 21:08:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230711_43/16890617914097DeDm_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 국산 블록체인 레이어2 통할까?...스페이스X 허가 취소 위기 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/977</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/977</guid>
             <pubDate>Tue, 04 Jul 2023 21:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 가상자산법 내년 6월 시행…금으로 만든 애플 비전 프로 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/976</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/976</guid>
-            <pubDate>Mon, 03 Jul 2023 21:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
