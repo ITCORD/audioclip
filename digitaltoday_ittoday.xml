@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 20:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 21:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] MS, 메타와도 AI 동맹...테슬라, 삼성 손잡나?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/988</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/988</guid>
+            <pubDate>Wed, 19 Jul 2023 21:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230719_240/1689750450027uADj9_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 현물 ETF 승인 "회의적"...사이버트럭 양산 시작]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/987</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/984</guid>
             <pubDate>Thu, 13 Jul 2023 21:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230713_119/16892320454014I9U5_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] BIS "가상자산, 화폐로 부적합"...앤트로픽 '클로드2' 공개]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/979</guid>
             <pubDate>Thu, 06 Jul 2023 21:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 사이버안보 관제탑은?...애플워치 mLED 탑재 또 연기]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/978</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/978</guid>
-            <pubDate>Wed, 05 Jul 2023 21:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
