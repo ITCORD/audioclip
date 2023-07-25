@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 20:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 21:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 월드코인의 4가지 '리스크'...트위터 X 전환에 20조 증발?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/992</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/992</guid>
+            <pubDate>Tue, 25 Jul 2023 21:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230725_207/1690268281860nvvP9_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] LLM 호황에 '합성 데이터' 관심↑...애플, '폴더블 맥북" 먼저?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/991</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/988</guid>
             <pubDate>Wed, 19 Jul 2023 21:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230719_240/1689750450027uADj9_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 현물 ETF 승인 "회의적"...사이버트럭 양산 시작]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/983</guid>
             <pubDate>Wed, 12 Jul 2023 21:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 계속되는 디지털화폐 낙관론...'일론제트' 스레드서 부활]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/982</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/982</guid>
-            <pubDate>Tue, 11 Jul 2023 21:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
