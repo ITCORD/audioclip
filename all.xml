@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 20:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 21:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 생성AI-음성 비서 통합 급물살...머스크, 미국인 신용카드빚 우려 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/997</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/997</guid>
+            <pubDate>Tue, 01 Aug 2023 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230801_131/1690876198472gHb9D_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 머스크의 쉽지 않은 '슈퍼앱' 도전...구글 딥마인드, 동작 출력 AI 모델 공개 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/996</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/996</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/993</guid>
             <pubDate>Wed, 26 Jul 2023 21:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230726_136/1690379758415L1CNf_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 월드코인의 4가지 '리스크'...트위터 X 전환에 20조 증발? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/988</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/988</guid>
             <pubDate>Wed, 19 Jul 2023 21:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 비트코인 현물 ETF 승인 "회의적"...사이버트럭 양산 시작 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/987</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/987</guid>
-            <pubDate>Tue, 18 Jul 2023 21:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
