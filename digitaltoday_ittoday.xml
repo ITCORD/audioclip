@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 20:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 21:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 커지는 K-분리막 잠재력...머스크 "테슬라 FSD 마지막 퍼즐 남아"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/999</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/999</guid>
+            <pubDate>Thu, 03 Aug 2023 21:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230803_242/1691045625711BUqOU_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 바이낸스 US, 올초 폐업 추진...유튜브 영상 AI로 요약?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/998</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/995</guid>
             <pubDate>Sun, 30 Jul 2023 21:06:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230730_236/1690724046344o7ejk_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 갤럭시Z 플립5·폴드5 공개...7개 車업체 '전기차 충전 동맹']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/990</guid>
             <pubDate>Sun, 23 Jul 2023 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 애플 "챗GPT 대항마 테스트"...테슬라 2Q 매출 20%↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/989</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/989</guid>
-            <pubDate>Thu, 20 Jul 2023 21:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
