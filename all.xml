@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 11:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 12:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,80 +230,6 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>112분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주의 키워드 - 뉴스 톱 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1697</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1697</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_154/1687886423083jnuuq_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 키워드 - 디지털 성범죄 피해를 막는 빅데이터 기술 ! (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1696</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1696</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_154/1687886423083jnuuq_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(3) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1694</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1694</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_154/1687886423083jnuuq_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(2) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1695</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_154/1687886423083jnuuq_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1) (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1693</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1693</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주의 키워드 - 뉴스 톱 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1692</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1692</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 키워드 - 카카오, 택시 유료호출 폐지 (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1691</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1691</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 키워드 - 탑골 예능 ! (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1690</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1690</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 키워드 - 코로나 시대의 ‘집콕 추석’ (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1689</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1689</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 키워드 - 트렌드란 무엇인가? (오디오클립 ─ KBS 빅데이터로 보는 세상)]]></title>
-            <link>https://audioclip.naver.com/channels/1168/clips/1688</link>
-            <guid>https://audioclip.naver.com/channels/1168/clips/1688</guid>
-            <pubDate>Mon, 01 May 2023 11:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[AI 아나운서] 커지는 K-분리막 잠재력...머스크 "테슬라 FSD 마지막 퍼즐 남아" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/999</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/999</guid>
@@ -524,80 +450,6 @@
             <guid>https://audioclip.naver.com/channels/2394/clips/126</guid>
             <pubDate>Mon, 01 May 2023 11:07:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 12화 - 온라인 재부캠 비하인드 스토리 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/158</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/158</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201204_137/1607065455837zpOML_JPEG/ospace_audio12.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 11화 - 우리가 스얼레터를 쓰는 이유 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/157</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/157</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201106_284/1604649359835HVAhK_JPEG/11s.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 10화 - 스얼의 11월 행사 미리보기 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/156</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/156</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201030_192/1604026221282LbcaD_JPEG/ospace_audio10.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 9화 - 건강관리를 돕는 스타트업 서비스 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/155</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/155</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20201023_89/1603429405781VuQjU_JPEG/9.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 8화 - 9월 스타트업 투자동향 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/154</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/154</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 7화 - 실리콘밸리의 한국인 행사 비하인드 스토리 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/153</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/153</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 6화 - 비대면 스타트업 서비스 톺아보기 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/152</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/152</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 5화 - 온라인 미니컨 비하인드 스토리 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/151</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/151</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오스페이스] 4화 - 7월 스타트업 투자동향 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/150</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/150</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 생태계 컨퍼런스 2020] 패널토론_4 (오디오클립 ─ 스타트업얼라이언스)]]></title>
-            <link>https://audioclip.naver.com/channels/1729/clips/149</link>
-            <guid>https://audioclip.naver.com/channels/1729/clips/149</guid>
-            <pubDate>Mon, 01 May 2023 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
