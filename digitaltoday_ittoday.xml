@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 20:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 21:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 비트코인 주간 수익률↓...러 달탐사 시도 '실패']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1011</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1011</guid>
+            <pubDate>Mon, 21 Aug 2023 21:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230821_94/16926003116797FtIS_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 삼성·LGD '올레도스' 개발 집중…유럽도 고금리 태풍]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1010</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1007</guid>
             <pubDate>Tue, 15 Aug 2023 21:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230816_191/1692111754722YqCCC_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 화상회의 플랫폼 재편 가속…카톡-유튜브 MAU 역대 최소차]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1002</guid>
             <pubDate>Mon, 07 Aug 2023 21:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 애플, LLM 개발 속도…금감원, 전금융권 'PF 자금' 긴급점검]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1000</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1000</guid>
-            <pubDate>Sun, 06 Aug 2023 21:06:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
