@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 20:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 21:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 통신3사 생성AI 곧 출시...정부, 추경 없이 '세수 펑크' 메꾼다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1020</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1020</guid>
+            <pubDate>Sun, 03 Sep 2023 21:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230903_274/1693724782333fnGDL_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 현물 ETF 연내 승인?...테슬라 '일론 모드' 뭐길래?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1019</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1016</guid>
             <pubDate>Mon, 28 Aug 2023 21:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230828_13/1693205613227NkewM_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 삼성-SK, HBM3 경쟁↑…中 경제 둔화 美 영향 '미비']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1011</guid>
             <pubDate>Mon, 21 Aug 2023 21:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 삼성·LGD '올레도스' 개발 집중…유럽도 고금리 태풍]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1010</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1010</guid>
-            <pubDate>Sun, 20 Aug 2023 23:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
