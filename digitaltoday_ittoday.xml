@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 20:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 21:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] KT 고객은 '무빙' 무료로 본다?...애플, AR 안경 출시 시동?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1023</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1023</guid>
+            <pubDate>Wed, 06 Sep 2023 21:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230906_146/1693983704750wtKf9_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 번스타인, 알트코인 현물 ETF 전망...애플, 스마트폰 판매 삼성 앞질러?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1022</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1019</guid>
             <pubDate>Thu, 31 Aug 2023 21:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230831_249/1693461391301D4iVn_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 애플, 9월 12일 아이폰15 공개...구글 만난 엔비디아, 주가 '최고치']]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1014</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1014</guid>
             <pubDate>Thu, 24 Aug 2023 21:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] AI 칩 매출 534억달러 전망...美법무부, 바이낸스 수사 "세탁 방치했다"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1013</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1013</guid>
-            <pubDate>Wed, 23 Aug 2023 21:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
