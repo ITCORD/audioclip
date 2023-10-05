@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 20:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 21:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 픽셀8 스마트폰 공개…손정의 "초지능 곧 나온다"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1040</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1040</guid>
+            <pubDate>Thu, 05 Oct 2023 21:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231005_144/16964892955953YzI1_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 애플과 구글의 검색 밀약 계속 이어질까?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1039</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1036</guid>
             <pubDate>Mon, 25 Sep 2023 21:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230925_281/1695623540030aSkCi_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 네카오 '소셜' 강화 왜?…우주항공청 연내 개청 불투명]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1031</guid>
             <pubDate>Mon, 18 Sep 2023 21:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] UAM 어디까지 왔나…삼성·SK 반도체 장비 수출 향방은?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1030</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1030</guid>
-            <pubDate>Sun, 17 Sep 2023 22:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
