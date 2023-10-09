@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 22:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 유니티 '공공의 적'된 이유?…국제 유가, 4% 급등]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1041</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1041</guid>
+            <pubDate>Mon, 09 Oct 2023 22:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231010_211/1696887306660ty4BM_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 픽셀8 스마트폰 공개…손정의 "초지능 곧 나온다"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1040</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1037</guid>
             <pubDate>Tue, 26 Sep 2023 21:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230926_185/1695710594702RNnfG_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 반도체 파운드리 '판세' 변화...코인베이스, 전체 BTC 5% 보유]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1032</guid>
             <pubDate>Tue, 19 Sep 2023 23:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] GPU 공급난 해답은 AI 칩 최적화...테슬라, EV 생산 500만대↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1031</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1031</guid>
-            <pubDate>Mon, 18 Sep 2023 21:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
