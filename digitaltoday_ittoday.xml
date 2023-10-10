@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 20:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 21:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 빅테크, 생성AI로 '돈벌이' 고민...챗GPT 수익률 둔화세]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1042</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1042</guid>
+            <pubDate>Tue, 10 Oct 2023 21:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231010_5/1696918381107zpcTN_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 유니티 '공공의 적'된 이유?…국제 유가, 4% 급등]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1041</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1038</guid>
             <pubDate>Tue, 03 Oct 2023 21:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231004_266/1696366800155scglv_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 챗GPT '음성 인식' 장착...포드-CATL 美 합작사 건설 중단]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1033</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1033</guid>
             <pubDate>Wed, 20 Sep 2023 21:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 인텔, '영업비밀' 공개?...애플 iOS 17 '다운로드' 가능]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1032</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1032</guid>
-            <pubDate>Tue, 19 Sep 2023 23:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
