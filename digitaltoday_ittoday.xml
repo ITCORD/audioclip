@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 20:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 21:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 아마존에 도전하는 신예들...애플, iOS에 AI 기능 통합]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1051</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1051</guid>
+            <pubDate>Mon, 23 Oct 2023 21:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231023_286/16980422591449xWCR_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 반도체 장비, 미중 갈등 최대 격전지…암호화폐 시장 '그린 라이트']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1050</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1047</guid>
             <pubDate>Tue, 17 Oct 2023 21:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231017_216/1697523093573dFopP_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 생성AI 업계 구조조정 확산...구글 AI 저작권 문제 책임질 것]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1042</guid>
             <pubDate>Tue, 10 Oct 2023 21:08:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 유니티 '공공의 적'된 이유?…국제 유가, 4% 급등]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1041</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1041</guid>
-            <pubDate>Mon, 09 Oct 2023 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
