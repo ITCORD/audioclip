@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 21:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 22:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] MS, 알파벳 3Q 매출 선방...JP모건 "연준 예측 모두 틀려"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1053</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1053</guid>
+            <pubDate>Wed, 25 Oct 2023 22:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231026_28/16982693143613M3BD_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] '암호화폐의 봄' 오나?...그레이스케일, SEC에 최종 승소]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1052</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1049</guid>
             <pubDate>Thu, 19 Oct 2023 21:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231020_281/1697749318648aBnRx_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 전기차는 소프트웨어 전쟁 中]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1044</guid>
             <pubDate>Thu, 12 Oct 2023 21:06:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 삼성-SK, 美 규제 숨 돌렸지만...AMD, AI 스타트업 인수]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1043</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1043</guid>
-            <pubDate>Wed, 11 Oct 2023 21:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
