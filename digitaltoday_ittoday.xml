@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 20:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 21:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 막 오른 네카오 '커머스 전쟁'...엔비디아, 규제 피해 '중국향 칩' 개발]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1066</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1066</guid>
+            <pubDate>Mon, 13 Nov 2023 21:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231113_276/1699856979904ADRwH_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 게임사 3Q 실적 '해외 매출'이 판 갈라…'공매도 금지'에 자본 이탈 본격화]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1065</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1062</guid>
             <pubDate>Tue, 07 Nov 2023 21:07:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231107_196/1699342058254RaquD_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 생성AI '쩐의 전쟁'...머스크 '그록 AI'로 챗GPT와 경쟁]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[[AI 아나운서] 애플 M3 신제품 공개…삼성전자 4Q 반등 기대감↑]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1057</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1057</guid>
-            <pubDate>Sun, 05 Nov 2023 20:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 금융지주 3분기 실적 희비...테슬라, 반대에도 기가 베를린 확장]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1056</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1056</guid>
             <pubDate>Sun, 05 Nov 2023 20:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
