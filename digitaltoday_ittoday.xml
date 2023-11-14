@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 20:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 21:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 尹 "개선 때까지 공매도 금지"...애플, 2024년 AI '킬러앱' 출시?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1067</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1067</guid>
+            <pubDate>Tue, 14 Nov 2023 21:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231114_233/1699946578456rXYYi_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 막 오른 네카오 '커머스 전쟁'...엔비디아, 규제 피해 '중국향 칩' 개발]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1066</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1063</guid>
             <pubDate>Wed, 08 Nov 2023 21:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231108_12/1699426255637ro8as_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서]  "챗GPT에 눈, 입 달았다"...오픈AI 첫 개발자 행사 이모저모]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[[AI아나운서] 김 빠진 전기차 대세론...테슬라, 옵티머스 관련 채용↑]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1058</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1058</guid>
-            <pubDate>Sun, 05 Nov 2023 20:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 애플 M3 신제품 공개…삼성전자 4Q 반등 기대감↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1057</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1057</guid>
             <pubDate>Sun, 05 Nov 2023 20:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
