@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 20:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 21:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 오픈AI 투자자들, 알트먼 복귀 원해…미국 車3사 파업 종지부]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1070</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1070</guid>
+            <pubDate>Sun, 19 Nov 2023 21:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231120_179/1700411287229Ttzrr_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 세계적 추세 '은행 지점 축소'...IMF 총재 "CBDC가 현금 대체 가능"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1069</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1066</guid>
             <pubDate>Mon, 13 Nov 2023 21:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231113_276/1699856979904ADRwH_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 게임사 3Q 실적 '해외 매출'이 판 갈라…'공매도 금지'에 자본 이탈 본격화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1061</guid>
             <pubDate>Mon, 06 Nov 2023 21:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 오픈AI 첫 개발자 행사 관전포인트…먹거리 물가 ‘3년 연속 5%대’]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1060</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1060</guid>
-            <pubDate>Sun, 05 Nov 2023 21:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
