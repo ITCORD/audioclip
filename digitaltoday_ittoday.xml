@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 20:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 21:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AWS-세일즈포스 생성형AI 동맹...'블프 호재'에 관련주 급등]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1077</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1077</guid>
+            <pubDate>Tue, 28 Nov 2023 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231128_210/1701152147755Iaxdc_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 정부24 마비 "라우터 탓"...美·유로존 인플레 둔화 전망]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1076</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1073</guid>
             <pubDate>Wed, 22 Nov 2023 21:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231122_142/1700634704319p5FUi_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 오픈AI 직원들 "알트먼 따라 MS 갈래"...IMF, 韓 연금개혁 촉구]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1068</guid>
             <pubDate>Wed, 15 Nov 2023 21:08:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 尹 "개선 때까지 공매도 금지"...애플, 2024년 AI '킬러앱' 출시?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1067</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1067</guid>
-            <pubDate>Tue, 14 Nov 2023 21:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
