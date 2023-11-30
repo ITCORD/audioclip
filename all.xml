@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 20:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 21:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 리튬 가격↓ 배터리 업계 긴장...美 자동차노조 13개사로 확대? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1079</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1079</guid>
+            <pubDate>Thu, 30 Nov 2023 21:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231130_291/17013285721708lDEo_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 中 전기차 잘나가네...대체 연료 채운 비행기, 대서양 첫 횡단 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1078</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1078</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1075</guid>
             <pubDate>Sun, 26 Nov 2023 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231127_84/1701028838917bmkHo_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 바이낸스 철퇴에도 가상자산 '굳건'...빌 게이츠, 주3일제 전망 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1070</guid>
             <pubDate>Sun, 19 Nov 2023 21:07:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 세계적 추세 '은행 지점 축소'...IMF 총재 "CBDC가 현금 대체 가능" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1069</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1069</guid>
-            <pubDate>Thu, 16 Nov 2023 21:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
