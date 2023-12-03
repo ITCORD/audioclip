@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 20:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 21:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] AWS·엔비디아 AI 동맹 굳힌다…엑스, '머스크 리스크' 계속 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1080</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1080</guid>
+            <pubDate>Sun, 03 Dec 2023 21:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231203_158/17016090293348hNtv_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 리튬 가격↓ 배터리 업계 긴장...美 자동차노조 13개사로 확대? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1079</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1079</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1076</guid>
             <pubDate>Mon, 27 Nov 2023 21:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231127_111/1701066397726bw8ba_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 아마존 생성형 AI 전략은?…"노후 필요 최소 생활비 251만원" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1071</guid>
             <pubDate>Mon, 20 Nov 2023 21:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 샘 알트만 오픈AI 복귀 가능할까…미국 車3사 파업 종지부 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1070</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1070</guid>
-            <pubDate>Sun, 19 Nov 2023 21:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
