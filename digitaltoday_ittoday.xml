@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 20:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 21:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 비트코인, 6000만원 돌파...급등 배경은 한국?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1083</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1083</guid>
+            <pubDate>Wed, 06 Dec 2023 21:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231206_295/1701866681464r85E8_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] IBM표 '양자컴' 베일 벗어...넷플릭스 "할리우드 파업 영향 無"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1082</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1079</guid>
             <pubDate>Thu, 30 Nov 2023 21:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231130_291/17013285721708lDEo_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 中 전기차 잘나가네...대체 연료 채운 비행기, 대서양 첫 횡단]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1074</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1074</guid>
             <pubDate>Thu, 23 Nov 2023 21:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 샘 알트먼, 오픈AI 복귀...엔비디아, 4Q 실적 전망 '맑음']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1073</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1073</guid>
-            <pubDate>Wed, 22 Nov 2023 21:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
