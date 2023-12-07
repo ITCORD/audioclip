@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 20:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 21:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 구글, '제미니'로 챗GPT 본격 대항...맥도날드 매장에 AI 도입]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1084</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1084</guid>
+            <pubDate>Thu, 07 Dec 2023 21:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231208_11/1701980033956vaNLF_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인, 6000만원 돌파...급등 배경은 한국?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1083</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1080</guid>
             <pubDate>Sun, 03 Dec 2023 21:07:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231203_158/17016090293348hNtv_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 리튬 가격↓ 배터리 업계 긴장...美 자동차노조 13개사로 확대?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1075</guid>
             <pubDate>Sun, 26 Nov 2023 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 바이낸스 철퇴에도 가상자산 '굳건'...빌 게이츠, 주3일제 전망]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1074</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1074</guid>
-            <pubDate>Thu, 23 Nov 2023 21:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
