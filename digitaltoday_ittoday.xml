@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 20:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 21:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] '2나노 칩' 경쟁 후끈...美 상무, 엔비디아 감시 ↑]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1087</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1087</guid>
+            <pubDate>Tue, 12 Dec 2023 21:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231212_25/1702364759945qY4Pm_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 가격 두고 '설왕설래'...토요타 차종 절반 '주문 불가']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1086</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1083</guid>
             <pubDate>Wed, 06 Dec 2023 21:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231206_295/1701866681464r85E8_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] IBM표 '양자컴' 베일 벗어...넷플릭스 "할리우드 파업 영향 無"]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1078</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1078</guid>
             <pubDate>Wed, 29 Nov 2023 21:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AWS-세일즈포스 생성형AI 동맹...'블프 호재'에 관련주 급등]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1077</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1077</guid>
-            <pubDate>Tue, 28 Nov 2023 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
