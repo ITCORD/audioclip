@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 20:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 21:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 구글·애플 '앱스토어' 심판대...美연준, 기준금리 3연속 동결]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1089</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1089</guid>
+            <pubDate>Thu, 14 Dec 2023 21:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231214_274/1702532994230iG94r_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 2024 EV 키워드 '저가 보급형'...TSMC, 애플에 2나노 칩 시제품 제공]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1088</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1085</guid>
             <pubDate>Sun, 10 Dec 2023 21:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231210_196/1702219333504hggoh_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 구글, '제미니'로 챗GPT 본격 대항...맥도날드 매장에 AI 도입]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1080</guid>
             <pubDate>Sun, 03 Dec 2023 21:07:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 리튬 가격↓ 배터리 업계 긴장...美 자동차노조 13개사로 확대?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1079</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1079</guid>
-            <pubDate>Thu, 30 Nov 2023 21:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
