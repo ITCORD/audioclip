@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 20:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 21:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] AI 웨어러블 기기 경쟁…"中 아이폰 금지령 확대" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1090</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1090</guid>
+            <pubDate>Sun, 17 Dec 2023 21:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231217_246/1702820355086d0Qkw_JPEG/IMG_3206.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 구글·애플 '앱스토어' 심판대...美연준, 기준금리 3연속 동결 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1089</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1089</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1086</guid>
             <pubDate>Mon, 11 Dec 2023 22:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231212_179/1702330905220oUVW8_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] EU, 첫 AI 법안 발표…메타 간판 SNS 이용자수 '뚝' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1081</guid>
             <pubDate>Mon, 04 Dec 2023 21:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AWS·엔비디아 AI 동맹 굳힌다…엑스, '머스크 리스크' 계속 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1080</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1080</guid>
-            <pubDate>Sun, 03 Dec 2023 21:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쫄지마IT - 스팀잇이 도대체 뭐야? (오디오클립 ─ 더기어의 쫄지마 IT)]]></title>
