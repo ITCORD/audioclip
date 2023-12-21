@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 20:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 21:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 애플 비전 프로 내년 2월 나온다…日 도시바 상폐]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1094</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1094</guid>
+            <pubDate>Thu, 21 Dec 2023 21:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231221_144/17031421180538rlln_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] '진격의 쿠팡' 확장 어디까지?...美전기차 충전 테슬라 'NACS' 통일]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1093</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1090</guid>
             <pubDate>Sun, 17 Dec 2023 21:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231217_246/1702820355086d0Qkw_JPEG/IMG_3206.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 구글·애플 '앱스토어' 심판대...美연준, 기준금리 3연속 동결]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1085</guid>
             <pubDate>Sun, 10 Dec 2023 21:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 구글, '제미니'로 챗GPT 본격 대항...맥도날드 매장에 AI 도입]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1084</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1084</guid>
-            <pubDate>Thu, 07 Dec 2023 21:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
