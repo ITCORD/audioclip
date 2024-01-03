@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 20:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 21:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 기업 생성형 AI 사용 '이렇게'...테슬라 4Q 생산·판매량 공개]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1101</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1101</guid>
+            <pubDate>Wed, 03 Jan 2024 21:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240103_260/1704263866506oG9jY_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 2024 세계 경제 부진 지속...챗 GPT "BTC 10만달러 가능"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1100</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1097</guid>
             <pubDate>Wed, 27 Dec 2023 21:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231227_138/17036805631792Pauc_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 판 커진 '아이메세지' 색깔 논쟁...BTC 현물 ETF 1월 승인?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1092</guid>
             <pubDate>Tue, 19 Dec 2023 21:06:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 이커머스, '가성비' 시대 개막...애플, 차세대 주력품은 '웨어러블']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1091</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1091</guid>
-            <pubDate>Mon, 18 Dec 2023 21:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
