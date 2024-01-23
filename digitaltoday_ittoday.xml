@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 20:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 21:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] B2B 테크판 M&A 확산...MS, 원전 건설 뛰어든다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1115</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1115</guid>
+            <pubDate>Tue, 23 Jan 2024 21:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240123_278/1706013010414r50tQ_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 ETF 호재에도 '냉랭'...거래량은 순풍]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1114</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1111</guid>
             <pubDate>Wed, 17 Jan 2024 21:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240117_70/17054728128583yrNR_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 11번가, 공정위에 쿠팡 신고...머스크, 테슬라 지분 언급 속내는?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1106</guid>
             <pubDate>Wed, 10 Jan 2024 21:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 애플 비전프로, 내달 2일 대공개...우즈-나이키 파트너십 종료]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1105</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1105</guid>
-            <pubDate>Tue, 09 Jan 2024 21:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
