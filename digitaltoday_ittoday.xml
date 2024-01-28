@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 20:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 21:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 암호화폐 '증권성' 판결 임박…韓 경제 성장률 2.2% 전망]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1118</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1118</guid>
+            <pubDate>Sun, 28 Jan 2024 21:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240128_85/1706437939968reLEs_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 오픈AI·앤트로픽 매출 급성장...美 빅테크 주가 고공행진]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1117</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1114</guid>
             <pubDate>Mon, 22 Jan 2024 21:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240122_229/17059223541757eVAT_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 5G '3만원대 요금제' 개막…오픈AI표 AI반도체 오일머니로?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1109</guid>
             <pubDate>Mon, 15 Jan 2024 21:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 국내 거래 막힌 비트ETF…대만 라이칭더 당선, 韓반도체는?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1108</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1108</guid>
-            <pubDate>Sun, 14 Jan 2024 21:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
