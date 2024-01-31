@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 20:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 21:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 엇갈린 MS·삼성·구글의 지난 4분기 성적표]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1121</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1121</guid>
+            <pubDate>Wed, 31 Jan 2024 21:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240131_105/1706683813577YBgNo_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 반도체, AI 밖은 추워...넷플 회장, 자사주 11억달러치 기부]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1120</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1117</guid>
             <pubDate>Thu, 25 Jan 2024 21:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240125_217/17061796307760YgSX_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 단통법 폐지 파장은?...'애플카' 2028 출시 유력]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1112</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1112</guid>
             <pubDate>Thu, 18 Jan 2024 21:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 빅테크 감원, 생성형 AI 탓?...애플, 스마트폰 판매량 1위]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1111</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1111</guid>
-            <pubDate>Wed, 17 Jan 2024 21:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
