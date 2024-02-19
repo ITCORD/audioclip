@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 20:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 21:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AI발 '웹의 위기' 오나...S&P500 상승에도 "위협 여전"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1132</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1132</guid>
+            <pubDate>Mon, 19 Feb 2024 21:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240219_286/1708324104842g18Vx_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] AI 스타트업에 VC 투자 몰려…TSMC 日공장 시범 생산 돌입]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1131</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1128</guid>
             <pubDate>Tue, 13 Feb 2024 21:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240213_42/170780231129243Lpk_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 반도체 장비 업계, 해외 시장 공략…EU 배터리법 18일 시행]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1123</guid>
             <pubDate>Sun, 04 Feb 2024 21:06:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 빅클라우드, AI 중심 성장...美 금리 동결에 코인장 '와르르']]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1122</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1122</guid>
-            <pubDate>Thu, 01 Feb 2024 21:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
