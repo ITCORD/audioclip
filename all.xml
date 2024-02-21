@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 20:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 21:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] MS, 엔비디아 의존 더 줄인다...뉴럴링크 '뇌 임플란트' 이식 결과는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1134</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1134</guid>
+            <pubDate>Wed, 21 Feb 2024 21:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240221_228/1708494589914uiV3X_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 콘솔 게임업계 '이중고'...테슬라 "사이버트럭 녹 아냐" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1133</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1133</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1130</guid>
             <pubDate>Thu, 15 Feb 2024 21:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240215_212/1707976897412Yqjp0_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 생성형 AI, 칩 공급난 해결할까...애플, AI 스타트업 32개 인수 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1125</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1125</guid>
             <pubDate>Tue, 06 Feb 2024 21:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 정부, 6G 주도권 선점 박차...빅테크 "AI로 돈 벌려면 돈 써야" (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1124</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1124</guid>
-            <pubDate>Mon, 05 Feb 2024 21:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
