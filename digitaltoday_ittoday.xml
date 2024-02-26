@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 21:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운] 美의회, 테무 압박 시작...버핏 "투자할 곳 없어"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1137</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1137</guid>
+            <pubDate>Mon, 26 Feb 2024 21:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240226_27/1708911625568zoHe7_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 게임업계 소송전 '몸살'…'영끌'한 3040 소비 감소 최대]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1136</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1133</guid>
             <pubDate>Tue, 20 Feb 2024 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240220_165/1708406243743xL1HC_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] AI발 '웹의 위기' 오나...S&P500 상승에도 "위협 여전"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1128</guid>
             <pubDate>Tue, 13 Feb 2024 21:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 반도체 장비 업계, 해외 시장 공략…EU 배터리법 18일 시행]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1127</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1127</guid>
-            <pubDate>Mon, 12 Feb 2024 21:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
