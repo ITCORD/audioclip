@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 20:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 21:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] HR 업계도 SaaS가 대세...코너 몰린 피차이 구글 CEO]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1141</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1141</guid>
+            <pubDate>Mon, 04 Mar 2024 21:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240304_295/1709528136781z2gtM_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] '애플카 프로젝트' 비하인드…머스크, 오픈AI·알트먼 소송]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1140</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1137</guid>
             <pubDate>Mon, 26 Feb 2024 21:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240226_27/1708911625568zoHe7_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 게임업계 소송전 '몸살'…'영끌'한 3040 소비 감소 최대]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1132</guid>
             <pubDate>Mon, 19 Feb 2024 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AI 스타트업에 VC 투자 몰려…TSMC 日공장 시범 생산 돌입]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1131</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1131</guid>
-            <pubDate>Sun, 18 Feb 2024 21:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
