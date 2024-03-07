@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 20:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 21:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] MS 콘솔 포기 이유...머스크, 오픈AI-테슬라 합병 원했나?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1144</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1144</guid>
+            <pubDate>Thu, 07 Mar 2024 21:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240307_209/1709790188824omesI_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 암호화폐 랠리, 2021년과는 달라...페북·인스타·유튜브 '먹통']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1143</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1140</guid>
             <pubDate>Sun, 03 Mar 2024 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240303_212/17094720301946isF8_JPEG/0._%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 저커버그 방한 이유 'XR·AI칩'...기관, 비트보다 이더 선호]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1135</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1135</guid>
             <pubDate>Thu, 22 Feb 2024 21:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] MS, 엔비디아 의존 더 줄인다...뉴럴링크 '뇌 임플란트' 이식 결과는?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1134</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1134</guid>
-            <pubDate>Wed, 21 Feb 2024 21:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
