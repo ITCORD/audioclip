@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 20:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 21:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] BMW, 테슬라 라이벌로 급부상...'AI 대부'의 섬뜩한 경고]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1146</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1146</guid>
+            <pubDate>Mon, 11 Mar 2024 21:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240311_286/1710140106414yXxQz_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] LLM 개발 공방 VC 참전…권도형 "미국에 판결 바꿀 권한 없다"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1145</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1142</guid>
             <pubDate>Tue, 05 Mar 2024 21:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240305_157/1709615311274D5EXp_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] HR 업계도 SaaS가 대세...코너 몰린 피차이 구글 CEO]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1137</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1137</guid>
             <pubDate>Mon, 26 Feb 2024 21:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 게임업계 소송전 '몸살'…'영끌'한 3040 소비 감소 최대]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1136</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1136</guid>
-            <pubDate>Sun, 25 Feb 2024 21:08:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
