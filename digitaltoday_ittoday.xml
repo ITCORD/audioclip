@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 20:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 21:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 삼성 2나노, ASML 없이 기존 설비로?...스페이스X, 美 스파이 위성 확대]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1151</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1151</guid>
+            <pubDate>Mon, 18 Mar 2024 21:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240318_220/1710743279403fwTf9_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 새 단통법, 소비자 반응은 '글쎄'…애플, 코카콜라급 됐나]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1150</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1147</guid>
             <pubDate>Tue, 12 Mar 2024 21:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240312_112/1710222351368s298l_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] BMW, 테슬라 라이벌로 급부상...'AI 대부'의 섬뜩한 경고]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1142</guid>
             <pubDate>Tue, 05 Mar 2024 21:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] HR 업계도 SaaS가 대세...코너 몰린 피차이 구글 CEO]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1141</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1141</guid>
-            <pubDate>Mon, 04 Mar 2024 21:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
