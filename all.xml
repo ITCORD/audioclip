@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 22:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 23:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,7 +304,7 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[AI아나운서] 슈퍼마이크로의 비밀...엔비디아, 차세대 AI칩·휴머노이드 공개 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <title><![CDATA[[AI아나운서] 엔비디아의 날, 차세대 AI칩·휴머노이드 공개 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1152</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1152</guid>
             <pubDate>Tue, 19 Mar 2024 21:07:52 GMT</pubDate>
