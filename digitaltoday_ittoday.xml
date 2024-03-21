@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 20:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 21:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] GPT-5 여름 출격?...차세대 메모리 '유리기판'이 중요한 이유]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1154</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1154</guid>
+            <pubDate>Thu, 21 Mar 2024 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240321_146/1710998421490D0Spw_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 아이폰 AI 파트너 누가 될까...엔비디아 블랙웰 가격은?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1153</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1150</guid>
             <pubDate>Sun, 17 Mar 2024 21:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240317_63/1710685184313jGSin_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 美하원 '틱톡 금지법' 통과...알리, 한국에 1조5000억원 투자]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1145</guid>
             <pubDate>Sun, 10 Mar 2024 21:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] MS 콘솔 포기 이유...머스크, 오픈AI-테슬라 합병 원했나?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1144</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1144</guid>
-            <pubDate>Thu, 07 Mar 2024 21:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
