@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 20:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 21:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플, 6월엔 새 AI 공개한다...아이폰 中 출하량 33%↓]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1158</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1158</guid>
+            <pubDate>Wed, 27 Mar 2024 21:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240327_254/1711518634911fLfIr_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 反엔비디아 동맹 강화...오픈AI, '소라' 할리우드 판매 검토]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1157</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1154</guid>
             <pubDate>Thu, 21 Mar 2024 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240321_146/1710998421490D0Spw_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 아이폰 AI 파트너 누가 될까...엔비디아 블랙웰 가격은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1149</guid>
             <pubDate>Thu, 14 Mar 2024 21:08:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AI 테마주 향후 전망은?...이더리움 '덴쿤' 여기에 주목]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1148</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1148</guid>
-            <pubDate>Wed, 13 Mar 2024 21:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
