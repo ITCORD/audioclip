@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 20:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 21:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 아마존, LLM 레이스 직접 가세…전기차 보조금 내년 더 줄어]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1160</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1160</guid>
+            <pubDate>Sun, 31 Mar 2024 21:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240331_90/1711893756019Euotg_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 아마존, 앤트로픽에 통 큰 베팅...美 '틱톡 옥죄기'에 FTC도 가세]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1159</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1156</guid>
             <pubDate>Mon, 25 Mar 2024 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240325_61/17113461125966pJyY_JPEG/0._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 오픈소스 생성형 AI 수익은?…홍콩ELS 배상 가닥 나온다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1151</guid>
             <pubDate>Mon, 18 Mar 2024 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 새 단통법, 소비자 반응은 '글쎄'…애플, 코카콜라급 됐나]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1150</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1150</guid>
-            <pubDate>Sun, 17 Mar 2024 21:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
