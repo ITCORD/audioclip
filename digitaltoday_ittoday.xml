@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 20:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 21:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AI 인프라 '쩐의 전쟁' 시작…美 기업 파산 건수 급증]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1165</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1165</guid>
+            <pubDate>Thu, 04 Apr 2024 21:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240404_166/1712218912580h7Tc3_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 배달업계 출혈경쟁 재점화…테슬라, '재앙 같은' 출하량]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1164</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1160</guid>
             <pubDate>Sun, 31 Mar 2024 21:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240331_90/1711893756019Euotg_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 아마존, 앤트로픽에 통 큰 베팅...美 '틱톡 옥죄기'에 FTC도 가세]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1155</guid>
             <pubDate>Sun, 24 Mar 2024 21:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] GPT-5 여름 출격?...차세대 메모리 '유리기판'이 중요한 이유]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1154</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1154</guid>
-            <pubDate>Thu, 21 Mar 2024 21:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
