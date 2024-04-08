@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 20:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 21:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AI 학습에 유튜브까지…인스타 광고 수익 '짭짤하네']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1167</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1167</guid>
+            <pubDate>Mon, 08 Apr 2024 21:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240408_276/1712558432962O8iuN_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 통신사 '집토끼' 혜택 효과는…1Q 실적시즌 개막]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1166</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1163</guid>
             <pubDate>Tue, 02 Apr 2024 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_289/1712038690558W7jiE_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 여야 "e스포츠 육성 앞장"…전기차 구매 예산 5400만원 한계]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1157</guid>
             <pubDate>Tue, 26 Mar 2024 21:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 이더리움 ETF에 쏠린 눈...레딧 성공에 '기술 IPO' 훈풍 부나]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1156</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1156</guid>
-            <pubDate>Mon, 25 Mar 2024 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
