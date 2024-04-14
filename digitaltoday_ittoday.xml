@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 14:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 22:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 단통법 폐지 '브레이크'…이란 보복공격, 세계경제 위협]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1170</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1170</guid>
+            <pubDate>Sun, 14 Apr 2024 22:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240414_140/1713096628449aXCA4_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 22대 총선 IT 출신 인물은?…TSMC, 2나노 칩 연내 생산]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1169</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1166</guid>
             <pubDate>Sun, 07 Apr 2024 21:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240408_156/1712502430814Idfmm_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] AI 인프라 '쩐의 전쟁' 시작…美 기업 파산 건수 급증]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1160</guid>
             <pubDate>Sun, 31 Mar 2024 21:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 아마존, 앤트로픽에 통 큰 베팅...美 '틱톡 옥죄기'에 FTC도 가세]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1159</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1159</guid>
-            <pubDate>Thu, 28 Mar 2024 21:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
