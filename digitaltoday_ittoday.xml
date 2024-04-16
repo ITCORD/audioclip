@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 20:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 21:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] '알바 플랫폼' 급부상...미 3월 소매판매 0.7%↑]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1172</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1172</guid>
+            <pubDate>Tue, 16 Apr 2024 21:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240416_248/17132645797808j5Ur_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성, 글로벌 스마트폰 1위 복귀…애플, 온디바이스 AI '곧']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1171</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1168</guid>
             <pubDate>Wed, 10 Apr 2024 21:08:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240410_267/171274104792002sKI_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] AI 학습에 유튜브까지…인스타 광고 수익 '짭짤하네']]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1163</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1163</guid>
             <pubDate>Tue, 02 Apr 2024 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 여야 "e스포츠 육성 앞장"…전기차 구매 예산 5400만원 한계]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1162</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1162</guid>
-            <pubDate>Mon, 01 Apr 2024 21:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
