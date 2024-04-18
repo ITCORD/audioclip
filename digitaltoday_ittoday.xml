@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 20:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 21:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] SK하이닉스 '어닝 서프' 예고…ASML, 1Q 주문량 급감]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1174</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1174</guid>
+            <pubDate>Thu, 18 Apr 2024 21:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240418_8/17134192439717mB3C_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 스타링크 한국 서비스 '불투명'...암호화폐 거래량, 원화가 달러 추월]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1173</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1170</guid>
             <pubDate>Sun, 14 Apr 2024 22:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240414_140/1713096628449aXCA4_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 22대 총선 IT 출신 인물은?…TSMC, 2나노 칩 연내 생산]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1165</guid>
             <pubDate>Thu, 04 Apr 2024 21:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 배달업계 출혈경쟁 재점화…테슬라, '재앙 같은' 출하량]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1164</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1164</guid>
-            <pubDate>Wed, 03 Apr 2024 21:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
