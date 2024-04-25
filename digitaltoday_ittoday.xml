@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 20:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 21:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 티빙-웨이브 '맞손'…테슬라, 주가 급등 이유는?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1179</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1179</guid>
+            <pubDate>Thu, 25 Apr 2024 21:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240425_179/1714054854693jjcIj_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] AI업계 '소형 모델'로 경쟁…엔비디아, 베트남 공장 짓는다]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1178</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1175</guid>
             <pubDate>Sun, 21 Apr 2024 21:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240421_124/1713704097296e57fu_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] SK하이닉스 '어닝서프' 예고…ASML, 1Q 주문량 급감]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1170</guid>
             <pubDate>Sun, 14 Apr 2024 22:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 22대 총선 IT 출신 인물은?…TSMC, 2나노 칩 연내 생산]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1169</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1169</guid>
-            <pubDate>Thu, 11 Apr 2024 21:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
