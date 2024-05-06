@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 20:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 21:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플 AI, 어디까지 왔나…테슬라, 주행거리 옵션에 요금 부과]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1185</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1185</guid>
+            <pubDate>Mon, 06 May 2024 21:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240506_129/1714993195651iPXlH_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 금융위 '다크패턴' 지침 낸다…연준, 기준금리 6회 연속 동결]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1184</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1181</guid>
             <pubDate>Mon, 29 Apr 2024 21:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240429_195/1714397307918xGyH7_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 'AI폰' 대결 가닥 나왔다…4대금융 1Q 당기순익 급감]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1176</guid>
             <pubDate>Mon, 22 Apr 2024 21:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 암호화폐 시장 빠른 회복세…환율, 올들어 7.3% 뜀박질]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1175</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1175</guid>
-            <pubDate>Sun, 21 Apr 2024 21:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
