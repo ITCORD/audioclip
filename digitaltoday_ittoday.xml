@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 20:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 21:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 애플 첫 'AI 기기' 공개...틱톡, 美 정부에 반격 시작?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1187</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1187</guid>
+            <pubDate>Wed, 08 May 2024 21:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240508_160/1715146512570wMRfe_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성-LG, 'AI TV'로 격돌…SEC, 이더리움 ETF 연기]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1186</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1183</guid>
             <pubDate>Wed, 01 May 2024 19:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240501_205/1714566989674J9DTx_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] AI 스타트업 신중론 확산...머스크 '깜짝 방중' 테슬라 주가 15%↑]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1178</guid>
             <pubDate>Wed, 24 Apr 2024 21:07:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 중국발 C커머스 공습…메타, 퀘스트OS 개방]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1177</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1177</guid>
-            <pubDate>Tue, 23 Apr 2024 21:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
