@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 20:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 21:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 非스마트폰 AI HW 늘어…삼성, '애플 폴더블' 패널 공급? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1190</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1190</guid>
+            <pubDate>Mon, 13 May 2024 21:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240513_6/1715602726099JTAQC_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] '애플판 AI 전략' 심판대 선다…'AI 강세장' 마무리 국면 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1189</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1189</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1186</guid>
             <pubDate>Tue, 07 May 2024 21:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240507_294/1715067516581wLhnD_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 AI, 어디까지 왔나…테슬라, 주행거리 옵션에 요금 부과 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1181</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1181</guid>
             <pubDate>Mon, 29 Apr 2024 21:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 'AI폰' 대결 가닥 나왔다…4대금융 1Q 당기순익 급감 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1180</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1180</guid>
-            <pubDate>Sun, 28 Apr 2024 21:08:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
         <item>
