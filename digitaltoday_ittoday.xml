@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 20:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 21:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 구글, 멀티 모달 'AI 비서' 공개…비트, CPI 둔화에 급등]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1192</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1192</guid>
+            <pubDate>Thu, 16 May 2024 21:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240516_107/1715864342709qo8Xk_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 영화 'HER'의 현실판…오픈AI 'GPT-4o' 공개]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1191</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1188</guid>
             <pubDate>Thu, 09 May 2024 21:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240510_270/17152681561998RCYS_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 첫 'AI 기기' 공개...틱톡, 美 정부에 반격 시작?]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1183</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1183</guid>
             <pubDate>Wed, 01 May 2024 19:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AI 스타트업 신중론 확산...머스크 '깜짝 방중' 테슬라 주가 15%↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1182</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1182</guid>
-            <pubDate>Tue, 30 Apr 2024 21:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
