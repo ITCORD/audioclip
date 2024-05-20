@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 20:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 21:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 살아난 가상자산 시장…오픈AI·구글, 한국어 본격 지원]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1194</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1194</guid>
+            <pubDate>Mon, 20 May 2024 21:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240520_79/1716186098827A6mJM_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플, AI 비서 경쟁 대형 변수로…"2045년 정부부채가 GDP 초월"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1193</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1190</guid>
             <pubDate>Mon, 13 May 2024 21:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240513_6/1715602726099JTAQC_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] '애플판 AI 전략' 심판대 선다…'AI 강세장' 마무리 국면]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1185</guid>
             <pubDate>Mon, 06 May 2024 21:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 금융위 '다크패턴' 지침 낸다…연준, 기준금리 6회 연속 동결]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1184</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1184</guid>
-            <pubDate>Thu, 02 May 2024 21:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
