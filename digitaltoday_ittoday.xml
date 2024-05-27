@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 20:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 21:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] MS, 프리미엄 PC 대공세…G7 "中 산업, 세계 경제 위협"]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1199</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1199</guid>
+            <pubDate>Mon, 27 May 2024 21:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240527_144/17167951676393e6wx_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] SIEM 보안 시장 잇단 M&A…머스크, AI 인프라 구축한다]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1198</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1195</guid>
             <pubDate>Tue, 21 May 2024 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240521_151/1716256927998dmOxU_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 살아난 가상자산 시장…오픈AI·구글, 한국어 본격 지원]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1190</guid>
             <pubDate>Mon, 13 May 2024 21:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] '애플판 AI 전략' 심판대 선다…'AI 강세장' 마무리 국면]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1189</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1189</guid>
-            <pubDate>Sun, 12 May 2024 21:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
