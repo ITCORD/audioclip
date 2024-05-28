@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 20:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 21:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 광고 기반 OTT 대세로…전통산업도 'AI붐' 편승]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1200</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1200</guid>
+            <pubDate>Tue, 28 May 2024 21:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240528_217/1716870265877EAWv2_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] MS, 프리미엄 PC 대공세…G7 "中 산업, 세계 경제 위협"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1199</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1196</guid>
             <pubDate>Wed, 22 May 2024 21:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240522_100/1716357339762vjK0R_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 추억의 PC게임 모바일로 귀환...'코인 불장' 이더리움이 주도]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1191</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1191</guid>
             <pubDate>Wed, 15 May 2024 21:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 非스마트폰 AI HW 늘어…삼성, '애플 폴더블' 패널 공급?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1190</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1190</guid>
-            <pubDate>Mon, 13 May 2024 21:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
