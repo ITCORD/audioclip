@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 20:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 21:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AI 인프라 '쩐의 전쟁'…ETF 승인 후 이더리움 관심↑]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1204</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1204</guid>
+            <pubDate>Mon, 03 Jun 2024 21:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240603_12/1717398050965QVHGK_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 대형 SW 업체들 주가 폭락…네이버웹툰, 나스닥 상장 돌입]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1203</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1200</guid>
             <pubDate>Tue, 28 May 2024 21:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240528_217/1716870265877EAWv2_JPEG/%BF%C0%B5%F0%BF%C0%C5%AC%B8%B3%BD%E6%B3%D7%C0%CF_%BC%F6%C1%A4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] MS, 프리미엄 PC 대공세…G7 "中 산업, 세계 경제 위협"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1195</guid>
             <pubDate>Tue, 21 May 2024 21:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 살아난 가상자산 시장…오픈AI·구글, 한국어 본격 지원]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1194</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1194</guid>
-            <pubDate>Mon, 20 May 2024 21:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
