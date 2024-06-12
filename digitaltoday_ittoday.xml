@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 20:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 21:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 안철수 "AI, 인문학 요소 필요해"…유튜브 AI 기능 확대]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1209</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1209</guid>
+            <pubDate>Wed, 12 Jun 2024 21:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240612_260/1718181855076TpLF4_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 오픈AI와 손잡은 애플판 AI 두고 머스크 '버럭']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1208</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1205</guid>
             <pubDate>Tue, 04 Jun 2024 21:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240604_63/1717484804503nSS3e_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] AI 인프라 '쩐의 전쟁'…ETF 승인 후 이더리움 관심↑]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1200</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1200</guid>
             <pubDate>Tue, 28 May 2024 21:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] MS, 프리미엄 PC 대공세…G7 "中 산업, 세계 경제 위협"]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1199</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1199</guid>
-            <pubDate>Mon, 27 May 2024 21:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
