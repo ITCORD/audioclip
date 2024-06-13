@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 20:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 21:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] AX 시대 韓 발걸음 '눈길'…블록체인 적극 활용하는 포춘 100대 기업들]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1210</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1210</guid>
+            <pubDate>Thu, 13 Jun 2024 21:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240613_243/1718266237581APbEv_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 안철수 "AI, 인문학 요소 필요해"…유튜브 AI 기능 확대]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1209</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1206</guid>
             <pubDate>Wed, 05 Jun 2024 21:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240605_128/1717570901566EeaWg_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 생성형 AI '쓰기 나름'…HBM 핵심 CMP 슬러리 국산화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1201</guid>
             <pubDate>Wed, 29 May 2024 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 광고 기반 OTT 대세로…전통산업도 'AI붐' 편승]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1200</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1200</guid>
-            <pubDate>Tue, 28 May 2024 21:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
