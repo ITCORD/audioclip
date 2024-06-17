@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 20:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 21:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 저변 넓히는 비트코인…제주 시작으로 장마 오나]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1211</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1211</guid>
+            <pubDate>Mon, 17 Jun 2024 21:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240617_256/17186085617162rC2R_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] AX 시대 韓 발걸음 '눈길'…블록체인 적극 활용하는 포춘 100대 기업들]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1210</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1207</guid>
             <pubDate>Mon, 10 Jun 2024 21:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240610_8/17180059888272oijD_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] GPT-4o가 데모만큼 놀랍지 않은 이유…10년 된 비트코인 움직였다]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1202</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1202</guid>
             <pubDate>Thu, 30 May 2024 21:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 美, 中전기차 '100% 관세' 실효성은?...삼성 올해 '갤워치X' 공개할까]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1201</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1201</guid>
-            <pubDate>Wed, 29 May 2024 21:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
