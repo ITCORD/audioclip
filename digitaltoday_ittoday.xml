@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 20:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 21:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 하반기 비트코인 기관 채택 전망↑…'리벨리온-사피온' 시너지 주목]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1214</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1214</guid>
+            <pubDate>Thu, 20 Jun 2024 21:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240620_86/1718866350757sWUrt_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] MS-오픈AI 동맹 지속될까…직장인 85%, AI 사용하며 성취감 느껴]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1213</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1210</guid>
             <pubDate>Thu, 13 Jun 2024 21:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240613_243/1718266237581APbEv_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 안철수 "AI, 인문학 요소 필요해"…유튜브 AI 기능 확대]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1205</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1205</guid>
             <pubDate>Tue, 04 Jun 2024 21:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] AI 인프라 '쩐의 전쟁'…ETF 승인 후 이더리움 관심↑]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1204</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1204</guid>
-            <pubDate>Mon, 03 Jun 2024 21:09:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
