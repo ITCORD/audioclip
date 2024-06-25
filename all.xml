@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 20:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 21:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 아마존 AI 챗봇 개발…거대 미디어 OTT 줄줄이 '쓴맛' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1216</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1216</guid>
+            <pubDate>Tue, 25 Jun 2024 21:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240625_293/17192955282269vD6P_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 비트코인 1000만달러 도달 전망…단통법 폐지 현실화되나 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1215</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1215</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1212</guid>
             <pubDate>Tue, 18 Jun 2024 21:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240618_148/1718694696379Nmx76_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 저변 넓히는 비트코인…제주 시작으로 장마 오나 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1207</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1207</guid>
             <pubDate>Mon, 10 Jun 2024 21:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] GPT-4o가 데모만큼 놀랍지 않은 이유…10년 된 비트코인 움직였다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1206</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1206</guid>
-            <pubDate>Wed, 05 Jun 2024 21:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
