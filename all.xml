@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 20:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 21:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 中서 안드로이드폰 금지한 MS…유튜브 성공하려면 '닭게'처럼 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1224</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1224</guid>
+            <pubDate>Tue, 09 Jul 2024 21:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240709_92/1720512625347UyX8L_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 머스크 '뉴럴링크' 맹추격하는 中…지리차 한국 진출 '초읽기' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1223</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1223</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1220</guid>
             <pubDate>Tue, 02 Jul 2024 21:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240702_203/1719902812652TIOOQ_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 월마트, 수소트럭 도입…암호화폐 시장 빠른 회복세 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1215</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1215</guid>
             <pubDate>Mon, 24 Jun 2024 21:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 하반기 비트코인 기관 채택 전망↑…'리벨리온-사피온' 시너지 주목 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1214</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1214</guid>
-            <pubDate>Thu, 20 Jun 2024 21:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
