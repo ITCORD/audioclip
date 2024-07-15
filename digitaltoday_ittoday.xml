@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 20:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 21:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 비트코인 휴면 지갑 줄줄이 부활…머스크, 트럼프 전적 지지]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1227</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1227</guid>
+            <pubDate>Mon, 15 Jul 2024 21:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240715_83/1721021170058FcUO2_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성전자, 갤럭시 Z 시리즈 등 신제품 대거 공개…이더리움 ETF 출시 '초읽기']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1226</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1223</guid>
             <pubDate>Mon, 08 Jul 2024 21:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240708_66/17204276627968TyLr_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 이커머스 업계 '럭셔리 가구' 바람…아마존, 기업용 로봇 아스트로 단종]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1218</guid>
             <pubDate>Thu, 27 Jun 2024 21:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 삼성SDI, 모듈화 ESS로 북미 공략…유력 LLM 시장 대공세]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1217</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1217</guid>
-            <pubDate>Wed, 26 Jun 2024 21:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
