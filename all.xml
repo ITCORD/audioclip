@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 20:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 21:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 구글·MS 전력 소비량 100개국 합친 수준….빅테크 보안 시장 총공세 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1228</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1228</guid>
+            <pubDate>Tue, 16 Jul 2024 21:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240716_46/1721108321046n2gvR_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 비트코인 휴면 지갑 줄줄이 부활…머스크, 트럼프 전적 지지 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1227</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1227</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1224</guid>
             <pubDate>Tue, 09 Jul 2024 21:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240709_92/1720512625347UyX8L_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 머스크 '뉴럴링크' 맹추격하는 中…지리차 한국 진출 '초읽기' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1219</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1219</guid>
             <pubDate>Mon, 01 Jul 2024 21:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] VC가 꼽은 유망 헬스케어 스타트업…전기 화물 자전거 '퀵홀롱' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1218</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1218</guid>
-            <pubDate>Thu, 27 Jun 2024 21:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
