@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 20:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 21:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 트럼프 오른팔 JD 밴스는 누구?…은행 BaaS 기대·우려 교차 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1230</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1230</guid>
+            <pubDate>Thu, 18 Jul 2024 21:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240718_159/1721282845631cuPhr_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 삼성전자 HBM 엔비디아 퀄테스트 결과 내달 공개…테슬라, 배터리 특허 출원 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1229</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1229</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1226</guid>
             <pubDate>Thu, 11 Jul 2024 21:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240711_85/1720688422048RgtSR_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플 비전 프로로 VR 게임 즐긴다…폴더형·플립형 중 내게 맞는 폴더블폰은? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1221</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1221</guid>
             <pubDate>Wed, 03 Jul 2024 21:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 가상자산 자율규제안 나왔다…삼성 2분기 실적 기대감↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1220</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1220</guid>
-            <pubDate>Tue, 02 Jul 2024 21:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
