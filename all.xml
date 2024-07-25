@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 20:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 21:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 아이폰18에 삼성 카메라 센서 탑재…'티메프' 정산 사태에 흔들리는 구영배 신화 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1234</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1234</guid>
+            <pubDate>Thu, 25 Jul 2024 21:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240725_89/1721893275459fltOA_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 해리스 부통령, 비트코인 지지?…록히드마틴, 2분기 실적↑ (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1233</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1233</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1230</guid>
             <pubDate>Thu, 18 Jul 2024 21:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240718_159/1721282845631cuPhr_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성전자 HBM 엔비디아 퀄테스트 결과 내달 공개…테슬라, 배터리 특허 출원 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1225</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1225</guid>
             <pubDate>Wed, 10 Jul 2024 21:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 中서 안드로이드폰 금지한 MS…유튜브 성공하려면 '닭게'처럼 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1224</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1224</guid>
-            <pubDate>Tue, 09 Jul 2024 21:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
