@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 20:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 21:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 러시아, 암호화폐 결제 합법화?…트럼프 지지 머스크의 속내 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1237</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1237</guid>
+            <pubDate>Wed, 31 Jul 2024 21:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240731_97/1722410743059VxRdL_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] "계단도 거뜬" 서서 타는 '이지바이크 G16'…美·中 AI 기술 경쟁 속 필승법은? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1236</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1236</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1233</guid>
             <pubDate>Wed, 24 Jul 2024 21:10:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240724_138/17217965092759ndJs_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 이더리움 현물 ETF 승인…테슬라 전기차 부진 원인은? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1228</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1228</guid>
             <pubDate>Tue, 16 Jul 2024 21:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 비트코인 휴면 지갑 줄줄이 부활…머스크, 트럼프 전적 지지 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1227</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1227</guid>
-            <pubDate>Mon, 15 Jul 2024 21:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
