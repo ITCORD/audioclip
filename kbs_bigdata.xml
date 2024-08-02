@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1168</id>
-    <title>오디오클립 ─ KBS 빅데이터로 보는 세상</title>
-    <updated>2024-08-02T05:09:44.263Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ KBS 빅데이터로 보는 세상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 02 Aug 2024 06:14:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 키워드 - 뉴스 톱]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1697</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1697</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240604_117/17174679876562Eh0U_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 디지털 성범죄 피해를 막는 빅데이터 기술 !]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1696</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1696</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240604_117/17174679876562Eh0U_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(3)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1694</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1694</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240604_117/17174679876562Eh0U_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(2)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1695</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1695</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240604_117/17174679876562Eh0U_JPEG/R2014-0344-bigdata.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석특집 - 코로나19 시대 빅데이터 창업 설명서(1)]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1693</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1693</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 키워드 - 뉴스 톱]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1692</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1692</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 카카오, 택시 유료호출 폐지]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1691</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1691</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 탑골 예능 !]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1690</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1690</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 코로나 시대의 ‘집콕 추석’]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1689</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1689</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 키워드 - 트렌드란 무엇인가?]]></title>
+            <link>https://audioclip.naver.com/channels/1168/clips/1688</link>
+            <guid>https://audioclip.naver.com/channels/1168/clips/1688</guid>
+            <pubDate>Fri, 02 Aug 2024 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
