@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 20:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 21:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 테슬라, 태양광 설치 업체 '선런'과 협력…14살 최연소 금메달리스트 탄생]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1241</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1241</guid>
+            <pubDate>Wed, 07 Aug 2024 21:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240807_94/1723010667929WkhSC_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프, 美 정부에 비트코인 매각 금지 경고…인텔 '반도체 명가' 옛말?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1240</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1237</guid>
             <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240731_97/1722410743059VxRdL_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] "계단도 거뜬" 서서 타는 '이지바이크 G16'…美·中 AI 기술 경쟁 속 필승법은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1232</guid>
             <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 바이든 사퇴에 엇갈린 희비…EU, 세계 첫 AI 법 시행 임박]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1231</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1231</guid>
-            <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
