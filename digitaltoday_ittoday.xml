@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 20:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 21:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 갈수록 테슬라 안 사는 美 Z세대…암호화폐 ETF 시장, 확장 예고]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1244</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1244</guid>
+            <pubDate>Tue, 13 Aug 2024 21:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240813_105/1723527765792rXSjx_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 ETF 추천 시작…'토큰화 프로젝트' 평가 기준 공개]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1243</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1240</guid>
             <pubDate>Tue, 06 Aug 2024 21:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240806_88/1722925147685CcYhW_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프, 비트코인으로 美 국가 부채 해결 제안…아이폰16 예년보다 일찍 발표]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[[AI아나운서] 샤오미, 전기차 SU7 생산라인 증대…'아이언맨' 로다주, 최강 빌런으로 마블 복귀]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1235</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1235</guid>
-            <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 아이폰18에 삼성 카메라 센서 탑재…'티메프' 정산 사태에 흔들리는 구영배 신화]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1234</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1234</guid>
             <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
