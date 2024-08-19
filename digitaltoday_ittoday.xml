@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 20:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 21:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 美 FDA, 비강 스프레이 '네피' 승인…두바이, 암호화폐로 급여 지급]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1245</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1245</guid>
+            <pubDate>Mon, 19 Aug 2024 21:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240819_113/1724048375281rqCKK_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 갈수록 테슬라 안 사는 美 Z세대…암호화폐 ETF 시장, 확장 예고]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1244</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1241</guid>
             <pubDate>Wed, 07 Aug 2024 21:10:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240807_94/1723010667929WkhSC_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프, 美 정부에 비트코인 매각 금지 경고…인텔 '반도체 명가' 옛말?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1236</guid>
             <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 샤오미, 전기차 SU7 생산라인 증대…'아이언맨' 로다주, 최강 빌런으로 마블 복귀]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1235</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1235</guid>
-            <pubDate>Fri, 02 Aug 2024 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
