@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 20:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 21:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 라이트코인, 비트코인과 뭐가 다른가…아이폰16 선주문, 예상보다 빠르다? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1252</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1252</guid>
+            <pubDate>Thu, 29 Aug 2024 21:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240829_89/1724919594317nDYg5_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 표현의 자유 수호자, 두로프…닛산, '초강력' 전고체 배터리 최초 탑재 예고 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1251</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1251</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1248</guid>
             <pubDate>Thu, 22 Aug 2024 21:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240822_96/17243061751230GhR3_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 테슬라, 상하이 메가팩토리 건설 속도전…TV OS 경쟁 본격화 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1243</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1243</guid>
             <pubDate>Mon, 12 Aug 2024 21:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 美 법원, 리플에 벌금 1700억원 명령…반도체 업계 재생에너지 전환 속도 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1242</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1242</guid>
-            <pubDate>Thu, 08 Aug 2024 21:09:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
