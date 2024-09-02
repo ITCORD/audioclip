@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 20:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 21:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 구글, 결핵 판별 AI 'HeAR' 개발…텔레그램, 재무상태 공개]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1254</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1254</guid>
+            <pubDate>Mon, 02 Sep 2024 21:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240902_199/1725256924839q0B5p_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 라이트코인, 비트코인과 뭐가 다른가…아이폰16 선주문, 예상보다 빠르다?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1252</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1249</guid>
             <pubDate>Mon, 26 Aug 2024 21:08:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240826_260/1724651683692t2s1B_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 미국 반도체법 보조금 마무리…루시드, 테슬라에 도전장]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1244</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1244</guid>
             <pubDate>Tue, 13 Aug 2024 21:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트코인 ETF 추천 시작…'토큰화 프로젝트' 평가 기준 공개]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1243</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1243</guid>
-            <pubDate>Mon, 12 Aug 2024 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
