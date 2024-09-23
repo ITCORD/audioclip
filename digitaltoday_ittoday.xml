@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 20:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 21:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 삼성, 인도에 통신장비 공급…비트코인, 금보다 '4배' 더?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1263</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1263</guid>
+            <pubDate>Mon, 23 Sep 2024 21:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240923_16/1727077316649gBVlW_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 추석 끝나니 10월 국감…iOS 18 업데이트 핵심 기능은?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1262</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1259</guid>
             <pubDate>Tue, 10 Sep 2024 21:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240910_115/1725946413733ISIrB_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 테슬라, 가정용 전기차 충전소 출시...美 비트코인 투자 늘린다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1254</guid>
             <pubDate>Mon, 02 Sep 2024 21:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 라이트코인, 비트코인과 뭐가 다른가…아이폰16 선주문, 예상보다 빠르다?]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1252</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1252</guid>
-            <pubDate>Thu, 29 Aug 2024 21:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
