@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 20:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 21:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 테슬라, 로보택시 초대장 발송…오픈AI 경영진 또 퇴사]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1266</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1266</guid>
+            <pubDate>Thu, 26 Sep 2024 21:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240926_213/17273397397184SS6O_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 中 채굴 대국 위상 '굳건'…아쉬운 2세대 에어팟 맥스]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1265</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1262</guid>
             <pubDate>Thu, 19 Sep 2024 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240919_68/1726725593797bdUbO_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 해리스-트럼프 토론서 보여준 '암호화폐' 현실...AI, 인간 위기 초래]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1257</guid>
             <pubDate>Thu, 05 Sep 2024 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 테슬라, 360도 회전 좌석 채택?…머스크 xAI, AI 학습 시스템 공개]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1256</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1256</guid>
-            <pubDate>Wed, 04 Sep 2024 21:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
