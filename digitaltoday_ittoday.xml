@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 20:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 21:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 올 초 대비 ETH 65%↑…'진땀승' 젠지, T1 만나 '돌돌티젠']]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1275</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1275</guid>
+            <pubDate>Mon, 21 Oct 2024 21:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241021_73/1729499269962DnQPK_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 한화, SK하이닉스에 HBM 장비 납품…빅클라우드, 원전 직접 투자]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1274</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1271</guid>
             <pubDate>Mon, 14 Oct 2024 21:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241014_159/1728886706507JaoUl_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 테슬라 '로보택시' 공개 임박…SEC, 암호화폐 사용 회의적]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1266</guid>
             <pubDate>Thu, 26 Sep 2024 21:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 中 채굴 대국 위상 '굳건'…아쉬운 2세대 에어팟 맥스]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1265</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1265</guid>
-            <pubDate>Wed, 25 Sep 2024 21:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
