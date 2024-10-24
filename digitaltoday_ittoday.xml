@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 20:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 21:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 테슬라, 로보택시 서비스 테스트…iOS 18 챗GPT 추가]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1278</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1278</guid>
+            <pubDate>Thu, 24 Oct 2024 21:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241024_108/1729758511519l0P6R_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플, '다이나믹 아일랜드' 다음 준비 중…모델Y 미국서 할인]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1277</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1274</guid>
             <pubDate>Thu, 17 Oct 2024 21:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241017_177/1729150053372IyVPY_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 테슬라, 비트코인 대량 처분…애플, 신형 아이패드 미니 공개]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1269</guid>
             <pubDate>Mon, 07 Oct 2024 21:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트·이더 ETF 다음 주자는 리플?…게임 업계 e스포츠 시동]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1268</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1268</guid>
-            <pubDate>Thu, 03 Oct 2024 21:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
