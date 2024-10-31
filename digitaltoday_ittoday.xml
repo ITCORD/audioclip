@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 20:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 21:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 애플 '비전프로' 11월 韓 상륙…비트코인, 40% 상승 전망]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1282</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1282</guid>
+            <pubDate>Thu, 31 Oct 2024 21:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241031_62/1730353979945bwRJc_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 드디어 공개된 애플 M4 맥 미니…비트코인 1억원 돌파]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1281</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1278</guid>
             <pubDate>Thu, 24 Oct 2024 21:10:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241024_108/1729758511519l0P6R_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 애플, '다이나믹 아일랜드' 다음 준비 중…모델Y 미국서 할인]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1273</guid>
             <pubDate>Wed, 16 Oct 2024 21:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 밈코인 관심↑…테슬라 '로보버스·로보택시' 상표 등록]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1272</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1272</guid>
-            <pubDate>Tue, 15 Oct 2024 21:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
