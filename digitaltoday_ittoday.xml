@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 20:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 21:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 틱톡 금지법 철회될까…비트코인 14억 돌파 가능?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1288</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1288</guid>
+            <pubDate>Tue, 12 Nov 2024 21:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241112_85/1731390482876CrVqM_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 8만달러 돌파…밈코인도 동반 강세]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1287</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1284</guid>
             <pubDate>Tue, 05 Nov 2024 21:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241105_289/1730787174927lVb9d_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 채굴 금지 실상…흔들리는 올리브영]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1279</guid>
             <pubDate>Mon, 28 Oct 2024 21:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 테슬라, 로보택시 서비스 테스트…iOS 18 챗GPT 추가]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1278</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1278</guid>
-            <pubDate>Thu, 24 Oct 2024 21:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
