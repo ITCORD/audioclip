@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 20:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 21:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 이더리움, 일시적 폭락 가능성…애플, AI 벽걸이 태블릿 개발]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1295</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1295</guid>
+            <pubDate>Mon, 25 Nov 2024 21:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241125_8/1732517455056Uds6V_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 불붙은 도지코인 강세론…스노우플레이크-앤트로픽 LLM 협력]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1294</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1291</guid>
             <pubDate>Mon, 18 Nov 2024 21:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241118_93/1731915443784kSYRf_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] BTC 10만달러 가나…2025년부터 스레드 광고 도입]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1286</guid>
             <pubDate>Thu, 07 Nov 2024 21:09:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 美 유권자 16% 암호화폐 중시…애플 'AI 서버' 생산 요청]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1285</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1285</guid>
-            <pubDate>Wed, 06 Nov 2024 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
