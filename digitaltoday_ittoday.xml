@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 20:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 21:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 비트코인 35% 폭락 가능성…구글 AI '제미나이2.0' 출시]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1307</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1307</guid>
+            <pubDate>Thu, 12 Dec 2024 21:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241212_189/17339860613228yfQb_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] MS 비스코인 투자 주춤...리플 'RLUSD' 최종 승인]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1305</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1302</guid>
             <pubDate>Thu, 05 Dec 2024 21:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241205_167/1733388208044kGOll_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 초유의 '비상계엄' 사태…티빙-웨이브 합병 속도 붙었다]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1297</guid>
             <pubDate>Wed, 27 Nov 2024 21:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 테슬라, 로보택시 원격조작팀 채용…엔비디아 '푸가토' 공개]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1296</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1296</guid>
-            <pubDate>Tue, 26 Nov 2024 21:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
 </rss>
