@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 20:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 21:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 트럼프 취임식에 기부 행렬…비트코인 '산타랠리'는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1312</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1312</guid>
+            <pubDate>Mon, 23 Dec 2024 21:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241223_298/1734933450804r9IFi_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI 아나운서] 바이낸스, 25일 3종목 상폐…테무 韓 침투 가속 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1311</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1311</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1308</guid>
             <pubDate>Mon, 16 Dec 2024 21:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241216_24/1734333026432HwpVm_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인 35% 폭락 가능성…구글 AI '제미나이2.0' 출시 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1302</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1302</guid>
             <pubDate>Thu, 05 Dec 2024 21:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 초유의 '비상계엄' 사태…티빙-웨이브 합병 속도 붙었다 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1301</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1301</guid>
-            <pubDate>Wed, 04 Dec 2024 21:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
