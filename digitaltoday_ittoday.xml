@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 20:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 21:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 리플, SEC 분쟁서 승리…2024년 인기 코인 1위는?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1313</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1313</guid>
+            <pubDate>Thu, 26 Dec 2024 21:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241226_139/1735192555569WrRXt_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프 취임식에 기부 행렬…비트코인 '산타랠리'는?]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1312</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1309</guid>
             <pubDate>Tue, 17 Dec 2024 21:09:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241217_160/1734418364102cmkYh_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 페페코인 700억원 잭팟…내년 韓경제 성장 '먹구름']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1303</guid>
             <pubDate>Mon, 09 Dec 2024 21:11:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 10만달러선 넘긴 비트코인…국내 거래량 '100조원' 돌파]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1302</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1302</guid>
-            <pubDate>Thu, 05 Dec 2024 21:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
