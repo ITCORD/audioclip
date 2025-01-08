@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 20:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 21:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI아나운서] 美 금리 비트코인 미칠 파장…2026년 맥북 역대급 '업글' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1318</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1318</guid>
+            <pubDate>Wed, 08 Jan 2025 21:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250108_297/1736333439301eMAze_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI아나운서] 비트코인 장투가 답…CES 2025 올해 기술 미리보기 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1317</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1317</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1314</guid>
             <pubDate>Mon, 30 Dec 2024 21:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20241230_229/1735540607627upAwp_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 리플, SEC 분쟁서 승리…2024년 인기 코인 1위는? (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1309</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1309</guid>
             <pubDate>Tue, 17 Dec 2024 21:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 페페코인 700억원 잭팟…내년 韓경제 성장 '먹구름' (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1308</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1308</guid>
-            <pubDate>Mon, 16 Dec 2024 21:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
