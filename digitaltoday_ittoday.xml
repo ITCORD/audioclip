@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 20:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 21:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 올해 암호화폐 ETF 최소 12개 추가…美 틱톡 일론 머스크 매각설]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1321</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1321</guid>
+            <pubDate>Tue, 14 Jan 2025 21:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250114_43/1736834927326NoNif_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 리플 60% 급등 전망…美 25% "집 팔아 테슬라 주택살 것"]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1320</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1317</guid>
             <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250107_208/1736239619926U0ikB_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 엔비디아, TSMC 최대 고객 되나…페이커-쵸비, LCK 재회]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1312</guid>
             <pubDate>Mon, 23 Dec 2024 21:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 바이낸스, 25일 3종목 상폐…테무 韓 침투 가속]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1311</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1311</guid>
-            <pubDate>Thu, 19 Dec 2024 21:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
