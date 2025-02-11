@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 20:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 21:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 라이트코인 ETF 승인 가능성 90%…테슬라, 6월부터 로보택시 테스트]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1333</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1333</guid>
+            <pubDate>Tue, 11 Feb 2025 21:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250211_224/1739256387408AdLlk_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 틱톡 협상 감독자에 JD 밴스…커지는 딥시크 포비아]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1332</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1329</guid>
             <pubDate>Tue, 04 Feb 2025 21:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250204_63/1738657303413gBpum_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프 관세 비트코인 폭등 유발…애플, 딥시크 테스트 중]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1324</guid>
             <pubDate>Mon, 20 Jan 2025 21:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 트럼프 취임이 비트코인 촉매제 될까…미국발 '소버린 AI' 확산]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1323</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1323</guid>
-            <pubDate>Thu, 16 Jan 2025 21:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
