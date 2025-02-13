@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 20:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 21:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 비트코인 ETF 수요 폭발…금융권 망분리 개편 가시화 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1335</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1335</guid>
+            <pubDate>Thu, 13 Feb 2025 21:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250213_71/1739429426468JW36y_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI 아나운서] 파월 의장 "암호화폐 디뱅킹 우려"…아이폰 SE4 디자인 유출 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1334</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1334</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1331</guid>
             <pubDate>Thu, 06 Feb 2025 21:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250206_257/1738829646402uWdyD_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 美 국부펀드 설립 추진…구글 AI '제미나이' 광고 붙이나 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1326</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1326</guid>
             <pubDate>Wed, 22 Jan 2025 21:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 트럼프 취임사 암호화폐 언급 없었다…SEC 수장 교체 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1325</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1325</guid>
-            <pubDate>Tue, 21 Jan 2025 21:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
