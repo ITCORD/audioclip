@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 20:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 21:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 제미나이 품는 애플 시리…美 금 보유고 감사한다]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1340</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1340</guid>
+            <pubDate>Mon, 24 Feb 2025 21:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250224_272/1740378266991i7Nea_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 하락장 이어지나…모빌리티 시장 접수하는 中 딥시크]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1338</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1335</guid>
             <pubDate>Thu, 13 Feb 2025 21:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250213_71/1739429426468JW36y_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 파월 의장 "암호화폐 디뱅킹 우려"…아이폰 SE4 디자인 유출]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1330</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1330</guid>
             <pubDate>Wed, 05 Feb 2025 21:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 딥시크, 보안 테스트 결과 충격…애플 2025년 신제품 6가지]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1329</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1329</guid>
-            <pubDate>Tue, 04 Feb 2025 21:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
