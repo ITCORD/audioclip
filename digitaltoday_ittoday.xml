@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 20:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 21:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 트럼프 후광에도 힘 못쓰는 도지코인…갤탭 S10 FE+ 더 커져]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1343</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1343</guid>
+            <pubDate>Thu, 27 Feb 2025 21:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250227_210/1740637439509W8IRk_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 살얼음판 비트코인…애플, 폴더블폰 난제 '주름' 해결]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1342</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1338</guid>
             <pubDate>Wed, 19 Feb 2025 21:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250219_280/1739953214624lVyBj_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 4억원 가나…'얇은 폴더블' 쏟아내는 중국]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1333</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1333</guid>
             <pubDate>Tue, 11 Feb 2025 21:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 틱톡 협상 감독자에 JD 밴스…커지는 딥시크 포비아]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1332</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1332</guid>
-            <pubDate>Mon, 10 Feb 2025 21:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
