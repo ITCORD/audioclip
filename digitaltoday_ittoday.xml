@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 20:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 21:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 에이다 선물 거래량↑…美 크립토 차르, 암호화폐 모두 매각]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1344</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1344</guid>
+            <pubDate>Tue, 04 Mar 2025 21:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250304_39/1741068519183YOHiz_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 트럼프 후광에도 힘 못쓰는 도지코인…갤탭 S10 FE+ 더 커져]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1343</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1340</guid>
             <pubDate>Mon, 24 Feb 2025 21:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250224_272/1740378266991i7Nea_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인 하락장 이어지나…모빌리티 시장 접수하는 中 딥시크]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1334</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1334</guid>
             <pubDate>Wed, 12 Feb 2025 21:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 라이트코인 ETF 승인 가능성 90%…테슬라, 6월부터 로보택시 테스트]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1333</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1333</guid>
-            <pubDate>Tue, 11 Feb 2025 21:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
     </channel>
