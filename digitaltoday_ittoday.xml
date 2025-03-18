@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 20:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 21:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데일리픽] 카나리 캐피털, 수이 ETF도 신청…반도체 실적 시즌 개막]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1352</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1352</guid>
+            <pubDate>Tue, 18 Mar 2025 21:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250318_223/1742278546211YaHY1_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[데일리픽] 트럼프 비트코인 준비금 법률화되나…B2B AI 앱 급성장]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1351</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1348</guid>
             <pubDate>Tue, 11 Mar 2025 21:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250311_180/1741678582702NMnoD_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 美 정부에 비트코인 매입 제안…양자 컴퓨팅 시대 여는 빅테크들]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1343</guid>
             <pubDate>Thu, 27 Feb 2025 21:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 살얼음판 비트코인…애플, 폴더블폰 난제 '주름' 해결]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1342</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1342</guid>
-            <pubDate>Wed, 26 Feb 2025 21:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
