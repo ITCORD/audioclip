@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 20:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 21:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI아나운서] 비트코인, 2분기엔 오르나…애플 iOS 19 스크린샷 유출]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1357</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1357</guid>
+            <pubDate>Wed, 26 Mar 2025 21:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250326_236/1742977357195IBG8A_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 삼성전자 한종희 부회장 별세…테슬라 매출 제친 中 BYD]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1356</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1353</guid>
             <pubDate>Wed, 19 Mar 2025 21:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250319_231/1742364511289lUJF0_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 카나리 캐피털, 수이 ETF도 신청…반도체 실적 시즌 개막]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1348</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1348</guid>
             <pubDate>Tue, 11 Mar 2025 21:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 美 정부에 비트코인 매입 제안…양자 컴퓨팅 시대 여는 빅테크들]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1347</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1347</guid>
-            <pubDate>Mon, 10 Mar 2025 21:10:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
