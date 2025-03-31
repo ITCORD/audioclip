@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 20:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 21:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 알트코인 상장, 밈코인 쳇바퀴 빠진다…애플, AI 코치 헬스앱 개발]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1359</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1359</guid>
+            <pubDate>Mon, 31 Mar 2025 21:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250331_289/1743399971312I7T6R_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인발 글로벌 경제 질서…윈도10 종료 앞두고 AI PC '꿈틀']]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1358</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1355</guid>
             <pubDate>Mon, 24 Mar 2025 21:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250324_102/1742804267366gxT6Y_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 솔라나 ETF, 이더 뛰어넘을 전망…엔비디아, 'AI 추론' 시장 정조준]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1350</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1350</guid>
             <pubDate>Thu, 13 Mar 2025 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 비트코인, 9월까지 최대 10억원…韓 직진출 나선 테무]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1349</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1349</guid>
-            <pubDate>Wed, 12 Mar 2025 21:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
