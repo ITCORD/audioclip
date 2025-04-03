@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 20:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 21:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[AI 아나운서] 가상자산거래소 수십억 상여 '돈잔치'…테슬라 Q1 출하 급감 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1362</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1362</guid>
+            <pubDate>Thu, 03 Apr 2025 21:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250403_36/1743661083826FHIsG_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AI 아나운서] 바이낸스 일부 암호화폐 종목 50% 폭락 왜?…아이폰17 에어 장단점 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1361</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1361</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1358</guid>
             <pubDate>Thu, 27 Mar 2025 21:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250327_115/1743064142364fTnaC_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI아나운서] 비트코인, 2분기엔 오르나…애플 iOS 19 스크린샷 유출 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
@@ -368,13 +375,6 @@
             <link>https://audioclip.naver.com/channels/3508/clips/1353</link>
             <guid>https://audioclip.naver.com/channels/3508/clips/1353</guid>
             <pubDate>Wed, 19 Mar 2025 21:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 카나리 캐피털, 수이 ETF도 신청…반도체 실적 시즌 개막 (오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽)]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1352</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1352</guid>
-            <pubDate>Tue, 18 Mar 2025 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
         <item>
