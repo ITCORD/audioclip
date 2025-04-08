@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 12:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 21:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 이더리움 역대급 '급락'…스테이블코인, 美 패권 유지 도구?]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1364</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1364</guid>
+            <pubDate>Tue, 08 Apr 2025 21:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250408_272/1744093811348XOD41_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 1분기 비트코인 '침체'…DOGE, 美 국세청 데이터 통합 추진]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1363</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1360</guid>
             <pubDate>Tue, 01 Apr 2025 21:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250401_99/1743487742878t5tlF_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 알트코인 상장, 밈코인 쳇바퀴 빠진다…애플, AI 코치 헬스앱 개발]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1355</guid>
             <pubDate>Mon, 24 Mar 2025 21:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI 아나운서] 솔라나 ETF, 이더 뛰어넘을 전망…엔비디아, 'AI 추론' 시장 정조준]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1354</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1354</guid>
-            <pubDate>Thu, 20 Mar 2025 21:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
