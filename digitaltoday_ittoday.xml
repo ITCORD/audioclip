@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 디지털투데이 매일듣는 디지털경제 뉴스 데일리픽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 20:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 21:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI 아나운서] 만트라 토큰 먹튀 논란…美 1분기 전기차 판매 증가]]></title>
+            <link>https://audioclip.naver.com/channels/3508/clips/1367</link>
+            <guid>https://audioclip.naver.com/channels/3508/clips/1367</guid>
+            <pubDate>Mon, 14 Apr 2025 21:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20250414_299/1744617328888qzOVn_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI 아나운서] 비트코인, 혼란 속에도 선방…월드리버티, 이더리움 대량 매각]]></title>
             <link>https://audioclip.naver.com/channels/3508/clips/1366</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1363</guid>
             <pubDate>Mon, 07 Apr 2025 21:11:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20250407_284/1744005479683XBCCq_JPEG/4._%B5%A5%C0%CF%B8%AE%C7%C8_%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AI 아나운서] 가상자산거래소 수십억 상여 '돈잔치'…테슬라 Q1 출하 급감]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3508/clips/1358</guid>
             <pubDate>Thu, 27 Mar 2025 21:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[AI아나운서] 비트코인, 2분기엔 오르나…애플 iOS 19 스크린샷 유출]]></title>
-            <link>https://audioclip.naver.com/channels/3508/clips/1357</link>
-            <guid>https://audioclip.naver.com/channels/3508/clips/1357</guid>
-            <pubDate>Wed, 26 Mar 2025 21:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
